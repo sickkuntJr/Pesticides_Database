@@ -1,0 +1,5512 @@
+[
+    {
+        "cas_number": "56-23-5",
+        "inchi_key": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+        "name": "carbon tetrachloride"
+    },
+    {
+        "cas_number": "67-66-3",
+        "inchi_key": "HEDRZPFGACZZDS-UHFFFAOYSA-N",
+        "name": "chloroform"
+    },
+    {
+        "cas_number": "78-87-5",
+        "inchi_key": "KNKRKFALVUDBJE-UHFFFAOYSA-N",
+        "name": "1,2-dichloropropane"
+    },
+    {
+        "cas_number": "106-93-4",
+        "inchi_key": "PAAZPARNPHGIKF-UHFFFAOYSA-N",
+        "name": "ethylene dibromide"
+    },
+    {
+        "cas_number": "107-06-2",
+        "inchi_key": "WSLDOOZREJYCGB-UHFFFAOYSA-N",
+        "name": "ethylene dichloride"
+    },
+    {
+        "cas_number": "74-83-9",
+        "inchi_key": "GZUXJHMPEANEGY-UHFFFAOYSA-N",
+        "name": "methyl bromide"
+    },
+    {
+        "cas_number": "74-88-4",
+        "inchi_key": "INQOMBQAUSQDDS-UHFFFAOYSA-N",
+        "name": "methyl iodide"
+    },
+    {
+        "cas_number": "71-55-6",
+        "inchi_key": "UOCLXMDMGBRAIB-UHFFFAOYSA-N",
+        "name": "methylchloroform"
+    },
+    {
+        "cas_number": "75-09-2",
+        "inchi_key": "YMWUJEATGCHHMB-UHFFFAOYSA-N",
+        "name": "methylene chloride"
+    },
+    {
+        "cas_number": "79-34-5",
+        "inchi_key": "QPFMBZIOSGYJDE-UHFFFAOYSA-N",
+        "name": "tetrachloroethane"
+    },
+    {
+        "cas_number": "112636-83-6",
+        "inchi_key": "PKTIFYGCWCQRSX-UHFFFAOYSA-N",
+        "name": "dicyclanil"
+    },
+    {
+        "cas_number": "66215-27-8",
+        "inchi_key": "LVQDKIWDGQRHTE-UHFFFAOYSA-N",
+        "name": "cyromazine"
+    },
+    {
+        "cas_number": "103782-08-7",
+        "inchi_key": "MDWNFWDBQGOKNZ-XYUDZHFQSA-N",
+        "name": "allosamidin"
+    },
+    {
+        "cas_number": "91-20-3",
+        "inchi_key": "UFWIBTONFRDIAS-UHFFFAOYSA-N",
+        "name": "naphthalene"
+    },
+    {
+        "cas_number": "65691-00-1",
+        "inchi_key": "JWXZLCFGVKMEEK-UHFFFAOYSA-N",
+        "name": "triarathene"
+    },
+    {
+        "cas_number": "122453-73-0",
+        "inchi_key": "CWFOCCVIPCEQCK-UHFFFAOYSA-N",
+        "name": "chlorfenapyr"
+    },
+    {
+        "cas_number": "14255-88-0",
+        "inchi_key": "ISVQSVPUDBVFFU-UHFFFAOYSA-N",
+        "name": "fenazaflor"
+    },
+    {
+        "cas_number": "201593-84-2",
+        "inchi_key": "YNKFZRGTXAPYFD-UHFFFAOYSA-N",
+        "name": "bistrifluron"
+    },
+    {
+        "cas_number": "57160-47-1",
+        "inchi_key": "YPSCQJTUAKNUNF-UHFFFAOYSA-N",
+        "name": "chlorbenzuron"
+    },
+    {
+        "cas_number": "71422-67-8",
+        "inchi_key": "UISUNVFOGSJSKD-UHFFFAOYSA-N",
+        "name": "chlorfluazuron"
+    },
+    {
+        "cas_number": "35409-97-3",
+        "inchi_key": "BTYQXKURSPAXLT-UHFFFAOYSA-N",
+        "name": "dichlorbenzuron"
+    },
+    {
+        "cas_number": "35367-38-5",
+        "inchi_key": "QQQYTWIFVNKMRW-UHFFFAOYSA-N",
+        "name": "diflubenzuron"
+    },
+    {
+        "cas_number": "113036-88-7",
+        "inchi_key": "PCKNFPQPGUWFHO-UHFFFAOYSA-N",
+        "name": "flucycloxuron"
+    },
+    {
+        "cas_number": "101463-69-8",
+        "inchi_key": "RYLHNOVXKPXDIP-UHFFFAOYSA-N",
+        "name": "flufenoxuron"
+    },
+    {
+        "cas_number": "86479-06-3",
+        "inchi_key": "RGNPBRKPHBKNKX-UHFFFAOYSA-N",
+        "name": "hexaflumuron"
+    },
+    {
+        "cas_number": "103055-07-8",
+        "inchi_key": "PWPJGUXAGUPAHP-UHFFFAOYSA-N",
+        "name": "lufenuron"
+    },
+    {
+        "cas_number": "116714-46-6",
+        "inchi_key": "NJPPVKZQTLUDBO-UHFFFAOYSA-N",
+        "name": "novaluron"
+    },
+    {
+        "cas_number": "121451-02-3",
+        "inchi_key": "YTYGAJLZOJPJGH-UHFFFAOYSA-N",
+        "name": "noviflumuron"
+    },
+    {
+        "cas_number": "35367-31-8",
+        "inchi_key": "JTHMHWAHAKLCKT-UHFFFAOYSA-N",
+        "name": "penfluron"
+    },
+    {
+        "cas_number": "83121-18-0",
+        "inchi_key": "CJDWRQLODFKPEL-UHFFFAOYSA-N",
+        "name": "teflubenzuron"
+    },
+    {
+        "cas_number": "64628-44-0",
+        "inchi_key": "XAIPTRIXGHTTNT-UHFFFAOYSA-N",
+        "name": "triflumuron"
+    },
+    {
+        "cas_number": "77768-58-2",
+        "inchi_key": "VBXLZVRONLPCMO-NBVRZTHBSA-N",
+        "name": "thiapronil"
+    },
+    {
+        "cas_number": "539-86-6",
+        "inchi_key": "JDLKFOPOAOFWQN-UHFFFAOYSA-N",
+        "name": "allicin"
+    },
+    {
+        "cas_number": "11141-17-6",
+        "inchi_key": "FTNJWQUOZFUQQJ-NDAWSKJSSA-N",
+        "name": "azadirachtin"
+    },
+    {
+        "cas_number": "499-75-2",
+        "inchi_key": "RECUKUPTGUEGMW-UHFFFAOYSA-N",
+        "name": "carvacrol"
+    },
+    {
+        "cas_number": "5989-27-5",
+        "inchi_key": "XMGQYMWWDOXHJM-JTQLQIEISA-N",
+        "name": "d-limonene"
+    },
+    {
+        "cas_number": "",
+        "inchi_key": null,
+        "name": "quassia"
+    },
+    {
+        "cas_number": "26342-66-5",
+        "inchi_key": "VUMZHZYKXUYIHM-GLHQSWFFSA-N",
+        "name": "rhodojaponin-III"
+    },
+    {
+        "cas_number": "83-79-4",
+        "inchi_key": "JUVIOZPCNVVQFO-HBGVWJBISA-N",
+        "name": "rotenone"
+    },
+    {
+        "cas_number": "38748-32-2",
+        "inchi_key": "DFBIRQPKNDILPW-CIVMWXNOSA-N",
+        "name": "triptolide"
+    },
+    {
+        "cas_number": "494-52-0",
+        "inchi_key": "MTXSIJUGVMTTMU-JTQLQIEISA-N",
+        "name": "anabasine"
+    },
+    {
+        "cas_number": "62-59-9",
+        "inchi_key": "DBUCFOVFALNEOO-HWBIYQLFSA-N",
+        "name": "cevadine"
+    },
+    {
+        "cas_number": "519-02-8",
+        "inchi_key": "ZSBXGIUJOOQZMP-JLNYLFASSA-N",
+        "name": "matrine"
+    },
+    {
+        "cas_number": "54-11-5",
+        "inchi_key": "SNICXCGAKADSCV-JTQLQIEISA-N",
+        "name": "nicotine"
+    },
+    {
+        "cas_number": "494-97-3",
+        "inchi_key": "MYKUKUCHPMASKF-VIFPVBQESA-N",
+        "name": "nornicotine"
+    },
+    {
+        "cas_number": "16837-52-8",
+        "inchi_key": "XVPBINOPNYFXID-LHDUFFHYSA-N",
+        "name": "oxymatrine"
+    },
+    {
+        "cas_number": "8047-13-0",
+        "inchi_key": null,
+        "name": "ryania"
+    },
+    {
+        "cas_number": "15662-33-6",
+        "inchi_key": "JJSYXNQGLHBRRK-YSOSZROBSA-N",
+        "name": "ryanodine"
+    },
+    {
+        "cas_number": "8051-02-3",
+        "inchi_key": null,
+        "name": "sabadilla"
+    },
+    {
+        "cas_number": "2447-54-3",
+        "inchi_key": "INVGWHRKADIJHF-UHFFFAOYSA-N",
+        "name": "sanguinarine"
+    },
+    {
+        "cas_number": "71-62-5",
+        "inchi_key": "FVECELJHCSPHKY-YFUMOZOISA-N",
+        "name": "veratridine"
+    },
+    {
+        "cas_number": "494-52-0",
+        "inchi_key": "MTXSIJUGVMTTMU-JTQLQIEISA-N",
+        "name": "anabasine"
+    },
+    {
+        "cas_number": "62-59-9",
+        "inchi_key": "DBUCFOVFALNEOO-HWBIYQLFSA-N",
+        "name": "cevadine"
+    },
+    {
+        "cas_number": "519-02-8",
+        "inchi_key": "ZSBXGIUJOOQZMP-JLNYLFASSA-N",
+        "name": "matrine"
+    },
+    {
+        "cas_number": "54-11-5",
+        "inchi_key": "SNICXCGAKADSCV-JTQLQIEISA-N",
+        "name": "nicotine"
+    },
+    {
+        "cas_number": "494-97-3",
+        "inchi_key": "MYKUKUCHPMASKF-VIFPVBQESA-N",
+        "name": "nornicotine"
+    },
+    {
+        "cas_number": "16837-52-8",
+        "inchi_key": "XVPBINOPNYFXID-LHDUFFHYSA-N",
+        "name": "oxymatrine"
+    },
+    {
+        "cas_number": "8047-13-0",
+        "inchi_key": null,
+        "name": "ryania"
+    },
+    {
+        "cas_number": "15662-33-6",
+        "inchi_key": "JJSYXNQGLHBRRK-YSOSZROBSA-N",
+        "name": "ryanodine"
+    },
+    {
+        "cas_number": "8051-02-3",
+        "inchi_key": null,
+        "name": "sabadilla"
+    },
+    {
+        "cas_number": "2447-54-3",
+        "inchi_key": "INVGWHRKADIJHF-UHFFFAOYSA-N",
+        "name": "sanguinarine"
+    },
+    {
+        "cas_number": "71-62-5",
+        "inchi_key": "FVECELJHCSPHKY-YFUMOZOISA-N",
+        "name": "veratridine"
+    },
+    {
+        "cas_number": "22781-23-3",
+        "inchi_key": "XEGGRYVFLWGFHI-UHFFFAOYSA-N",
+        "name": "bendiocarb"
+    },
+    {
+        "cas_number": "82560-54-1",
+        "inchi_key": "FYZBOYWSHKHDMT-UHFFFAOYSA-N",
+        "name": "benfuracarb"
+    },
+    {
+        "cas_number": "1563-66-2",
+        "inchi_key": "DUEPRVBVGDRKAG-UHFFFAOYSA-N",
+        "name": "carbofuran"
+    },
+    {
+        "cas_number": "55285-14-8",
+        "inchi_key": "JLQUFIHWVLZVTJ-UHFFFAOYSA-N",
+        "name": "carbosulfan"
+    },
+    {
+        "cas_number": "63-25-2",
+        "inchi_key": "CVXBEEMKQHEXEN-UHFFFAOYSA-N",
+        "name": "carbaryl"
+    },
+    {
+        "cas_number": "1563-67-3",
+        "inchi_key": "JTBBRGSSVACAJM-UHFFFAOYSA-N",
+        "name": "decarbofuran"
+    },
+    {
+        "cas_number": "22259-30-9",
+        "inchi_key": "RMFNNCGOSPBBAD-UHFFFAOYSA-N",
+        "name": "formetanate"
+    },
+    {
+        "cas_number": "17702-57-7",
+        "inchi_key": "NPCUJHYOBSHUJJ-UHFFFAOYSA-N",
+        "name": "formparanate"
+    },
+    {
+        "cas_number": "65907-30-4",
+        "inchi_key": "HAWJXYBZNNRMNO-UHFFFAOYSA-N",
+        "name": "furathiocarb"
+    },
+    {
+        "cas_number": "122-15-6",
+        "inchi_key": "ITEQSCBLCCNACE-UHFFFAOYSA-N",
+        "name": "dimetan"
+    },
+    {
+        "cas_number": "644-64-4",
+        "inchi_key": "RDBIYWSVMRVKSG-UHFFFAOYSA-N",
+        "name": "dimetilan"
+    },
+    {
+        "cas_number": "56716-21-3",
+        "inchi_key": "UGDSMVBQVGFJGW-UHFFFAOYSA-N",
+        "name": "hyquincarb"
+    },
+    {
+        "cas_number": "119-38-0",
+        "inchi_key": "RNNBHZYEKNHLKT-UHFFFAOYSA-N",
+        "name": "isolan"
+    },
+    {
+        "cas_number": "23103-98-2",
+        "inchi_key": "YFGYUFNIOHWBOB-UHFFFAOYSA-N",
+        "name": "pirimicarb"
+    },
+    {
+        "cas_number": "2532-49-2",
+        "inchi_key": "HRLNKILMCKNVPD-UHFFFAOYSA-N",
+        "name": "pyramat"
+    },
+    {
+        "cas_number": "87-47-8",
+        "inchi_key": "GEDIWDLJKRKBFT-UHFFFAOYSA-N",
+        "name": "pyrolan"
+    },
+    {
+        "cas_number": "83130-01-2",
+        "inchi_key": "GMAUQNJOSOMMHI-JXAWBTAJSA-N",
+        "name": "alanycarb"
+    },
+    {
+        "cas_number": "116-06-3",
+        "inchi_key": "QGLZXHRNAYXIBU-UHFFFAOYSA-N",
+        "name": "aldicarb"
+    },
+    {
+        "cas_number": "1646-88-4",
+        "inchi_key": "YRRKLBAKDXSTNC-UHFFFAOYSA-N",
+        "name": "aldoxycarb"
+    },
+    {
+        "cas_number": "34681-10-2",
+        "inchi_key": "SFNPDDSJBGRXLW-UHFFFAOYSA-N",
+        "name": "butocarboxim"
+    },
+    {
+        "cas_number": "34681-23-7",
+        "inchi_key": "CTJBHIROCMPUKL-UHFFFAOYSA-N",
+        "name": "butoxycarboxim"
+    },
+    {
+        "cas_number": "16752-77-5",
+        "inchi_key": "UHXUZOCRWCRNSJ-UHFFFAOYSA-N",
+        "name": "methomyl"
+    },
+    {
+        "cas_number": "29672-19-3",
+        "inchi_key": "FWISWWONCDDGEX-UHFFFAOYSA-N",
+        "name": "nitrilacarb"
+    },
+    {
+        "cas_number": "23135-22-0",
+        "inchi_key": "KZAUOCCYDRDERY-UHFFFAOYSA-N",
+        "name": "oxamyl"
+    },
+    {
+        "cas_number": "40085-57-2",
+        "inchi_key": "NPYQHCFKDKPILU-UHFFFAOYSA-N",
+        "name": "tazimcarb"
+    },
+    {
+        "cas_number": "25171-63-5",
+        "inchi_key": "IWRFWZPCCDGEFJ-UHFFFAOYSA-N",
+        "name": "thiocarboxime"
+    },
+    {
+        "cas_number": "59669-26-0",
+        "inchi_key": "XDOTVMNBCQVZKG-UHFFFAOYSA-N",
+        "name": "thiodicarb"
+    },
+    {
+        "cas_number": "39196-18-4",
+        "inchi_key": "FZSVSABTBYGOQH-UHFFFAOYSA-N",
+        "name": "thiofanox"
+    },
+    {
+        "cas_number": "6392-46-7",
+        "inchi_key": "FBEHFRAORPEGFH-UHFFFAOYSA-N",
+        "name": "allyxycarb"
+    },
+    {
+        "cas_number": "2032-59-9",
+        "inchi_key": "IMIDOCRTMDIQIJ-UHFFFAOYSA-N",
+        "name": "aminocarb"
+    },
+    {
+        "cas_number": "8065-36-9",
+        "inchi_key": "3-(1-ethylpropyl)phenyl methylcarbamate:SMSFWBAOKCZZBF-UHFFFAOYSA-N3-(1-methylbutyl)phenyl methylcarbamate:LHTOXQCYXYXXEZ-UHFFFAOYSA-N",
+        "name": "bufencarb"
+    },
+    {
+        "cas_number": "2655-19-8",
+        "inchi_key": "SLZWBCGZQRRUNG-UHFFFAOYSA-N",
+        "name": "butacarb"
+    },
+    {
+        "cas_number": "671-04-5",
+        "inchi_key": "QRTXZGIQTYDABO-UHFFFAOYSA-N",
+        "name": "carbanolate"
+    },
+    {
+        "cas_number": "51487-69-5",
+        "inchi_key": "PITWUHDDNUVBPT-UHFFFAOYSA-N",
+        "name": "cloethocarb"
+    },
+    {
+        "cas_number": "3942-54-9",
+        "inchi_key": "ZAGNMMRDHSEOPE-UHFFFAOYSA-N",
+        "name": "CPMC"
+    },
+    {
+        "cas_number": "58481-70-2",
+        "inchi_key": "o-cresyl methylcarbamate:JDIMVGGWYBWUIS-UHFFFAOYSA-Nm-cresyl methylcarbamate:VOEYXMAFNDNNED-UHFFFAOYSA-Np-cresyl methylcarbamate:ZHXCDUWUCWUEPJ-UHFFFAOYSA-N",
+        "name": "dicresyl"
+    },
+    {
+        "cas_number": "",
+        "inchi_key": "",
+        "name": "dimethacarb"
+    },
+    {
+        "cas_number": "6988-21-2",
+        "inchi_key": "SDKQRNRRDYRQKY-UHFFFAOYSA-N",
+        "name": "dioxacarb"
+    },
+    {
+        "cas_number": "18809-57-9",
+        "inchi_key": "OZJCQBUSEOVJOW-UHFFFAOYSA-N",
+        "name": "EMPC"
+    },
+    {
+        "cas_number": "29973-13-5",
+        "inchi_key": "HEZNVIYQEUHLNI-UHFFFAOYSA-N",
+        "name": "ethiofencarb"
+    },
+    {
+        "cas_number": "30087-47-9",
+        "inchi_key": "HUNDISMVCBSIKO-UHFFFAOYSA-N",
+        "name": "fenethacarb"
+    },
+    {
+        "cas_number": "3766-81-2",
+        "inchi_key": "DIRFUJHNVNOBMY-UHFFFAOYSA-N",
+        "name": "fenobucarb"
+    },
+    {
+        "cas_number": "2631-40-5",
+        "inchi_key": "QBSJMKIUCUGGNG-UHFFFAOYSA-N",
+        "name": "isoprocarb"
+    },
+    {
+        "cas_number": "2032-65-7",
+        "inchi_key": "YFBPRJGDJKVWAH-UHFFFAOYSA-N",
+        "name": "methiocarb"
+    },
+    {
+        "cas_number": "1129-41-5",
+        "inchi_key": "VOEYXMAFNDNNED-UHFFFAOYSA-N",
+        "name": "metolcarb"
+    },
+    {
+        "cas_number": "315-18-4",
+        "inchi_key": "YNEVBPNZHBAYOA-UHFFFAOYSA-N",
+        "name": "mexacarbate"
+    },
+    {
+        "cas_number": "34264-24-9",
+        "inchi_key": "DXEMHWAAAJAXBG-UHFFFAOYSA-N",
+        "name": "promacyl"
+    },
+    {
+        "cas_number": "2631-37-0",
+        "inchi_key": "DTAPQAJKAFRNJB-UHFFFAOYSA-N",
+        "name": "promecarb"
+    },
+    {
+        "cas_number": "114-26-1",
+        "inchi_key": "ISRUGXGCCGIOQO-UHFFFAOYSA-N",
+        "name": "propoxur"
+    },
+    {
+        "cas_number": "12407-86-2",
+        "inchi_key": "2,3,5-trimethylphenyl methylcarbamate:NYOKZHDTNBDPOB-UHFFFAOYSA-N3,4,5-trimethylphenyl methylcarbamate:AUQAUAIUNJIIEP-UHFFFAOYSA-Nidentifier for mixture (not valid):CNBWXTCSMFEZDM-UHFFFAOYSA-N",
+        "name": "trimethacarb"
+    },
+    {
+        "cas_number": "2655-14-3",
+        "inchi_key": "CVQODEWAPZVVBU-UHFFFAOYSA-N",
+        "name": "XMC"
+    },
+    {
+        "cas_number": "2425-10-7",
+        "inchi_key": "WCJYTPVNMWIZCG-UHFFFAOYSA-N",
+        "name": "xylylcarb"
+    },
+    {
+        "cas_number": "122-15-6",
+        "inchi_key": "ITEQSCBLCCNACE-UHFFFAOYSA-N",
+        "name": "dimetan"
+    },
+    {
+        "cas_number": "644-64-4",
+        "inchi_key": "RDBIYWSVMRVKSG-UHFFFAOYSA-N",
+        "name": "dimetilan"
+    },
+    {
+        "cas_number": "56716-21-3",
+        "inchi_key": "UGDSMVBQVGFJGW-UHFFFAOYSA-N",
+        "name": "hyquincarb"
+    },
+    {
+        "cas_number": "119-38-0",
+        "inchi_key": "RNNBHZYEKNHLKT-UHFFFAOYSA-N",
+        "name": "isolan"
+    },
+    {
+        "cas_number": "23103-98-2",
+        "inchi_key": "YFGYUFNIOHWBOB-UHFFFAOYSA-N",
+        "name": "pirimicarb"
+    },
+    {
+        "cas_number": "2532-49-2",
+        "inchi_key": "HRLNKILMCKNVPD-UHFFFAOYSA-N",
+        "name": "pyramat"
+    },
+    {
+        "cas_number": "87-47-8",
+        "inchi_key": "GEDIWDLJKRKBFT-UHFFFAOYSA-N",
+        "name": "pyrolan"
+    },
+    {
+        "cas_number": "83130-01-2",
+        "inchi_key": "GMAUQNJOSOMMHI-JXAWBTAJSA-N",
+        "name": "alanycarb"
+    },
+    {
+        "cas_number": "116-06-3",
+        "inchi_key": "QGLZXHRNAYXIBU-UHFFFAOYSA-N",
+        "name": "aldicarb"
+    },
+    {
+        "cas_number": "1646-88-4",
+        "inchi_key": "YRRKLBAKDXSTNC-UHFFFAOYSA-N",
+        "name": "aldoxycarb"
+    },
+    {
+        "cas_number": "34681-10-2",
+        "inchi_key": "SFNPDDSJBGRXLW-UHFFFAOYSA-N",
+        "name": "butocarboxim"
+    },
+    {
+        "cas_number": "34681-23-7",
+        "inchi_key": "CTJBHIROCMPUKL-UHFFFAOYSA-N",
+        "name": "butoxycarboxim"
+    },
+    {
+        "cas_number": "16752-77-5",
+        "inchi_key": "UHXUZOCRWCRNSJ-UHFFFAOYSA-N",
+        "name": "methomyl"
+    },
+    {
+        "cas_number": "29672-19-3",
+        "inchi_key": "FWISWWONCDDGEX-UHFFFAOYSA-N",
+        "name": "nitrilacarb"
+    },
+    {
+        "cas_number": "23135-22-0",
+        "inchi_key": "KZAUOCCYDRDERY-UHFFFAOYSA-N",
+        "name": "oxamyl"
+    },
+    {
+        "cas_number": "40085-57-2",
+        "inchi_key": "NPYQHCFKDKPILU-UHFFFAOYSA-N",
+        "name": "tazimcarb"
+    },
+    {
+        "cas_number": "25171-63-5",
+        "inchi_key": "IWRFWZPCCDGEFJ-UHFFFAOYSA-N",
+        "name": "thiocarboxime"
+    },
+    {
+        "cas_number": "59669-26-0",
+        "inchi_key": "XDOTVMNBCQVZKG-UHFFFAOYSA-N",
+        "name": "thiodicarb"
+    },
+    {
+        "cas_number": "39196-18-4",
+        "inchi_key": "FZSVSABTBYGOQH-UHFFFAOYSA-N",
+        "name": "thiofanox"
+    },
+    {
+        "cas_number": "6392-46-7",
+        "inchi_key": "FBEHFRAORPEGFH-UHFFFAOYSA-N",
+        "name": "allyxycarb"
+    },
+    {
+        "cas_number": "2032-59-9",
+        "inchi_key": "IMIDOCRTMDIQIJ-UHFFFAOYSA-N",
+        "name": "aminocarb"
+    },
+    {
+        "cas_number": "8065-36-9",
+        "inchi_key": "3-(1-ethylpropyl)phenyl methylcarbamate:SMSFWBAOKCZZBF-UHFFFAOYSA-N3-(1-methylbutyl)phenyl methylcarbamate:LHTOXQCYXYXXEZ-UHFFFAOYSA-N",
+        "name": "bufencarb"
+    },
+    {
+        "cas_number": "2655-19-8",
+        "inchi_key": "SLZWBCGZQRRUNG-UHFFFAOYSA-N",
+        "name": "butacarb"
+    },
+    {
+        "cas_number": "671-04-5",
+        "inchi_key": "QRTXZGIQTYDABO-UHFFFAOYSA-N",
+        "name": "carbanolate"
+    },
+    {
+        "cas_number": "51487-69-5",
+        "inchi_key": "PITWUHDDNUVBPT-UHFFFAOYSA-N",
+        "name": "cloethocarb"
+    },
+    {
+        "cas_number": "3942-54-9",
+        "inchi_key": "ZAGNMMRDHSEOPE-UHFFFAOYSA-N",
+        "name": "CPMC"
+    },
+    {
+        "cas_number": "58481-70-2",
+        "inchi_key": "o-cresyl methylcarbamate:JDIMVGGWYBWUIS-UHFFFAOYSA-Nm-cresyl methylcarbamate:VOEYXMAFNDNNED-UHFFFAOYSA-Np-cresyl methylcarbamate:ZHXCDUWUCWUEPJ-UHFFFAOYSA-N",
+        "name": "dicresyl"
+    },
+    {
+        "cas_number": "",
+        "inchi_key": "",
+        "name": "dimethacarb"
+    },
+    {
+        "cas_number": "6988-21-2",
+        "inchi_key": "SDKQRNRRDYRQKY-UHFFFAOYSA-N",
+        "name": "dioxacarb"
+    },
+    {
+        "cas_number": "18809-57-9",
+        "inchi_key": "OZJCQBUSEOVJOW-UHFFFAOYSA-N",
+        "name": "EMPC"
+    },
+    {
+        "cas_number": "29973-13-5",
+        "inchi_key": "HEZNVIYQEUHLNI-UHFFFAOYSA-N",
+        "name": "ethiofencarb"
+    },
+    {
+        "cas_number": "30087-47-9",
+        "inchi_key": "HUNDISMVCBSIKO-UHFFFAOYSA-N",
+        "name": "fenethacarb"
+    },
+    {
+        "cas_number": "3766-81-2",
+        "inchi_key": "DIRFUJHNVNOBMY-UHFFFAOYSA-N",
+        "name": "fenobucarb"
+    },
+    {
+        "cas_number": "2631-40-5",
+        "inchi_key": "QBSJMKIUCUGGNG-UHFFFAOYSA-N",
+        "name": "isoprocarb"
+    },
+    {
+        "cas_number": "2032-65-7",
+        "inchi_key": "YFBPRJGDJKVWAH-UHFFFAOYSA-N",
+        "name": "methiocarb"
+    },
+    {
+        "cas_number": "1129-41-5",
+        "inchi_key": "VOEYXMAFNDNNED-UHFFFAOYSA-N",
+        "name": "metolcarb"
+    },
+    {
+        "cas_number": "315-18-4",
+        "inchi_key": "YNEVBPNZHBAYOA-UHFFFAOYSA-N",
+        "name": "mexacarbate"
+    },
+    {
+        "cas_number": "34264-24-9",
+        "inchi_key": "DXEMHWAAAJAXBG-UHFFFAOYSA-N",
+        "name": "promacyl"
+    },
+    {
+        "cas_number": "2631-37-0",
+        "inchi_key": "DTAPQAJKAFRNJB-UHFFFAOYSA-N",
+        "name": "promecarb"
+    },
+    {
+        "cas_number": "114-26-1",
+        "inchi_key": "ISRUGXGCCGIOQO-UHFFFAOYSA-N",
+        "name": "propoxur"
+    },
+    {
+        "cas_number": "12407-86-2",
+        "inchi_key": "2,3,5-trimethylphenyl methylcarbamate:NYOKZHDTNBDPOB-UHFFFAOYSA-N3,4,5-trimethylphenyl methylcarbamate:AUQAUAIUNJIIEP-UHFFFAOYSA-Nidentifier for mixture (not valid):CNBWXTCSMFEZDM-UHFFFAOYSA-N",
+        "name": "trimethacarb"
+    },
+    {
+        "cas_number": "2655-14-3",
+        "inchi_key": "CVQODEWAPZVVBU-UHFFFAOYSA-N",
+        "name": "XMC"
+    },
+    {
+        "cas_number": "2425-10-7",
+        "inchi_key": "WCJYTPVNMWIZCG-UHFFFAOYSA-N",
+        "name": "xylylcarb"
+    },
+    {
+        "cas_number": "143807-66-3",
+        "inchi_key": "HPNSNYBUADCFDR-UHFFFAOYSA-N",
+        "name": "chromafenozide"
+    },
+    {
+        "cas_number": "467427-80-1",
+        "inchi_key": "TUCSJFNYZJYLHE-UHFFFAOYSA-N",
+        "name": "furan tebufenozide"
+    },
+    {
+        "cas_number": "112226-61-6",
+        "inchi_key": "CNKHSLKYRMDDNQ-UHFFFAOYSA-N",
+        "name": "halofenozide"
+    },
+    {
+        "cas_number": "161050-58-4",
+        "inchi_key": "QCAWEPFNJXQPAN-UHFFFAOYSA-N",
+        "name": "methoxyfenozide"
+    },
+    {
+        "cas_number": "112410-23-8",
+        "inchi_key": "QYPNKSZPJQQLRK-UHFFFAOYSA-N",
+        "name": "tebufenozide"
+    },
+    {
+        "cas_number": "112225-87-3",
+        "inchi_key": "NISLLQUWIJASOV-UHFFFAOYSA-N",
+        "name": "yishijing"
+    },
+    {
+        "cas_number": "500008-45-7",
+        "inchi_key": "PSOVNZZNOMJUBI-UHFFFAOYSA-N",
+        "name": "chlorantraniliprole"
+    },
+    {
+        "cas_number": "736994-63-1",
+        "inchi_key": "DVBUIBGJRQBEDP-UHFFFAOYSA-N",
+        "name": "cyantraniliprole"
+    },
+    {
+        "cas_number": "1262605-53-7",
+        "inchi_key": "NNRSYETYEADPBW-UHFFFAOYSA-N",
+        "name": "cyhalodiamide"
+    },
+    {
+        "cas_number": "1031756-98-5",
+        "inchi_key": "RAMUASXTSSXCMB-UHFFFAOYSA-N",
+        "name": "cyclaniliprole"
+    },
+    {
+        "cas_number": "272451-65-7",
+        "inchi_key": "ZGNITFSDLCMLGI-UHFFFAOYSA-N",
+        "name": "flubendiamide"
+    },
+    {
+        "cas_number": "2129147-03-9",
+        "inchi_key": "RIKRAZXJZVPXNZ-UHFFFAOYSA-N",
+        "name": "fluchlordiniliprole"
+    },
+    {
+        "cas_number": "2368920-61-8",
+        "inchi_key": "HHQJTWVMZLKJIY-UHFFFAOYSA-N",
+        "name": "pioxaniliprole"
+    },
+    {
+        "cas_number": "1104384-14-6",
+        "inchi_key": "ONILAONOGQYBHW-UHFFFAOYSA-N",
+        "name": "tetrachlorantraniliprole"
+    },
+    {
+        "cas_number": "1229654-66-3",
+        "inchi_key": "KNDVJPKNBVIKML-UHFFFAOYSA-N",
+        "name": "tetraniliprole"
+    },
+    {
+        "cas_number": "1442448-92-1",
+        "inchi_key": "IEFALYLJMGPZJY-UHFFFAOYSA-N",
+        "name": "tiorantraniliprole"
+    },
+    {
+        "cas_number": "131-89-5",
+        "inchi_key": "QJYHUJAGJUHXJN-UHFFFAOYSA-N",
+        "name": "dinex"
+    },
+    {
+        "cas_number": "7257-41-2",
+        "inchi_key": "SOPHXJOERHTMIL-UHFFFAOYSA-N",
+        "name": "dinoprop"
+    },
+    {
+        "cas_number": "4097-36-3",
+        "inchi_key": "PSOZMUMWCXLRKX-UHFFFAOYSA-N",
+        "name": "dinosam"
+    },
+    {
+        "cas_number": "534-52-1",
+        "inchi_key": "ZXVONLUNISGICL-UHFFFAOYSA-N",
+        "name": "DNOC"
+    },
+    {
+        "cas_number": "50512-35-1",
+        "inchi_key": "UFHLMYOGRXOCSL-UHFFFAOYSA-N",
+        "name": "isoprothiolane"
+    },
+    {
+        "cas_number": "33089-61-1",
+        "inchi_key": "QXAITBQSYVNQDR-UHFFFAOYSA-N",
+        "name": "amitraz"
+    },
+    {
+        "cas_number": "6164-98-3",
+        "inchi_key": "STUSTWKEFDQFFZ-UHFFFAOYSA-N",
+        "name": "chlordimeform"
+    },
+    {
+        "cas_number": "69618-84-4",
+        "inchi_key": "QGIQXBSZVXYNQA-UHFFFAOYSA-N",
+        "name": "medimeform"
+    },
+    {
+        "cas_number": "33089-74-6",
+        "inchi_key": "JIIOLEGNERQDIP-UHFFFAOYSA-N",
+        "name": "semiamitraz"
+    },
+    {
+        "cas_number": "107-13-1",
+        "inchi_key": "NLHHRLWOUZZQLW-UHFFFAOYSA-N",
+        "name": "acrylonitrile"
+    },
+    {
+        "cas_number": "57-06-7",
+        "inchi_key": "ZOJBYZNEUISWFT-UHFFFAOYSA-N",
+        "name": "allyl isothiocyanate"
+    },
+    {
+        "cas_number": "592-01-8",
+        "inchi_key": "ZQULWKDLLXZZSP-UHFFFAOYSA-N",
+        "name": "calcium cyanide"
+    },
+    {
+        "cas_number": "75-15-0",
+        "inchi_key": "QGJOPFRUJISHPQ-UHFFFAOYSA-N",
+        "name": "carbon disulfide"
+    },
+    {
+        "cas_number": "56-23-5",
+        "inchi_key": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+        "name": "carbon tetrachloride"
+    },
+    {
+        "cas_number": "463-58-1",
+        "inchi_key": "JJWKPURADFRFRB-UHFFFAOYSA-N",
+        "name": "carbonyl sulfide"
+    },
+    {
+        "cas_number": "67-66-3",
+        "inchi_key": "HEDRZPFGACZZDS-UHFFFAOYSA-N",
+        "name": "chloroform"
+    },
+    {
+        "cas_number": "76-06-2",
+        "inchi_key": "LFHISGNCFUNFFM-UHFFFAOYSA-N",
+        "name": "chloropicrin"
+    },
+    {
+        "cas_number": "460-19-5",
+        "inchi_key": "JMANVNJQNLATNU-UHFFFAOYSA-N",
+        "name": "cyanogen"
+    },
+    {
+        "cas_number": "78-87-5",
+        "inchi_key": "KNKRKFALVUDBJE-UHFFFAOYSA-N",
+        "name": "1,2-dichloropropane"
+    },
+    {
+        "cas_number": "624-92-0",
+        "inchi_key": "WQOXQRCZOLPYPM-UHFFFAOYSA-N",
+        "name": "dimethyl disulfide"
+    },
+    {
+        "cas_number": "109-94-4",
+        "inchi_key": "WBJINCZRORDGAQ-UHFFFAOYSA-N",
+        "name": "ethyl formate"
+    },
+    {
+        "cas_number": "106-93-4",
+        "inchi_key": "PAAZPARNPHGIKF-UHFFFAOYSA-N",
+        "name": "ethylene dibromide"
+    },
+    {
+        "cas_number": "107-06-2",
+        "inchi_key": "WSLDOOZREJYCGB-UHFFFAOYSA-N",
+        "name": "ethylene dichloride"
+    },
+    {
+        "cas_number": "75-21-8",
+        "inchi_key": "IAYPIBMASNFSPL-UHFFFAOYSA-N",
+        "name": "ethylene oxide"
+    },
+    {
+        "cas_number": "74-90-8",
+        "inchi_key": "LELOWRISYMNNSU-UHFFFAOYSA-N",
+        "name": "hydrogen cyanide"
+    },
+    {
+        "cas_number": "74-83-9",
+        "inchi_key": "GZUXJHMPEANEGY-UHFFFAOYSA-N",
+        "name": "methyl bromide"
+    },
+    {
+        "cas_number": "74-88-4",
+        "inchi_key": "INQOMBQAUSQDDS-UHFFFAOYSA-N",
+        "name": "methyl iodide"
+    },
+    {
+        "cas_number": "556-61-6",
+        "inchi_key": "LGDSHSYDSCRFAB-UHFFFAOYSA-N",
+        "name": "methyl isothiocyanate"
+    },
+    {
+        "cas_number": "71-55-6",
+        "inchi_key": "UOCLXMDMGBRAIB-UHFFFAOYSA-N",
+        "name": "methylchloroform"
+    },
+    {
+        "cas_number": "75-09-2",
+        "inchi_key": "YMWUJEATGCHHMB-UHFFFAOYSA-N",
+        "name": "methylene chloride"
+    },
+    {
+        "cas_number": "7803-51-2",
+        "inchi_key": "XYFCBTPGUUZFHI-UHFFFAOYSA-N",
+        "name": "phosphine"
+    },
+    {
+        "cas_number": "143-33-9",
+        "inchi_key": "MNWBNISUBARLIT-UHFFFAOYSA-N",
+        "name": "sodium cyanide"
+    },
+    {
+        "cas_number": "2699-79-8",
+        "inchi_key": "OBTWBSRJZRCYQV-UHFFFAOYSA-N",
+        "name": "sulfuryl fluoride"
+    },
+    {
+        "cas_number": "79-34-5",
+        "inchi_key": "QPFMBZIOSGYJDE-UHFFFAOYSA-N",
+        "name": "tetrachloroethane"
+    },
+    {
+        "cas_number": "1303-96-4",
+        "inchi_key": "CDMADVZSLOHIFP-UHFFFAOYSA-N",
+        "name": "borax"
+    },
+    {
+        "cas_number": "10043-35-3",
+        "inchi_key": "KGBXLFKZBHKPEV-UHFFFAOYSA-N",
+        "name": "boric acid"
+    },
+    {
+        "cas_number": "1344-81-6",
+        "inchi_key": null,
+        "name": "calcium polysulfide"
+    },
+    {
+        "cas_number": "1338-02-9",
+        "inchi_key": null,
+        "name": "copper naphthenate"
+    },
+    {
+        "cas_number": "1120-44-1",
+        "inchi_key": "SVOAENZIOKPANY-CVBJKYQLSA-L",
+        "name": "copper oleate"
+    },
+    {
+        "cas_number": "61790-53-2",
+        "inchi_key": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "name": "diatomaceous earth"
+    },
+    {
+        "cas_number": "7546-30-7",
+        "inchi_key": "ZOMNIUBKTOKEHS-UHFFFAOYSA-L",
+        "name": "mercurous chloride"
+    },
+    {
+        "cas_number": "333-20-0",
+        "inchi_key": "ZNNZYHKDIALBAK-UHFFFAOYSA-M",
+        "name": "potassium thiocyanate"
+    },
+    {
+        "cas_number": "7631-86-9",
+        "inchi_key": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "name": "silica gel"
+    },
+    {
+        "cas_number": "540-72-7",
+        "inchi_key": "VGTPCRGMBIAPIM-UHFFFAOYSA-M",
+        "name": "sodium thiocyanate"
+    },
+    {
+        "cas_number": "7778-44-1",
+        "inchi_key": "RMBBSOLAGVEUSI-UHFFFAOYSA-H",
+        "name": "calcium arsenate"
+    },
+    {
+        "cas_number": "7778-41-8",
+        "inchi_key": "RKYSWCFUYJGIQA-UHFFFAOYSA-H",
+        "name": "copper arsenate"
+    },
+    {
+        "cas_number": "7784-40-9",
+        "inchi_key": "GDGMAFUMUYGVFK-UHFFFAOYSA-L",
+        "name": "lead arsenate"
+    },
+    {
+        "cas_number": "12002-03-8",
+        "inchi_key": "BNKLJOYAQLEMKB-UHFFFAOYSA-J",
+        "name": "Paris green"
+    },
+    {
+        "cas_number": "10124-50-2",
+        "inchi_key": "HEQWEGCSZXMIJQ-UHFFFAOYSA-M",
+        "name": "potassium arsenite"
+    },
+    {
+        "cas_number": "7784-46-5",
+        "inchi_key": "PTLRDCMBXHILCL-UHFFFAOYSA-M",
+        "name": "sodium arsenite"
+    },
+    {
+        "cas_number": "17125-80-3",
+        "inchi_key": "RRLMRHFZRPYSNK-UHFFFAOYSA-N",
+        "name": "barium hexafluorosilicate"
+    },
+    {
+        "cas_number": null,
+        "inchi_key": "REHXRBDMVPYGJX-UHFFFAOYSA-H",
+        "name": "cryolite"
+    },
+    {
+        "cas_number": "7681-49-4",
+        "inchi_key": "PUZPDOWCWNUUKD-UHFFFAOYSA-M",
+        "name": "sodium fluoride"
+    },
+    {
+        "cas_number": "16893-85-9",
+        "inchi_key": "TWGUZEUZLCYTCG-UHFFFAOYSA-N",
+        "name": "sodium silicofluoride"
+    },
+    {
+        "cas_number": "2699-79-8",
+        "inchi_key": "OBTWBSRJZRCYQV-UHFFFAOYSA-N",
+        "name": "sulfuryl fluoride"
+    },
+    {
+        "cas_number": "7778-44-1",
+        "inchi_key": "RMBBSOLAGVEUSI-UHFFFAOYSA-H",
+        "name": "calcium arsenate"
+    },
+    {
+        "cas_number": "7778-41-8",
+        "inchi_key": "RKYSWCFUYJGIQA-UHFFFAOYSA-H",
+        "name": "copper arsenate"
+    },
+    {
+        "cas_number": "7784-40-9",
+        "inchi_key": "GDGMAFUMUYGVFK-UHFFFAOYSA-L",
+        "name": "lead arsenate"
+    },
+    {
+        "cas_number": "12002-03-8",
+        "inchi_key": "BNKLJOYAQLEMKB-UHFFFAOYSA-J",
+        "name": "Paris green"
+    },
+    {
+        "cas_number": "10124-50-2",
+        "inchi_key": "HEQWEGCSZXMIJQ-UHFFFAOYSA-M",
+        "name": "potassium arsenite"
+    },
+    {
+        "cas_number": "7784-46-5",
+        "inchi_key": "PTLRDCMBXHILCL-UHFFFAOYSA-M",
+        "name": "sodium arsenite"
+    },
+    {
+        "cas_number": "17125-80-3",
+        "inchi_key": "RRLMRHFZRPYSNK-UHFFFAOYSA-N",
+        "name": "barium hexafluorosilicate"
+    },
+    {
+        "cas_number": null,
+        "inchi_key": "REHXRBDMVPYGJX-UHFFFAOYSA-H",
+        "name": "cryolite"
+    },
+    {
+        "cas_number": "7681-49-4",
+        "inchi_key": "PUZPDOWCWNUUKD-UHFFFAOYSA-M",
+        "name": "sodium fluoride"
+    },
+    {
+        "cas_number": "16893-85-9",
+        "inchi_key": "TWGUZEUZLCYTCG-UHFFFAOYSA-N",
+        "name": "sodium silicofluoride"
+    },
+    {
+        "cas_number": "2699-79-8",
+        "inchi_key": "OBTWBSRJZRCYQV-UHFFFAOYSA-N",
+        "name": "sulfuryl fluoride"
+    },
+    {
+        "cas_number": "1093861-60-9",
+        "inchi_key": "OXDDDHGGRFRLEE-UHFFFAOYSA-N",
+        "name": "afoxolaner"
+    },
+    {
+        "cas_number": "1096103-99-9",
+        "inchi_key": "OXDDDHGGRFRLEE-QHCPKHFHSA-N",
+        "name": "esafoxolaner"
+    },
+    {
+        "cas_number": "864731-61-3",
+        "inchi_key": "MLBZKOGAMRTSKP-UHFFFAOYSA-N",
+        "name": "fluralaner"
+    },
+    {
+        "cas_number": "928783-29-3",
+        "inchi_key": "BPFUIWLQXNPZHI-UHFFFAOYSA-N",
+        "name": "fluxametamide"
+    },
+    {
+        "cas_number": "2061933-85-3",
+        "inchi_key": "WLSQDEYDCAGPIR-GCJKJVERSA-N (major component)",
+        "name": "isocycloseram"
+    },
+    {
+        "cas_number": "2892524-05-7",
+        "inchi_key": "HXCZZJLETFYKNP-FIKIJFGZSA-N",
+        "name": "isoflualanam"
+    },
+    {
+        "cas_number": "1369852-71-0",
+        "inchi_key": "HDKWFBCPLKNOCK-SFHVURJKSA-N",
+        "name": "lotilaner"
+    },
+    {
+        "cas_number": "1414642-93-5",
+        "inchi_key": "OFGKIOOXISVXEC-NRFANRHFSA-N",
+        "name": "mivorilaner"
+    },
+    {
+        "cas_number": "1398609-39-6",
+        "inchi_key": "FLEFKKUZMDEUIP-QFIPXVFZSA-N",
+        "name": "sarolaner"
+    },
+    {
+        "cas_number": "1621436-41-6",
+        "inchi_key": "TVAJZOVLQZNNCJ-UHFFFAOYSA-N",
+        "name": "tigolaner"
+    },
+    {
+        "cas_number": "2021230-37-3",
+        "inchi_key": "TVYPNAKLSTUPJB-QHCPKHFHSA-N",
+        "name": "umifoxolaner"
+    },
+    {
+        "cas_number": "107360-34-9",
+        "inchi_key": "BAJLRQTYSBSGKY-UHFFFAOYSA-N",
+        "name": "dayoutong"
+    },
+    {
+        "cas_number": "63837-33-2",
+        "inchi_key": "ZDOOQPFIGYHZFV-UHFFFAOYSA-N",
+        "name": "diofenolan"
+    },
+    {
+        "cas_number": "57342-02-6",
+        "inchi_key": "YHDXOFFTMOZZPE-UHFFFAOYSA-N",
+        "name": "epofenonane"
+    },
+    {
+        "cas_number": "72490-01-8",
+        "inchi_key": "HJUFTIJOISQSKQ-UHFFFAOYSA-N",
+        "name": "fenoxycarb"
+    },
+    {
+        "cas_number": "41096-46-2",
+        "inchi_key": "FYQGBXGJFWXIPP-UEVLXMDPSA-N",
+        "name": "hydroprene"
+    },
+    {
+        "cas_number": "42588-37-4",
+        "inchi_key": "FZRBKIRIBLNOAM-WHVZTFIZSA-N",
+        "name": "kinoprene"
+    },
+    {
+        "cas_number": "40596-69-8",
+        "inchi_key": "NFGXHKASABOEEW-LDRANXPESA-N",
+        "name": "methoprene"
+    },
+    {
+        "cas_number": "95737-68-1",
+        "inchi_key": "NHDHVHZZCFYRSB-UHFFFAOYSA-N",
+        "name": "pyriproxyfen"
+    },
+    {
+        "cas_number": "40596-80-3",
+        "inchi_key": "YGBMMMOLNODPBP-GWGZPXPZSA-N",
+        "name": "triprene"
+    },
+    {
+        "cas_number": "13804-51-8",
+        "inchi_key": "RQIDGZHMTWSMMC-TZNPKLQUSA-N",
+        "name": "juvenile hormone I"
+    },
+    {
+        "cas_number": "34218-61-6",
+        "inchi_key": "CPVQJXZBSGXTGJ-TZDLBHCHSA-N",
+        "name": "juvenile hormone II"
+    },
+    {
+        "cas_number": "22963-93-5",
+        "inchi_key": "QVJMXSGZTCGLHZ-HONBPKQLSA-N",
+        "name": "juvenile hormone III"
+    },
+    {
+        "cas_number": "71751-41-2",
+        "inchi_key": "avermectin B1a (6\u00e2\u0080\u00b2-(S)-sec-butyl):RRZXIRBKKLTSOM-XPNPUAGNSA-Navermectin B1b (6\u00e2\u0080\u00b2-isopropyl):ZFUKERYTFURFGA-PVVXTEPVSA-Nidentifier for mixture (not valid):IBSREHMXUMOFBB-JFUDTMANSA-N",
+        "name": "abamectin"
+    },
+    {
+        "cas_number": "117704-25-3",
+        "inchi_key": "QLFZZSKTJWDQOS-YDBLARSUSA-N",
+        "name": "doramectin"
+    },
+    {
+        "cas_number": "119791-41-2",
+        "inchi_key": "emamectin B1a (6\u00e2\u0080\u00b2-(S)-sec-butyl):CXEGAUYXQAKHKJ-COFQVFHOSA-Nemamectin B1b (6\u00e2\u0080\u00b2-isopropyl):DXIOOXFZLKCVHK-VAUHGISYSA-Nidentifier for mixture (not valid):JYKUGBHHPJEEER-ZZMYSPDMSA-N",
+        "name": "emamectin"
+    },
+    {
+        "cas_number": "123997-26-2",
+        "inchi_key": "eprinomectin B1a (6\u00e2\u0080\u00b2-(S)-sec-butyl):ZKWQQXZUCOBISE-CRTGXIDZSA-Neprinomectin B1b (6\u00e2\u0080\u00b2-isopropyl):WPNHOHPRXXCPRA-FZTOWWROSA-Nidentifier for mixture (not valid):VBPOFUHCXIRECN-SXLRFJQHSA-N",
+        "name": "eprinomectin"
+    },
+    {
+        "cas_number": "70288-86-7",
+        "inchi_key": "22,23-dihydroavermectin B1a (6\u00e2\u0080\u00b2-(S)-sec-butyl):AZSNMRSAGSSBNP-XPNPUAGNSA-N22,23-dihydroavermectin B1b (6\u00e2\u0080\u00b2-isopropyl):VARHUCVRRNANBD-PVVXTEPVSA-Nidentifier for mixture (not valid):SPBDXSGPUHCETR-JFUDTMANSA-N",
+        "name": "ivermectin"
+    },
+    {
+        "cas_number": "165108-07-6",
+        "inchi_key": "AFJYYKSVHJGXSN-XHKIUTQPSA-N",
+        "name": "selamectin"
+    },
+    {
+        "cas_number": "863549-51-3",
+        "inchi_key": "6\u00e2\u0080\u00b2-ethyl:HICUREFSAIZXFQ-JOWPUVSESA-N6\u00e2\u0080\u00b2-methyl:ARIWUAYYZGKZQD-WLLLSCRYSA-Nidentifier for mixture (not valid):DJQANAALJYNDCA-NJLPFFLASA-N",
+        "name": "lepimectin"
+    },
+    {
+        "cas_number": "113507-06-5",
+        "inchi_key": "YZBLFMPOMVTDJY-LSGXYNIPSA-N",
+        "name": "moxidectin"
+    },
+    {
+        "cas_number": "935545-74-7",
+        "inchi_key": "major component (4,5-dihydro):GOENIMGKWNZVDA-RWGFPKGXSA-Nminor component (4-methyl):KWVYSEWJJXXTEZ-GDMNSMANSA-N",
+        "name": "spinetoram"
+    },
+    {
+        "cas_number": "168316-95-8",
+        "inchi_key": "spinosyn A:SRJQTHAZUNRMPR-UYQKXTDMSA-Nspinosyn D (4-methyl):RDECBWLKMPEKPM-PSCJHHPTSA-N",
+        "name": "spinosad"
+    },
+    {
+        "cas_number": "71751-41-2",
+        "inchi_key": "avermectin B1a (6\u00e2\u0080\u00b2-(S)-sec-butyl):RRZXIRBKKLTSOM-XPNPUAGNSA-Navermectin B1b (6\u00e2\u0080\u00b2-isopropyl):ZFUKERYTFURFGA-PVVXTEPVSA-Nidentifier for mixture (not valid):IBSREHMXUMOFBB-JFUDTMANSA-N",
+        "name": "abamectin"
+    },
+    {
+        "cas_number": "117704-25-3",
+        "inchi_key": "QLFZZSKTJWDQOS-YDBLARSUSA-N",
+        "name": "doramectin"
+    },
+    {
+        "cas_number": "119791-41-2",
+        "inchi_key": "emamectin B1a (6\u00e2\u0080\u00b2-(S)-sec-butyl):CXEGAUYXQAKHKJ-COFQVFHOSA-Nemamectin B1b (6\u00e2\u0080\u00b2-isopropyl):DXIOOXFZLKCVHK-VAUHGISYSA-Nidentifier for mixture (not valid):JYKUGBHHPJEEER-ZZMYSPDMSA-N",
+        "name": "emamectin"
+    },
+    {
+        "cas_number": "123997-26-2",
+        "inchi_key": "eprinomectin B1a (6\u00e2\u0080\u00b2-(S)-sec-butyl):ZKWQQXZUCOBISE-CRTGXIDZSA-Neprinomectin B1b (6\u00e2\u0080\u00b2-isopropyl):WPNHOHPRXXCPRA-FZTOWWROSA-Nidentifier for mixture (not valid):VBPOFUHCXIRECN-SXLRFJQHSA-N",
+        "name": "eprinomectin"
+    },
+    {
+        "cas_number": "70288-86-7",
+        "inchi_key": "22,23-dihydroavermectin B1a (6\u00e2\u0080\u00b2-(S)-sec-butyl):AZSNMRSAGSSBNP-XPNPUAGNSA-N22,23-dihydroavermectin B1b (6\u00e2\u0080\u00b2-isopropyl):VARHUCVRRNANBD-PVVXTEPVSA-Nidentifier for mixture (not valid):SPBDXSGPUHCETR-JFUDTMANSA-N",
+        "name": "ivermectin"
+    },
+    {
+        "cas_number": "165108-07-6",
+        "inchi_key": "AFJYYKSVHJGXSN-XHKIUTQPSA-N",
+        "name": "selamectin"
+    },
+    {
+        "cas_number": "863549-51-3",
+        "inchi_key": "6\u00e2\u0080\u00b2-ethyl:HICUREFSAIZXFQ-JOWPUVSESA-N6\u00e2\u0080\u00b2-methyl:ARIWUAYYZGKZQD-WLLLSCRYSA-Nidentifier for mixture (not valid):DJQANAALJYNDCA-NJLPFFLASA-N",
+        "name": "lepimectin"
+    },
+    {
+        "cas_number": "113507-06-5",
+        "inchi_key": "YZBLFMPOMVTDJY-LSGXYNIPSA-N",
+        "name": "moxidectin"
+    },
+    {
+        "cas_number": "935545-74-7",
+        "inchi_key": "major component (4,5-dihydro):GOENIMGKWNZVDA-RWGFPKGXSA-Nminor component (4-methyl):KWVYSEWJJXXTEZ-GDMNSMANSA-N",
+        "name": "spinetoram"
+    },
+    {
+        "cas_number": "168316-95-8",
+        "inchi_key": "spinosyn A:SRJQTHAZUNRMPR-UYQKXTDMSA-Nspinosyn D (4-methyl):RDECBWLKMPEKPM-PSCJHHPTSA-N",
+        "name": "spinosad"
+    },
+    {
+        "cas_number": "1207727-04-5",
+        "inchi_key": "QSLZKWPYTWEWHC-UHFFFAOYSA-N",
+        "name": "broflanilide"
+    },
+    {
+        "cas_number": "2375110-88-4",
+        "inchi_key": "WULALRGFFYJWOL-UHFFFAOYSA-N",
+        "name": "cyproflanilide"
+    },
+    {
+        "cas_number": "1331922-53-2",
+        "inchi_key": "IUJSREIEVDNHMT-UHFFFAOYSA-N",
+        "name": "modoflaner"
+    },
+    {
+        "cas_number": "2615135-05-0",
+        "inchi_key": "BUCVOTBQHDVWAP-UHFFFAOYSA-N",
+        "name": "piperflanilide"
+    },
+    {
+        "cas_number": "114077-75-7",
+        "inchi_key": "SEEIKOSFZLBRHO-JLHYYAGUSA-N",
+        "name": "flupyroxystrobin"
+    },
+    {
+        "cas_number": "951659-40-8",
+        "inchi_key": "QOIYTRGFOFZNKF-UHFFFAOYSA-N",
+        "name": "flupyradifurone"
+    },
+    {
+        "cas_number": "135410-20-7",
+        "inchi_key": "WCXDHFDTOYPNIE-RIYZIHGNSA-N",
+        "name": "acetamiprid"
+    },
+    {
+        "cas_number": "111988-49-9",
+        "inchi_key": "HOKKPVIRMVDYPB-UVTDQMKNSA-N",
+        "name": "thiacloprid"
+    },
+    {
+        "cas_number": "1263629-39-5",
+        "inchi_key": "PVDQXPBKBSCNJZ-UHFFFAOYSA-N",
+        "name": "dicloromezotiaz"
+    },
+    {
+        "cas_number": "2413390-32-4",
+        "inchi_key": "YGDKLOWGWUOTRD-SNVBAGLBSA-N",
+        "name": "fenmezoditiaz"
+    },
+    {
+        "cas_number": "1263133-33-0",
+        "inchi_key": "LHZOTJOOBRODLL-UHFFFAOYSA-N",
+        "name": "triflumezopyrim"
+    },
+    {
+        "cas_number": "210880-92-5",
+        "inchi_key": "PGOOBECODWQEAB-PQKPOUEINA-NStandard InChIKey (no stereo):PGOOBECODWQEAB-UHFFFAOYSA-N",
+        "name": "clothianidin"
+    },
+    {
+        "cas_number": "165252-70-0",
+        "inchi_key": "YKBZOVFACRVRJN-UHFFFAOYSA-N",
+        "name": "dinotefuran"
+    },
+    {
+        "cas_number": "138261-41-3",
+        "inchi_key": "YWTYJOPNNQFBPC-DLSJENCCNA-NStandard InChIKey (no stereo):YWTYJOPNNQFBPC-UHFFFAOYSA-N",
+        "name": "imidacloprid"
+    },
+    {
+        "cas_number": "105843-36-5",
+        "inchi_key": "OWRSHPAYDYCHSJ-UHFFFAOYSA-N",
+        "name": "imidaclothiz"
+    },
+    {
+        "cas_number": "153719-23-4",
+        "inchi_key": "NWWZPOKUUAIXIW-UHFFFAOYSA-N",
+        "name": "thiamethoxam"
+    },
+    {
+        "cas_number": "1203791-41-6",
+        "inchi_key": "NDHXMRFNYMNBKO-PWSUYJOCSA-N",
+        "name": "cycloxaprid"
+    },
+    {
+        "cas_number": "150824-47-8",
+        "inchi_key": "CFRPSFYHXJZSBI-DHZHZOJOSA-N",
+        "name": "nitenpyram"
+    },
+    {
+        "cas_number": "58842-20-9",
+        "inchi_key": "LZTIMERBDGGAJD-UHFFFAOYSA-N",
+        "name": "nithiazine"
+    },
+    {
+        "cas_number": "948994-16-9",
+        "inchi_key": "MOTGVPXRLDDMSK-UHFFFAOYSA-N",
+        "name": "paichongding"
+    },
+    {
+        "cas_number": "1689566-03-7",
+        "inchi_key": "DHQKLWKZSFCKTA-YBFXNURJSA-N",
+        "name": "flupyrimin"
+    },
+    {
+        "cas_number": "946578-00-3",
+        "inchi_key": "ZVQOOHYFBIDMTQ-UHFFFAOYSA-N",
+        "name": "sulfoxaflor"
+    },
+    {
+        "cas_number": "951659-40-8",
+        "inchi_key": "QOIYTRGFOFZNKF-UHFFFAOYSA-N",
+        "name": "flupyradifurone"
+    },
+    {
+        "cas_number": "135410-20-7",
+        "inchi_key": "WCXDHFDTOYPNIE-RIYZIHGNSA-N",
+        "name": "acetamiprid"
+    },
+    {
+        "cas_number": "111988-49-9",
+        "inchi_key": "HOKKPVIRMVDYPB-UVTDQMKNSA-N",
+        "name": "thiacloprid"
+    },
+    {
+        "cas_number": "1263629-39-5",
+        "inchi_key": "PVDQXPBKBSCNJZ-UHFFFAOYSA-N",
+        "name": "dicloromezotiaz"
+    },
+    {
+        "cas_number": "2413390-32-4",
+        "inchi_key": "YGDKLOWGWUOTRD-SNVBAGLBSA-N",
+        "name": "fenmezoditiaz"
+    },
+    {
+        "cas_number": "1263133-33-0",
+        "inchi_key": "LHZOTJOOBRODLL-UHFFFAOYSA-N",
+        "name": "triflumezopyrim"
+    },
+    {
+        "cas_number": "210880-92-5",
+        "inchi_key": "PGOOBECODWQEAB-PQKPOUEINA-NStandard InChIKey (no stereo):PGOOBECODWQEAB-UHFFFAOYSA-N",
+        "name": "clothianidin"
+    },
+    {
+        "cas_number": "165252-70-0",
+        "inchi_key": "YKBZOVFACRVRJN-UHFFFAOYSA-N",
+        "name": "dinotefuran"
+    },
+    {
+        "cas_number": "138261-41-3",
+        "inchi_key": "YWTYJOPNNQFBPC-DLSJENCCNA-NStandard InChIKey (no stereo):YWTYJOPNNQFBPC-UHFFFAOYSA-N",
+        "name": "imidacloprid"
+    },
+    {
+        "cas_number": "105843-36-5",
+        "inchi_key": "OWRSHPAYDYCHSJ-UHFFFAOYSA-N",
+        "name": "imidaclothiz"
+    },
+    {
+        "cas_number": "153719-23-4",
+        "inchi_key": "NWWZPOKUUAIXIW-UHFFFAOYSA-N",
+        "name": "thiamethoxam"
+    },
+    {
+        "cas_number": "1203791-41-6",
+        "inchi_key": "NDHXMRFNYMNBKO-PWSUYJOCSA-N",
+        "name": "cycloxaprid"
+    },
+    {
+        "cas_number": "150824-47-8",
+        "inchi_key": "CFRPSFYHXJZSBI-DHZHZOJOSA-N",
+        "name": "nitenpyram"
+    },
+    {
+        "cas_number": "58842-20-9",
+        "inchi_key": "LZTIMERBDGGAJD-UHFFFAOYSA-N",
+        "name": "nithiazine"
+    },
+    {
+        "cas_number": "948994-16-9",
+        "inchi_key": "MOTGVPXRLDDMSK-UHFFFAOYSA-N",
+        "name": "paichongding"
+    },
+    {
+        "cas_number": "1689566-03-7",
+        "inchi_key": "DHQKLWKZSFCKTA-YBFXNURJSA-N",
+        "name": "flupyrimin"
+    },
+    {
+        "cas_number": "946578-00-3",
+        "inchi_key": "ZVQOOHYFBIDMTQ-UHFFFAOYSA-N",
+        "name": "sulfoxaflor"
+    },
+    {
+        "cas_number": "17606-31-4",
+        "inchi_key": "YFXPPSKYMBTNAV-UHFFFAOYSA-N",
+        "name": "bensultap"
+    },
+    {
+        "cas_number": "15263-53-3",
+        "inchi_key": "IRUJZVNXZWPBMU-UHFFFAOYSA-N",
+        "name": "cartap"
+    },
+    {
+        "cas_number": "114067-78-6",
+        "inchi_key": "KKJUPNGICOCCDW-UHFFFAOYSA-N",
+        "name": "polythialan"
+    },
+    {
+        "cas_number": "31895-21-3",
+        "inchi_key": "DNVLJEWNNDHELH-UHFFFAOYSA-N",
+        "name": "thiocyclam"
+    },
+    {
+        "cas_number": "98968-92-4",
+        "inchi_key": "PYNKFIVDSJSNGL-UHFFFAOYSA-N",
+        "name": "thiosultap"
+    },
+    {
+        "cas_number": "158062-67-0",
+        "inchi_key": "RLQJEEJISHYWON-UHFFFAOYSA-N",
+        "name": "flonicamid"
+    },
+    {
+        "cas_number": "158062-71-6",
+        "inchi_key": "JUIWZYBJXUPIKF-UHFFFAOYSA-N",
+        "name": "flumetnicam"
+    },
+    {
+        "cas_number": "2990-17-2",
+        "inchi_key": "YPWDDFGPYBIPBG-UHFFFAOYSA-N",
+        "name": "bromo-DDT"
+    },
+    {
+        "cas_number": "8001-35-2",
+        "inchi_key": null,
+        "name": "camphechlor"
+    },
+    {
+        "cas_number": "50-29-3",
+        "inchi_key": "YVGGHNCTFXOJCH-UHFFFAOYSA-N",
+        "name": "DDT"
+    },
+    {
+        "cas_number": "50-29-3",
+        "inchi_key": "YVGGHNCTFXOJCH-UHFFFAOYSA-N",
+        "name": "pp\u00e2\u0080\u00b2-DDT"
+    },
+    {
+        "cas_number": "475-26-3",
+        "inchi_key": "CLSXNIPAOWPLFR-UHFFFAOYSA-N",
+        "name": "DFDT"
+    },
+    {
+        "cas_number": "106-46-7",
+        "inchi_key": "OCJBOOLMMGQPQU-UHFFFAOYSA-N",
+        "name": "p-dichlorobenzene"
+    },
+    {
+        "cas_number": "72-56-0",
+        "inchi_key": "QFMDFTQOJHFVNR-UHFFFAOYSA-N",
+        "name": "ethyl-DDD"
+    },
+    {
+        "cas_number": "608-73-1",
+        "inchi_key": "JLYXXMFPNIAWKQ-UHFFFAOYSA-N",
+        "name": "HCH"
+    },
+    {
+        "cas_number": "58-89-9",
+        "inchi_key": "JLYXXMFPNIAWKQ-GNIYUCBRSA-N",
+        "name": "gamma-HCH"
+    },
+    {
+        "cas_number": "58-89-9",
+        "inchi_key": "JLYXXMFPNIAWKQ-GNIYUCBRSA-N",
+        "name": "lindane"
+    },
+    {
+        "cas_number": "72-43-5",
+        "inchi_key": "IAKOZHOLGAGEJT-UHFFFAOYSA-N",
+        "name": "methoxychlor"
+    },
+    {
+        "cas_number": "72-54-8",
+        "inchi_key": "AHJKRLASYNVKDZ-UHFFFAOYSA-N",
+        "name": "TDE"
+    },
+    {
+        "cas_number": "309-00-2",
+        "inchi_key": "QBYJBZPUGVGKQQ-SJJAEHHWSA-N",
+        "name": "aldrin"
+    },
+    {
+        "cas_number": "1715-40-8",
+        "inchi_key": "DAASOABUJRMZAD-UHFFFAOYSA-N",
+        "name": "bromocyclen"
+    },
+    {
+        "cas_number": "2550-75-6",
+        "inchi_key": "FUZORIOHZSVKAW-UHFFFAOYSA-N",
+        "name": "chlorbicyclen"
+    },
+    {
+        "cas_number": "57-74-9",
+        "inchi_key": "BIWJNBZANLAXMG-UHFFFAOYSA-N",
+        "name": "chlordane"
+    },
+    {
+        "cas_number": "143-50-0",
+        "inchi_key": "LHHGDZSESBACKH-UHFFFAOYSA-N",
+        "name": "chlordecone"
+    },
+    {
+        "cas_number": "60-57-1",
+        "inchi_key": "DFBKLUNHFCTMDC-PICURKEMSA-N",
+        "name": "dieldrin"
+    },
+    {
+        "cas_number": "14168-01-5",
+        "inchi_key": "CLTVIMPCWMHKFX-YXRAGDHHSA-N",
+        "name": "dilor"
+    },
+    {
+        "cas_number": "115-29-7",
+        "inchi_key": "RDYMFSUJUZBWLH-UHFFFAOYSA-N",
+        "name": "endosulfan"
+    },
+    {
+        "cas_number": "959-98-8",
+        "inchi_key": "RDYMFSUJUZBWLH-AZVNHNRSSA-N",
+        "name": "alpha-endosulfan"
+    },
+    {
+        "cas_number": "72-20-8",
+        "inchi_key": "DFBKLUNHFCTMDC-GKRDHZSOSA-N",
+        "name": "endrin"
+    },
+    {
+        "cas_number": "60-57-1",
+        "inchi_key": "DFBKLUNHFCTMDC-PICURKEMSA-N",
+        "name": "HEOD"
+    },
+    {
+        "cas_number": "76-44-8",
+        "inchi_key": "FRCCEHPWNOQAEU-UHFFFAOYSA-N",
+        "name": "heptachlor"
+    },
+    {
+        "cas_number": "309-00-2",
+        "inchi_key": "QBYJBZPUGVGKQQ-SJJAEHHWSA-N",
+        "name": "HHDN"
+    },
+    {
+        "cas_number": "297-78-9",
+        "inchi_key": "LRWHHSXTGZSMSN-UHFFFAOYSA-N",
+        "name": "isobenzan"
+    },
+    {
+        "cas_number": "465-73-6",
+        "inchi_key": "QBYJBZPUGVGKQQ-DIFDVCDBSA-N",
+        "name": "isodrin"
+    },
+    {
+        "cas_number": "4234-79-1",
+        "inchi_key": "POSKOXIJDWDKPH-UHFFFAOYSA-N",
+        "name": "kelevan"
+    },
+    {
+        "cas_number": "2385-85-5",
+        "inchi_key": "GVYLCNUFSHDAAW-UHFFFAOYSA-N",
+        "name": "mirex"
+    },
+    {
+        "cas_number": "309-00-2",
+        "inchi_key": "QBYJBZPUGVGKQQ-SJJAEHHWSA-N",
+        "name": "aldrin"
+    },
+    {
+        "cas_number": "1715-40-8",
+        "inchi_key": "DAASOABUJRMZAD-UHFFFAOYSA-N",
+        "name": "bromocyclen"
+    },
+    {
+        "cas_number": "2550-75-6",
+        "inchi_key": "FUZORIOHZSVKAW-UHFFFAOYSA-N",
+        "name": "chlorbicyclen"
+    },
+    {
+        "cas_number": "57-74-9",
+        "inchi_key": "BIWJNBZANLAXMG-UHFFFAOYSA-N",
+        "name": "chlordane"
+    },
+    {
+        "cas_number": "143-50-0",
+        "inchi_key": "LHHGDZSESBACKH-UHFFFAOYSA-N",
+        "name": "chlordecone"
+    },
+    {
+        "cas_number": "60-57-1",
+        "inchi_key": "DFBKLUNHFCTMDC-PICURKEMSA-N",
+        "name": "dieldrin"
+    },
+    {
+        "cas_number": "14168-01-5",
+        "inchi_key": "CLTVIMPCWMHKFX-YXRAGDHHSA-N",
+        "name": "dilor"
+    },
+    {
+        "cas_number": "115-29-7",
+        "inchi_key": "RDYMFSUJUZBWLH-UHFFFAOYSA-N",
+        "name": "endosulfan"
+    },
+    {
+        "cas_number": "959-98-8",
+        "inchi_key": "RDYMFSUJUZBWLH-AZVNHNRSSA-N",
+        "name": "alpha-endosulfan"
+    },
+    {
+        "cas_number": "72-20-8",
+        "inchi_key": "DFBKLUNHFCTMDC-GKRDHZSOSA-N",
+        "name": "endrin"
+    },
+    {
+        "cas_number": "60-57-1",
+        "inchi_key": "DFBKLUNHFCTMDC-PICURKEMSA-N",
+        "name": "HEOD"
+    },
+    {
+        "cas_number": "76-44-8",
+        "inchi_key": "FRCCEHPWNOQAEU-UHFFFAOYSA-N",
+        "name": "heptachlor"
+    },
+    {
+        "cas_number": "309-00-2",
+        "inchi_key": "QBYJBZPUGVGKQQ-SJJAEHHWSA-N",
+        "name": "HHDN"
+    },
+    {
+        "cas_number": "297-78-9",
+        "inchi_key": "LRWHHSXTGZSMSN-UHFFFAOYSA-N",
+        "name": "isobenzan"
+    },
+    {
+        "cas_number": "465-73-6",
+        "inchi_key": "QBYJBZPUGVGKQQ-DIFDVCDBSA-N",
+        "name": "isodrin"
+    },
+    {
+        "cas_number": "4234-79-1",
+        "inchi_key": "POSKOXIJDWDKPH-UHFFFAOYSA-N",
+        "name": "kelevan"
+    },
+    {
+        "cas_number": "2385-85-5",
+        "inchi_key": "GVYLCNUFSHDAAW-UHFFFAOYSA-N",
+        "name": "mirex"
+    },
+    {
+        "cas_number": "33399-00-7",
+        "inchi_key": "ORDKAVSHIKNMAN-UHFFFAOYSA-N",
+        "name": "bromfenvinfos"
+    },
+    {
+        "cas_number": "6465-92-5",
+        "inchi_key": "FJKPGYUFYLHBPX-UHFFFAOYSA-LCAS version:OSOBLYZRACRUCC-UHFFFAOYSA-L",
+        "name": "calvinphos"
+    },
+    {
+        "cas_number": "470-90-6",
+        "inchi_key": "FSAVDKDHPDSCTO-UHFFFAOYSA-N",
+        "name": "chlorfenvinphos"
+    },
+    {
+        "cas_number": "7700-17-6",
+        "inchi_key": "XXXSILNSXNPGKG-ZHACJKMWSA-N",
+        "name": "crotoxyphos"
+    },
+    {
+        "cas_number": "62-73-7",
+        "inchi_key": "OEBRKCOSUFCWJD-UHFFFAOYSA-N",
+        "name": "dichlorvos"
+    },
+    {
+        "cas_number": "141-66-2",
+        "inchi_key": "VEENJGZXVHKXNB-VOTSOKGWSA-N",
+        "name": "dicrotophos"
+    },
+    {
+        "cas_number": "67628-93-7",
+        "inchi_key": "QSGNQELHULIMSJ-POHAHGRESA-N",
+        "name": "dimethylvinphos"
+    },
+    {
+        "cas_number": "5598-52-7",
+        "inchi_key": "XCBOKUAJQWDYNI-UHFFFAOYSA-N",
+        "name": "fospirate"
+    },
+    {
+        "cas_number": "23560-59-0",
+        "inchi_key": "GBAWQJNHVWMTLU-UHFFFAOYSA-N",
+        "name": "heptenophos"
+    },
+    {
+        "cas_number": "25601-84-7",
+        "inchi_key": "WEDGYOKZJHBCGP-VOTSOKGWSA-N",
+        "name": "methocrotophos"
+    },
+    {
+        "cas_number": "7786-34-7",
+        "inchi_key": "GEPDYQSQVLXLEU-UHFFFAOYSA-N",
+        "name": "mevinphos"
+    },
+    {
+        "cas_number": "6923-22-4",
+        "inchi_key": "KRTSDMXIXPKRQR-AATRIKPKSA-N",
+        "name": "monocrotophos"
+    },
+    {
+        "cas_number": "300-76-5",
+        "inchi_key": "BUYMVQAILCEWRR-UHFFFAOYSA-N",
+        "name": "naled"
+    },
+    {
+        "cas_number": "1491-41-4",
+        "inchi_key": "QNSIFYWAPWSAIJ-UHFFFAOYSA-N",
+        "name": "naftalofos"
+    },
+    {
+        "cas_number": "13171-21-6",
+        "inchi_key": "RGCLLPNLLBQHPF-UHFFFAOYSA-N",
+        "name": "phosphamidon"
+    },
+    {
+        "cas_number": "7292-16-2",
+        "inchi_key": "PWYIUEFFPNVCMW-UHFFFAOYSA-N",
+        "name": "propaphos"
+    },
+    {
+        "cas_number": "107-49-3",
+        "inchi_key": "IDCBOTIENDVCBQ-UHFFFAOYSA-N",
+        "name": "TEPP"
+    },
+    {
+        "cas_number": "22248-79-9",
+        "inchi_key": "UBCKGWBNUIFUST-YHYXMXQVSA-N",
+        "name": "tetrachlorvinphos"
+    },
+    {
+        "cas_number": "14816-20-7",
+        "inchi_key": "GQKRUMZWUHSLJF-UHFFFAOYSA-N",
+        "name": "chlorphoxim"
+    },
+    {
+        "cas_number": "3811-49-2",
+        "inchi_key": "OUNSASXJZHBGAI-UHFFFAOYSA-N",
+        "name": "dioxabenzofos"
+    },
+    {
+        "cas_number": "14816-18-3",
+        "inchi_key": "ATROHALUCMTWTB-UHFFFAOYSA-N",
+        "name": "phoxim"
+    },
+    {
+        "cas_number": "14816-16-1",
+        "inchi_key": "QQVNWNVUGXNUJN-UHFFFAOYSA-N",
+        "name": "phoxim-methyl"
+    },
+    {
+        "cas_number": "3689-24-5",
+        "inchi_key": "XIUROWKZWPIAIB-UHFFFAOYSA-N",
+        "name": "sulfotep"
+    },
+    {
+        "cas_number": "919-76-6",
+        "inchi_key": "GDTZUQIYUMGJRT-UHFFFAOYSA-N",
+        "name": "amidithion"
+    },
+    {
+        "cas_number": "3734-95-0",
+        "inchi_key": "TWDJIKFUVRYBJF-UHFFFAOYSA-N",
+        "name": "cyanthoate"
+    },
+    {
+        "cas_number": "60-51-5",
+        "inchi_key": "MCWXGJITAZMZEV-UHFFFAOYSA-N",
+        "name": "dimethoate"
+    },
+    {
+        "cas_number": "116-01-8",
+        "inchi_key": "DICRHEJCQXFJBY-UHFFFAOYSA-N",
+        "name": "ethoate-methyl"
+    },
+    {
+        "cas_number": "2540-82-1",
+        "inchi_key": "AIKKULXCBHRFOS-UHFFFAOYSA-N",
+        "name": "formothion"
+    },
+    {
+        "cas_number": "2595-54-2",
+        "inchi_key": "KLGMSAOQDHLCOS-UHFFFAOYSA-N",
+        "name": "mecarbam"
+    },
+    {
+        "cas_number": "144-41-2",
+        "inchi_key": "NTHGWXIWFHGPLK-UHFFFAOYSA-N",
+        "name": "morphothion"
+    },
+    {
+        "cas_number": "1113-02-6",
+        "inchi_key": "PZXOQEXFMJCDPG-UHFFFAOYSA-N",
+        "name": "omethoate"
+    },
+    {
+        "cas_number": "2275-18-5",
+        "inchi_key": "QTXHFDHVLBDJIO-UHFFFAOYSA-N",
+        "name": "prothoate"
+    },
+    {
+        "cas_number": "37032-15-8",
+        "inchi_key": "FCUBTKFQDYNIIC-UHFFFAOYSA-N",
+        "name": "sophamide"
+    },
+    {
+        "cas_number": "919-54-0",
+        "inchi_key": "AISZOMRXKKCPIS-UHFFFAOYSA-N",
+        "name": "acethion"
+    },
+    {
+        "cas_number": "2425-25-4",
+        "inchi_key": "ZRCQYAQOWIQUBA-UHFFFAOYSA-N",
+        "name": "acetophos"
+    },
+    {
+        "cas_number": "78-53-5",
+        "inchi_key": "PJISLFCKHOHLLP-UHFFFAOYSA-N",
+        "name": "amiton"
+    },
+    {
+        "cas_number": "95465-99-9",
+        "inchi_key": "KXRPCFINVWWFHQ-UHFFFAOYSA-N",
+        "name": "cadusafos"
+    },
+    {
+        "cas_number": "786-19-6",
+        "inchi_key": "VEDTXTNSFWUXGQ-UHFFFAOYSA-N",
+        "name": "carbophenothion"
+    },
+    {
+        "cas_number": "54593-83-8",
+        "inchi_key": "XFDJMIHUAHSGKG-UHFFFAOYSA-N",
+        "name": "chlorethoxyfos"
+    },
+    {
+        "cas_number": "24934-91-6",
+        "inchi_key": "QGTYWWGEWOBMAK-UHFFFAOYSA-N",
+        "name": "chlormephos"
+    },
+    {
+        "cas_number": "8065-62-1",
+        "inchi_key": "demephion-O:IATBEFPCSHFQJS-UHFFFAOYSA-Ndemephion-S:PSTWJANBJOHFQJ-UHFFFAOYSA-N",
+        "name": "demephion"
+    },
+    {
+        "cas_number": "682-80-4",
+        "inchi_key": "IATBEFPCSHFQJS-UHFFFAOYSA-N",
+        "name": "demephion-O"
+    },
+    {
+        "cas_number": "2587-90-8",
+        "inchi_key": "PSTWJANBJOHFQJ-UHFFFAOYSA-N",
+        "name": "demephion-S"
+    },
+    {
+        "cas_number": "8065-48-3",
+        "inchi_key": "demeton-O:DGLIBALSRMUQDD-UHFFFAOYSA-Ndemeton-S:GRPRVIYRYGLIJU-UHFFFAOYSA-N",
+        "name": "demeton"
+    },
+    {
+        "cas_number": "298-03-3",
+        "inchi_key": "DGLIBALSRMUQDD-UHFFFAOYSA-N",
+        "name": "demeton-O"
+    },
+    {
+        "cas_number": "126-75-0",
+        "inchi_key": "GRPRVIYRYGLIJU-UHFFFAOYSA-N",
+        "name": "demeton-S"
+    },
+    {
+        "cas_number": "8022-00-2",
+        "inchi_key": "demeton-O-methyl:ZVZQKNVMDKSGGF-UHFFFAOYSA-Ndemeton-S-methyl:WEBQKRLKWNIYKK-UHFFFAOYSA-N",
+        "name": "demeton-methyl"
+    },
+    {
+        "cas_number": "867-27-6",
+        "inchi_key": "ZVZQKNVMDKSGGF-UHFFFAOYSA-N",
+        "name": "demeton-O-methyl"
+    },
+    {
+        "cas_number": "919-86-8",
+        "inchi_key": "WEBQKRLKWNIYKK-UHFFFAOYSA-N",
+        "name": "demeton-S-methyl"
+    },
+    {
+        "cas_number": "17040-19-6",
+        "inchi_key": "PZIRJMYRYORVIT-UHFFFAOYSA-N",
+        "name": "demeton-S-methylsulphon"
+    },
+    {
+        "cas_number": "78-34-2",
+        "inchi_key": "VBKKVDGJXVOLNE-UHFFFAOYSA-N",
+        "name": "dioxathion"
+    },
+    {
+        "cas_number": "298-04-4",
+        "inchi_key": "DOFZAZXDOSGAJZ-UHFFFAOYSA-N",
+        "name": "disulfoton"
+    },
+    {
+        "cas_number": "563-12-2",
+        "inchi_key": "RIZMRRKBZQXFOY-UHFFFAOYSA-N",
+        "name": "ethion"
+    },
+    {
+        "cas_number": "13194-48-4",
+        "inchi_key": "VJYFKVYYMZPMAB-UHFFFAOYSA-N",
+        "name": "ethoprophos"
+    },
+    {
+        "cas_number": "83733-82-8",
+        "inchi_key": "MVBGKYGTNGPFHT-UHFFFAOYSA-N",
+        "name": "fosmethilan"
+    },
+    {
+        "cas_number": "5827-05-4",
+        "inchi_key": "KOTOUBGHZHWCCJ-UHFFFAOYSA-N",
+        "name": "IPSP"
+    },
+    {
+        "cas_number": "36614-38-7",
+        "inchi_key": "SPCNPOWOBZQWJK-UHFFFAOYSA-N",
+        "name": "isothioate"
+    },
+    {
+        "cas_number": "121-75-5",
+        "inchi_key": "JXSJBGJIGXNWCI-UHFFFAOYSA-N",
+        "name": "malathion"
+    },
+    {
+        "cas_number": "62610-77-9",
+        "inchi_key": "NTAHCMPOMKHKEU-AATRIKPKSA-N",
+        "name": "methacrifos"
+    },
+    {
+        "cas_number": "2088-72-4",
+        "inchi_key": "LIXQYRZDAFGLSQ-UHFFFAOYSA-N",
+        "name": "methylacetophos"
+    },
+    {
+        "cas_number": "301-12-2",
+        "inchi_key": "PMCVMORKVPSKHZ-UHFFFAOYSA-N",
+        "name": "oxydemeton-methyl"
+    },
+    {
+        "cas_number": "2674-91-1",
+        "inchi_key": "JAYZFNIOOYPIAH-UHFFFAOYSA-N",
+        "name": "oxydeprofos"
+    },
+    {
+        "cas_number": "2497-07-6",
+        "inchi_key": "UPUGLJYNCXXUQV-UHFFFAOYSA-N",
+        "name": "oxydisulfoton"
+    },
+    {
+        "cas_number": "2275-14-1",
+        "inchi_key": "GGNLTHFTYNDYNK-UHFFFAOYSA-N",
+        "name": "phenkapton"
+    },
+    {
+        "cas_number": "298-02-2",
+        "inchi_key": "BULVZWIRKLYCBC-UHFFFAOYSA-N",
+        "name": "phorate"
+    },
+    {
+        "cas_number": "13071-79-9",
+        "inchi_key": "XLNZEKHULJKQBA-UHFFFAOYSA-N",
+        "name": "terbufos"
+    },
+    {
+        "cas_number": "640-15-3",
+        "inchi_key": "OPASCBHCTNRLRM-UHFFFAOYSA-N",
+        "name": "thiometon"
+    },
+    {
+        "cas_number": "90338-20-8",
+        "inchi_key": "YMTQHWMPGDSBOD-UHFFFAOYSA-N",
+        "name": "butathiofos"
+    },
+    {
+        "cas_number": "36145-08-1",
+        "inchi_key": "ZCMOTOWEBLMCEO-UHFFFAOYSA-N",
+        "name": "chlorprazophos"
+    },
+    {
+        "cas_number": "2921-88-2",
+        "inchi_key": "SBPBAQFWLVIOKP-UHFFFAOYSA-N",
+        "name": "chlorpyrifos"
+    },
+    {
+        "cas_number": "5598-13-0",
+        "inchi_key": "HRBKVYFZANMGRE-UHFFFAOYSA-N",
+        "name": "chlorpyrifos-methyl"
+    },
+    {
+        "cas_number": "56-72-4",
+        "inchi_key": "BXNANOICGRISHX-UHFFFAOYSA-N",
+        "name": "coumaphos"
+    },
+    {
+        "cas_number": "572-48-5",
+        "inchi_key": "NSMRHYDOKZAMKJ-UHFFFAOYSA-N",
+        "name": "coumithoate"
+    },
+    {
+        "cas_number": "333-41-5",
+        "inchi_key": "FHIVAFMUCKRCQO-UHFFFAOYSA-N",
+        "name": "diazinon"
+    },
+    {
+        "cas_number": "38260-54-7",
+        "inchi_key": "FGIWFCGDPUIBEZ-UHFFFAOYSA-N",
+        "name": "etrimfos"
+    },
+    {
+        "cas_number": "122431-24-7",
+        "inchi_key": "JZUKGAJJLZRHGL-UHFFFAOYSA-N",
+        "name": "flupyrazofos"
+    },
+    {
+        "cas_number": "42509-80-8",
+        "inchi_key": "XRHGWAGWAHHFLF-UHFFFAOYSA-N",
+        "name": "isazofos"
+    },
+    {
+        "cas_number": "18854-01-8",
+        "inchi_key": "SDMSCIWHRZJSRN-UHFFFAOYSA-N",
+        "name": "isoxathion"
+    },
+    {
+        "cas_number": "38260-63-8",
+        "inchi_key": "IIJPGEXICYPSKQ-UHFFFAOYSA-N",
+        "name": "lirimfos"
+    },
+    {
+        "cas_number": "55996-32-2",
+        "inchi_key": "JPAJTPFDIZFTJN-UHFFFAOYSA-N",
+        "name": "pirimioxyphos"
+    },
+    {
+        "cas_number": "23505-41-1",
+        "inchi_key": "TZBPRYIIJAJUOY-UHFFFAOYSA-N",
+        "name": "pirimiphos-ethyl"
+    },
+    {
+        "cas_number": "29232-93-7",
+        "inchi_key": "QHOQHJPRIBSPCY-UHFFFAOYSA-N",
+        "name": "pirimiphos-methyl"
+    },
+    {
+        "cas_number": "39247-96-6",
+        "inchi_key": "FBFCWTCMDMUSDI-UHFFFAOYSA-N",
+        "name": "primidophos"
+    },
+    {
+        "cas_number": "89784-60-1 (formerly 77458-01-6)",
+        "inchi_key": "QHGVXILFMXYDRS-UHFFFAOYSA-N",
+        "name": "pyraclofos"
+    },
+    {
+        "cas_number": "13457-18-6",
+        "inchi_key": "JOOMJVFZQRQWKR-UHFFFAOYSA-N",
+        "name": "pyrazophos"
+    },
+    {
+        "cas_number": "108-35-0",
+        "inchi_key": "NKADQNIAHIXOIZ-UHFFFAOYSA-N",
+        "name": "pyrazothion"
+    },
+    {
+        "cas_number": "119-12-0",
+        "inchi_key": "CXJSOEPQXUCJSA-UHFFFAOYSA-N",
+        "name": "pyridaphenthion"
+    },
+    {
+        "cas_number": "5221-49-8",
+        "inchi_key": "MLDVVJZNWASRQL-UHFFFAOYSA-N",
+        "name": "pyrimitate"
+    },
+    {
+        "cas_number": "13593-03-8",
+        "inchi_key": "JYQUHIFYBATCCY-UHFFFAOYSA-N",
+        "name": "quinalphos"
+    },
+    {
+        "cas_number": "13593-08-3",
+        "inchi_key": "RNGDKAQQWUYBAS-UHFFFAOYSA-N",
+        "name": "quinalphos-methyl"
+    },
+    {
+        "cas_number": "22439-40-3",
+        "inchi_key": "RVQMZGWUSHPUCC-UHFFFAOYSA-N",
+        "name": "quinothion"
+    },
+    {
+        "cas_number": "96182-53-5",
+        "inchi_key": "AWYOMXWDGWUJHS-UHFFFAOYSA-N",
+        "name": "tebupirimfos"
+    },
+    {
+        "cas_number": "24017-47-8",
+        "inchi_key": "AMFGTOFWMRQMEM-UHFFFAOYSA-N",
+        "name": "triazophos"
+    },
+    {
+        "cas_number": "19691-80-6",
+        "inchi_key": "QAOFKYGUSMPWNY-UHFFFAOYSA-N",
+        "name": "athidathion"
+    },
+    {
+        "cas_number": "35575-96-3",
+        "inchi_key": "VNKBTWQZTQIWDV-UHFFFAOYSA-N",
+        "name": "azamethiphos"
+    },
+    {
+        "cas_number": "2642-71-9",
+        "inchi_key": "RQVGAIADHNPSME-UHFFFAOYSA-N",
+        "name": "azinphos-ethyl"
+    },
+    {
+        "cas_number": "86-50-0",
+        "inchi_key": "CJJOSEISRRTUQB-UHFFFAOYSA-N",
+        "name": "azinphos-methyl"
+    },
+    {
+        "cas_number": "50398-69-1",
+        "inchi_key": "RZXVEBVXHRSQPO-UHFFFAOYSA-N",
+        "name": "colophonate"
+    },
+    {
+        "cas_number": "10311-84-9",
+        "inchi_key": "MUMQYXACQUZOFP-UHFFFAOYSA-N",
+        "name": "dialifos"
+    },
+    {
+        "cas_number": "41219-31-2",
+        "inchi_key": "QNZZKGBRJAVCIQ-UHFFFAOYSA-N",
+        "name": "dithicrofos"
+    },
+    {
+        "cas_number": "2778-04-3",
+        "inchi_key": "YCAGGFXSFQFVQL-UHFFFAOYSA-N",
+        "name": "endothion"
+    },
+    {
+        "cas_number": "2669-32-1",
+        "inchi_key": "FPMIAGPUNXEUCZ-UHFFFAOYSA-N",
+        "name": "lythidathion"
+    },
+    {
+        "cas_number": "78-57-9",
+        "inchi_key": "SUYHYHLFUHHVJQ-UHFFFAOYSA-N",
+        "name": "menazon"
+    },
+    {
+        "cas_number": "950-37-8",
+        "inchi_key": "MEBQXILRKZHVCX-UHFFFAOYSA-N",
+        "name": "methidathion"
+    },
+    {
+        "cas_number": "2597-03-7",
+        "inchi_key": "XAMUDJHXFNRLCY-UHFFFAOYSA-N",
+        "name": "phenthoate"
+    },
+    {
+        "cas_number": "2310-17-0",
+        "inchi_key": "IOUNQDKNJZEDEP-UHFFFAOYSA-N",
+        "name": "phosalone"
+    },
+    {
+        "cas_number": "732-11-6",
+        "inchi_key": "LMNZTLDVJIUSHT-UHFFFAOYSA-N",
+        "name": "phosmet"
+    },
+    {
+        "cas_number": "20276-83-9",
+        "inchi_key": "LQHMZSQJOYPNND-UHFFFAOYSA-N",
+        "name": "prothidathion"
+    },
+    {
+        "cas_number": "41219-32-3",
+        "inchi_key": "VIRFVCLSHYKKRP-UHFFFAOYSA-N",
+        "name": "thicrofos"
+    },
+    {
+        "cas_number": "63771-69-7",
+        "inchi_key": "UIQAVIOOENLZRU-UHFFFAOYSA-N",
+        "name": "zolaprofos"
+    },
+    {
+        "cas_number": "5834-96-8",
+        "inchi_key": "DCEAEHHJGXAROU-UHFFFAOYSA-N",
+        "name": "azothoate"
+    },
+    {
+        "cas_number": "2104-96-3",
+        "inchi_key": "NYQDCVLCJXRDSK-UHFFFAOYSA-N",
+        "name": "bromophos"
+    },
+    {
+        "cas_number": "4824-78-6",
+        "inchi_key": "KWGUFOITWDSNQY-UHFFFAOYSA-N",
+        "name": "bromophos-ethyl"
+    },
+    {
+        "cas_number": "60238-56-4",
+        "inchi_key": "component (i):WIQNXNHXIZXZFM-UHFFFAOYSA-Ncomponent (ii) (major component):JAZJVWLGNLCNDD-UHFFFAOYSA-Ncomponent (iii):HDAUYNBHGHGEGX-UHFFFAOYSA-N",
+        "name": "chlorthiophos"
+    },
+    {
+        "cas_number": "2636-26-2",
+        "inchi_key": "SCKHCCSZFPSHGR-UHFFFAOYSA-N",
+        "name": "cyanophos"
+    },
+    {
+        "cas_number": "115-93-5",
+        "inchi_key": "BSBSDQUZDZXGFN-UHFFFAOYSA-N",
+        "name": "cythioate"
+    },
+    {
+        "cas_number": "2463-84-5",
+        "inchi_key": "OTKXWJHPGBRXCR-UHFFFAOYSA-N",
+        "name": "dicapthon"
+    },
+    {
+        "cas_number": "97-17-6",
+        "inchi_key": "WGOWCPGHOCIHBW-UHFFFAOYSA-N",
+        "name": "dichlofenthion"
+    },
+    {
+        "cas_number": "38527-91-2",
+        "inchi_key": "ZGPVUVBRTCPAPZ-UHFFFAOYSA-N",
+        "name": "etaphos"
+    },
+    {
+        "cas_number": "52-85-7",
+        "inchi_key": "JISACBWYRJHSMG-UHFFFAOYSA-N",
+        "name": "famphur"
+    },
+    {
+        "cas_number": "299-84-3",
+        "inchi_key": "JHJOOSLFWRRSGU-UHFFFAOYSA-N",
+        "name": "fenchlorphos"
+    },
+    {
+        "cas_number": "122-14-5",
+        "inchi_key": "ZNOLGFHPUIJIMJ-UHFFFAOYSA-N",
+        "name": "fenitrothion"
+    },
+    {
+        "cas_number": "115-90-2",
+        "inchi_key": "XDNBJTQLKCIJBV-UHFFFAOYSA-N",
+        "name": "fensulfothion"
+    },
+    {
+        "cas_number": "55-38-9",
+        "inchi_key": "PNVJTZOFSHSLTO-UHFFFAOYSA-N",
+        "name": "fenthion"
+    },
+    {
+        "cas_number": "1716-09-2",
+        "inchi_key": "WGWJBWHBOKETRC-UHFFFAOYSA-N",
+        "name": "fenthion-ethyl"
+    },
+    {
+        "cas_number": "40626-35-5",
+        "inchi_key": "XRAFOYUFLGWMQB-UHFFFAOYSA-N",
+        "name": "heterophos"
+    },
+    {
+        "cas_number": "18181-70-9",
+        "inchi_key": "LFVLUOAHQIVABZ-UHFFFAOYSA-N",
+        "name": "jodfenphos"
+    },
+    {
+        "cas_number": "3761-41-9",
+        "inchi_key": "DLAPIMGBBDILHJ-UHFFFAOYSA-N",
+        "name": "mesulfenfos"
+    },
+    {
+        "cas_number": "56-38-2",
+        "inchi_key": "LCCNCVORNKJIRZ-UHFFFAOYSA-N",
+        "name": "parathion"
+    },
+    {
+        "cas_number": "298-00-0",
+        "inchi_key": "RLBIQVVOMOPOHC-UHFFFAOYSA-N",
+        "name": "parathion-methyl"
+    },
+    {
+        "cas_number": "5826-76-6",
+        "inchi_key": "UFNIXJPHHIPRFX-UHFFFAOYSA-N",
+        "name": "phosnichlor"
+    },
+    {
+        "cas_number": "41198-08-7",
+        "inchi_key": "QYMMJNLHFKGANY-UHFFFAOYSA-N",
+        "name": "profenofos"
+    },
+    {
+        "cas_number": "34643-46-4",
+        "inchi_key": "FITIWKDOCAUBQD-UHFFFAOYSA-N",
+        "name": "prothiofos"
+    },
+    {
+        "cas_number": "35400-43-2",
+        "inchi_key": "JXHJNEJVUNHLKO-UHFFFAOYSA-N",
+        "name": "sulprofos"
+    },
+    {
+        "cas_number": "3383-96-8",
+        "inchi_key": "WWJZWCUNLNYYAU-UHFFFAOYSA-N",
+        "name": "temephos"
+    },
+    {
+        "cas_number": "2633-54-7",
+        "inchi_key": "HBKPGGUHRZPDIE-UHFFFAOYSA-N",
+        "name": "trichlormetaphos-3"
+    },
+    {
+        "cas_number": "38524-82-2",
+        "inchi_key": "JJSBMWMYKICVIZ-UHFFFAOYSA-N",
+        "name": "trifenofos"
+    },
+    {
+        "cas_number": "171605-91-7",
+        "inchi_key": "LVHRDEVAWFGKBI-UHFFFAOYSA-N",
+        "name": "xiaochongliulin"
+    },
+    {
+        "cas_number": "126-22-7",
+        "inchi_key": "BKAQXYNWONVOAX-UHFFFAOYSA-N",
+        "name": "butonate"
+    },
+    {
+        "cas_number": "52-68-6",
+        "inchi_key": "NFACJZMKEDPNKN-UHFFFAOYSA-N",
+        "name": "trichlorfon"
+    },
+    {
+        "cas_number": "13067-93-1",
+        "inchi_key": "LRNJHZNPJSPMGK-UHFFFAOYSA-N",
+        "name": "cyanofenphos"
+    },
+    {
+        "cas_number": "2104-64-5",
+        "inchi_key": "AIGRXSNSLVJMEA-UHFFFAOYSA-N",
+        "name": "EPN"
+    },
+    {
+        "cas_number": "944-22-9",
+        "inchi_key": "KVGLBTYUCJYMND-UHFFFAOYSA-N",
+        "name": "fonofos"
+    },
+    {
+        "cas_number": "21609-90-5",
+        "inchi_key": "CVRALZAYCYJELZ-UHFFFAOYSA-N",
+        "name": "leptophos"
+    },
+    {
+        "cas_number": "29173-31-7",
+        "inchi_key": "PUTUPQVEMBRCAG-UHFFFAOYSA-N",
+        "name": "mecarphon"
+    },
+    {
+        "cas_number": "327-98-0",
+        "inchi_key": "ANIAQSUBRGXWLS-UHFFFAOYSA-N",
+        "name": "trichloronat"
+    },
+    {
+        "cas_number": "30560-19-1",
+        "inchi_key": "YASYVMFAVPKPKE-UHFFFAOYSA-N",
+        "name": "acephate"
+    },
+    {
+        "cas_number": "",
+        "inchi_key": "MBIOGXSXQDUSPT-UHFFFAOYSA-N",
+        "name": "chloramine phosphorus"
+    },
+    {
+        "cas_number": "299-86-5",
+        "inchi_key": "BOFHKBLZOYVHSI-UHFFFAOYSA-N",
+        "name": "crufomate"
+    },
+    {
+        "cas_number": "22224-92-6",
+        "inchi_key": "ZCJPOPBZHLUFHF-UHFFFAOYSA-N",
+        "name": "fenamiphos"
+    },
+    {
+        "cas_number": "21548-32-3",
+        "inchi_key": "RHJOIOVESMTJEK-UHFFFAOYSA-N",
+        "name": "fosthietan"
+    },
+    {
+        "cas_number": "24353-61-5",
+        "inchi_key": "YFVOXLJXJBQDEF-UHFFFAOYSA-N",
+        "name": "isocarbophos"
+    },
+    {
+        "cas_number": "25311-71-1",
+        "inchi_key": "HOQADATXFBOEGG-UHFFFAOYSA-N",
+        "name": "isofenphos"
+    },
+    {
+        "cas_number": "99675-03-3",
+        "inchi_key": "IXTOWLKEARFCCP-UHFFFAOYSA-N",
+        "name": "isofenphos-methyl"
+    },
+    {
+        "cas_number": "950-10-7",
+        "inchi_key": "LTQSAUHRSCMPLD-UHFFFAOYSA-N",
+        "name": "mephosfolan"
+    },
+    {
+        "cas_number": "10265-92-6",
+        "inchi_key": "NNKVPIKMPCQWCG-UHFFFAOYSA-N",
+        "name": "methamidophos"
+    },
+    {
+        "cas_number": "947-02-4",
+        "inchi_key": "ILBONRFSLATCRE-UHFFFAOYSA-N",
+        "name": "phosfolan"
+    },
+    {
+        "cas_number": "5120-23-0",
+        "inchi_key": "CWXVDJFKMQCYFG-UHFFFAOYSA-N",
+        "name": "phosfolan-methyl"
+    },
+    {
+        "cas_number": "105084-66-0",
+        "inchi_key": "CGNIOVDMKMGGSL-UHFFFAOYSA-N",
+        "name": "phosglycin"
+    },
+    {
+        "cas_number": "31377-69-2",
+        "inchi_key": "HEUHRGXVQSOSHP-UHFFFAOYSA-N",
+        "name": "pirimetaphos"
+    },
+    {
+        "cas_number": "31218-83-4",
+        "inchi_key": "BZNDWPRGXNILMS-VQHVLOKHSA-N",
+        "name": "propetamphos"
+    },
+    {
+        "cas_number": "115-26-4",
+        "inchi_key": "PGJBQBDNXAZHBP-UHFFFAOYSA-N",
+        "name": "dimefox"
+    },
+    {
+        "cas_number": "371-86-8",
+        "inchi_key": "UOSHUBFBCPGQAY-UHFFFAOYSA-N",
+        "name": "mipafox"
+    },
+    {
+        "cas_number": "152-16-9",
+        "inchi_key": "SZKKRCSOSQAJDE-UHFFFAOYSA-N",
+        "name": "schradan"
+    },
+    {
+        "cas_number": "7219-78-5",
+        "inchi_key": "UCFRFUMJIKZSBD-UHFFFAOYSA-N",
+        "name": "mazidox"
+    },
+    {
+        "cas_number": "1031-47-6",
+        "inchi_key": "BABJTMNVJXLAEX-UHFFFAOYSA-N",
+        "name": "triamiphos"
+    },
+    {
+        "cas_number": "33399-00-7",
+        "inchi_key": "ORDKAVSHIKNMAN-UHFFFAOYSA-N",
+        "name": "bromfenvinfos"
+    },
+    {
+        "cas_number": "6465-92-5",
+        "inchi_key": "FJKPGYUFYLHBPX-UHFFFAOYSA-LCAS version:OSOBLYZRACRUCC-UHFFFAOYSA-L",
+        "name": "calvinphos"
+    },
+    {
+        "cas_number": "470-90-6",
+        "inchi_key": "FSAVDKDHPDSCTO-UHFFFAOYSA-N",
+        "name": "chlorfenvinphos"
+    },
+    {
+        "cas_number": "7700-17-6",
+        "inchi_key": "XXXSILNSXNPGKG-ZHACJKMWSA-N",
+        "name": "crotoxyphos"
+    },
+    {
+        "cas_number": "62-73-7",
+        "inchi_key": "OEBRKCOSUFCWJD-UHFFFAOYSA-N",
+        "name": "dichlorvos"
+    },
+    {
+        "cas_number": "141-66-2",
+        "inchi_key": "VEENJGZXVHKXNB-VOTSOKGWSA-N",
+        "name": "dicrotophos"
+    },
+    {
+        "cas_number": "67628-93-7",
+        "inchi_key": "QSGNQELHULIMSJ-POHAHGRESA-N",
+        "name": "dimethylvinphos"
+    },
+    {
+        "cas_number": "5598-52-7",
+        "inchi_key": "XCBOKUAJQWDYNI-UHFFFAOYSA-N",
+        "name": "fospirate"
+    },
+    {
+        "cas_number": "23560-59-0",
+        "inchi_key": "GBAWQJNHVWMTLU-UHFFFAOYSA-N",
+        "name": "heptenophos"
+    },
+    {
+        "cas_number": "25601-84-7",
+        "inchi_key": "WEDGYOKZJHBCGP-VOTSOKGWSA-N",
+        "name": "methocrotophos"
+    },
+    {
+        "cas_number": "7786-34-7",
+        "inchi_key": "GEPDYQSQVLXLEU-UHFFFAOYSA-N",
+        "name": "mevinphos"
+    },
+    {
+        "cas_number": "6923-22-4",
+        "inchi_key": "KRTSDMXIXPKRQR-AATRIKPKSA-N",
+        "name": "monocrotophos"
+    },
+    {
+        "cas_number": "300-76-5",
+        "inchi_key": "BUYMVQAILCEWRR-UHFFFAOYSA-N",
+        "name": "naled"
+    },
+    {
+        "cas_number": "1491-41-4",
+        "inchi_key": "QNSIFYWAPWSAIJ-UHFFFAOYSA-N",
+        "name": "naftalofos"
+    },
+    {
+        "cas_number": "13171-21-6",
+        "inchi_key": "RGCLLPNLLBQHPF-UHFFFAOYSA-N",
+        "name": "phosphamidon"
+    },
+    {
+        "cas_number": "7292-16-2",
+        "inchi_key": "PWYIUEFFPNVCMW-UHFFFAOYSA-N",
+        "name": "propaphos"
+    },
+    {
+        "cas_number": "107-49-3",
+        "inchi_key": "IDCBOTIENDVCBQ-UHFFFAOYSA-N",
+        "name": "TEPP"
+    },
+    {
+        "cas_number": "22248-79-9",
+        "inchi_key": "UBCKGWBNUIFUST-YHYXMXQVSA-N",
+        "name": "tetrachlorvinphos"
+    },
+    {
+        "cas_number": "14816-20-7",
+        "inchi_key": "GQKRUMZWUHSLJF-UHFFFAOYSA-N",
+        "name": "chlorphoxim"
+    },
+    {
+        "cas_number": "3811-49-2",
+        "inchi_key": "OUNSASXJZHBGAI-UHFFFAOYSA-N",
+        "name": "dioxabenzofos"
+    },
+    {
+        "cas_number": "14816-18-3",
+        "inchi_key": "ATROHALUCMTWTB-UHFFFAOYSA-N",
+        "name": "phoxim"
+    },
+    {
+        "cas_number": "14816-16-1",
+        "inchi_key": "QQVNWNVUGXNUJN-UHFFFAOYSA-N",
+        "name": "phoxim-methyl"
+    },
+    {
+        "cas_number": "3689-24-5",
+        "inchi_key": "XIUROWKZWPIAIB-UHFFFAOYSA-N",
+        "name": "sulfotep"
+    },
+    {
+        "cas_number": "919-76-6",
+        "inchi_key": "GDTZUQIYUMGJRT-UHFFFAOYSA-N",
+        "name": "amidithion"
+    },
+    {
+        "cas_number": "3734-95-0",
+        "inchi_key": "TWDJIKFUVRYBJF-UHFFFAOYSA-N",
+        "name": "cyanthoate"
+    },
+    {
+        "cas_number": "60-51-5",
+        "inchi_key": "MCWXGJITAZMZEV-UHFFFAOYSA-N",
+        "name": "dimethoate"
+    },
+    {
+        "cas_number": "116-01-8",
+        "inchi_key": "DICRHEJCQXFJBY-UHFFFAOYSA-N",
+        "name": "ethoate-methyl"
+    },
+    {
+        "cas_number": "2540-82-1",
+        "inchi_key": "AIKKULXCBHRFOS-UHFFFAOYSA-N",
+        "name": "formothion"
+    },
+    {
+        "cas_number": "2595-54-2",
+        "inchi_key": "KLGMSAOQDHLCOS-UHFFFAOYSA-N",
+        "name": "mecarbam"
+    },
+    {
+        "cas_number": "144-41-2",
+        "inchi_key": "NTHGWXIWFHGPLK-UHFFFAOYSA-N",
+        "name": "morphothion"
+    },
+    {
+        "cas_number": "1113-02-6",
+        "inchi_key": "PZXOQEXFMJCDPG-UHFFFAOYSA-N",
+        "name": "omethoate"
+    },
+    {
+        "cas_number": "2275-18-5",
+        "inchi_key": "QTXHFDHVLBDJIO-UHFFFAOYSA-N",
+        "name": "prothoate"
+    },
+    {
+        "cas_number": "37032-15-8",
+        "inchi_key": "FCUBTKFQDYNIIC-UHFFFAOYSA-N",
+        "name": "sophamide"
+    },
+    {
+        "cas_number": "919-54-0",
+        "inchi_key": "AISZOMRXKKCPIS-UHFFFAOYSA-N",
+        "name": "acethion"
+    },
+    {
+        "cas_number": "2425-25-4",
+        "inchi_key": "ZRCQYAQOWIQUBA-UHFFFAOYSA-N",
+        "name": "acetophos"
+    },
+    {
+        "cas_number": "78-53-5",
+        "inchi_key": "PJISLFCKHOHLLP-UHFFFAOYSA-N",
+        "name": "amiton"
+    },
+    {
+        "cas_number": "95465-99-9",
+        "inchi_key": "KXRPCFINVWWFHQ-UHFFFAOYSA-N",
+        "name": "cadusafos"
+    },
+    {
+        "cas_number": "786-19-6",
+        "inchi_key": "VEDTXTNSFWUXGQ-UHFFFAOYSA-N",
+        "name": "carbophenothion"
+    },
+    {
+        "cas_number": "54593-83-8",
+        "inchi_key": "XFDJMIHUAHSGKG-UHFFFAOYSA-N",
+        "name": "chlorethoxyfos"
+    },
+    {
+        "cas_number": "24934-91-6",
+        "inchi_key": "QGTYWWGEWOBMAK-UHFFFAOYSA-N",
+        "name": "chlormephos"
+    },
+    {
+        "cas_number": "8065-62-1",
+        "inchi_key": "demephion-O:IATBEFPCSHFQJS-UHFFFAOYSA-Ndemephion-S:PSTWJANBJOHFQJ-UHFFFAOYSA-N",
+        "name": "demephion"
+    },
+    {
+        "cas_number": "682-80-4",
+        "inchi_key": "IATBEFPCSHFQJS-UHFFFAOYSA-N",
+        "name": "demephion-O"
+    },
+    {
+        "cas_number": "2587-90-8",
+        "inchi_key": "PSTWJANBJOHFQJ-UHFFFAOYSA-N",
+        "name": "demephion-S"
+    },
+    {
+        "cas_number": "8065-48-3",
+        "inchi_key": "demeton-O:DGLIBALSRMUQDD-UHFFFAOYSA-Ndemeton-S:GRPRVIYRYGLIJU-UHFFFAOYSA-N",
+        "name": "demeton"
+    },
+    {
+        "cas_number": "298-03-3",
+        "inchi_key": "DGLIBALSRMUQDD-UHFFFAOYSA-N",
+        "name": "demeton-O"
+    },
+    {
+        "cas_number": "126-75-0",
+        "inchi_key": "GRPRVIYRYGLIJU-UHFFFAOYSA-N",
+        "name": "demeton-S"
+    },
+    {
+        "cas_number": "8022-00-2",
+        "inchi_key": "demeton-O-methyl:ZVZQKNVMDKSGGF-UHFFFAOYSA-Ndemeton-S-methyl:WEBQKRLKWNIYKK-UHFFFAOYSA-N",
+        "name": "demeton-methyl"
+    },
+    {
+        "cas_number": "867-27-6",
+        "inchi_key": "ZVZQKNVMDKSGGF-UHFFFAOYSA-N",
+        "name": "demeton-O-methyl"
+    },
+    {
+        "cas_number": "919-86-8",
+        "inchi_key": "WEBQKRLKWNIYKK-UHFFFAOYSA-N",
+        "name": "demeton-S-methyl"
+    },
+    {
+        "cas_number": "17040-19-6",
+        "inchi_key": "PZIRJMYRYORVIT-UHFFFAOYSA-N",
+        "name": "demeton-S-methylsulphon"
+    },
+    {
+        "cas_number": "78-34-2",
+        "inchi_key": "VBKKVDGJXVOLNE-UHFFFAOYSA-N",
+        "name": "dioxathion"
+    },
+    {
+        "cas_number": "298-04-4",
+        "inchi_key": "DOFZAZXDOSGAJZ-UHFFFAOYSA-N",
+        "name": "disulfoton"
+    },
+    {
+        "cas_number": "563-12-2",
+        "inchi_key": "RIZMRRKBZQXFOY-UHFFFAOYSA-N",
+        "name": "ethion"
+    },
+    {
+        "cas_number": "13194-48-4",
+        "inchi_key": "VJYFKVYYMZPMAB-UHFFFAOYSA-N",
+        "name": "ethoprophos"
+    },
+    {
+        "cas_number": "83733-82-8",
+        "inchi_key": "MVBGKYGTNGPFHT-UHFFFAOYSA-N",
+        "name": "fosmethilan"
+    },
+    {
+        "cas_number": "5827-05-4",
+        "inchi_key": "KOTOUBGHZHWCCJ-UHFFFAOYSA-N",
+        "name": "IPSP"
+    },
+    {
+        "cas_number": "36614-38-7",
+        "inchi_key": "SPCNPOWOBZQWJK-UHFFFAOYSA-N",
+        "name": "isothioate"
+    },
+    {
+        "cas_number": "121-75-5",
+        "inchi_key": "JXSJBGJIGXNWCI-UHFFFAOYSA-N",
+        "name": "malathion"
+    },
+    {
+        "cas_number": "62610-77-9",
+        "inchi_key": "NTAHCMPOMKHKEU-AATRIKPKSA-N",
+        "name": "methacrifos"
+    },
+    {
+        "cas_number": "2088-72-4",
+        "inchi_key": "LIXQYRZDAFGLSQ-UHFFFAOYSA-N",
+        "name": "methylacetophos"
+    },
+    {
+        "cas_number": "301-12-2",
+        "inchi_key": "PMCVMORKVPSKHZ-UHFFFAOYSA-N",
+        "name": "oxydemeton-methyl"
+    },
+    {
+        "cas_number": "2674-91-1",
+        "inchi_key": "JAYZFNIOOYPIAH-UHFFFAOYSA-N",
+        "name": "oxydeprofos"
+    },
+    {
+        "cas_number": "2497-07-6",
+        "inchi_key": "UPUGLJYNCXXUQV-UHFFFAOYSA-N",
+        "name": "oxydisulfoton"
+    },
+    {
+        "cas_number": "2275-14-1",
+        "inchi_key": "GGNLTHFTYNDYNK-UHFFFAOYSA-N",
+        "name": "phenkapton"
+    },
+    {
+        "cas_number": "298-02-2",
+        "inchi_key": "BULVZWIRKLYCBC-UHFFFAOYSA-N",
+        "name": "phorate"
+    },
+    {
+        "cas_number": "13071-79-9",
+        "inchi_key": "XLNZEKHULJKQBA-UHFFFAOYSA-N",
+        "name": "terbufos"
+    },
+    {
+        "cas_number": "640-15-3",
+        "inchi_key": "OPASCBHCTNRLRM-UHFFFAOYSA-N",
+        "name": "thiometon"
+    },
+    {
+        "cas_number": "90338-20-8",
+        "inchi_key": "YMTQHWMPGDSBOD-UHFFFAOYSA-N",
+        "name": "butathiofos"
+    },
+    {
+        "cas_number": "36145-08-1",
+        "inchi_key": "ZCMOTOWEBLMCEO-UHFFFAOYSA-N",
+        "name": "chlorprazophos"
+    },
+    {
+        "cas_number": "2921-88-2",
+        "inchi_key": "SBPBAQFWLVIOKP-UHFFFAOYSA-N",
+        "name": "chlorpyrifos"
+    },
+    {
+        "cas_number": "5598-13-0",
+        "inchi_key": "HRBKVYFZANMGRE-UHFFFAOYSA-N",
+        "name": "chlorpyrifos-methyl"
+    },
+    {
+        "cas_number": "56-72-4",
+        "inchi_key": "BXNANOICGRISHX-UHFFFAOYSA-N",
+        "name": "coumaphos"
+    },
+    {
+        "cas_number": "572-48-5",
+        "inchi_key": "NSMRHYDOKZAMKJ-UHFFFAOYSA-N",
+        "name": "coumithoate"
+    },
+    {
+        "cas_number": "333-41-5",
+        "inchi_key": "FHIVAFMUCKRCQO-UHFFFAOYSA-N",
+        "name": "diazinon"
+    },
+    {
+        "cas_number": "38260-54-7",
+        "inchi_key": "FGIWFCGDPUIBEZ-UHFFFAOYSA-N",
+        "name": "etrimfos"
+    },
+    {
+        "cas_number": "122431-24-7",
+        "inchi_key": "JZUKGAJJLZRHGL-UHFFFAOYSA-N",
+        "name": "flupyrazofos"
+    },
+    {
+        "cas_number": "42509-80-8",
+        "inchi_key": "XRHGWAGWAHHFLF-UHFFFAOYSA-N",
+        "name": "isazofos"
+    },
+    {
+        "cas_number": "18854-01-8",
+        "inchi_key": "SDMSCIWHRZJSRN-UHFFFAOYSA-N",
+        "name": "isoxathion"
+    },
+    {
+        "cas_number": "38260-63-8",
+        "inchi_key": "IIJPGEXICYPSKQ-UHFFFAOYSA-N",
+        "name": "lirimfos"
+    },
+    {
+        "cas_number": "55996-32-2",
+        "inchi_key": "JPAJTPFDIZFTJN-UHFFFAOYSA-N",
+        "name": "pirimioxyphos"
+    },
+    {
+        "cas_number": "23505-41-1",
+        "inchi_key": "TZBPRYIIJAJUOY-UHFFFAOYSA-N",
+        "name": "pirimiphos-ethyl"
+    },
+    {
+        "cas_number": "29232-93-7",
+        "inchi_key": "QHOQHJPRIBSPCY-UHFFFAOYSA-N",
+        "name": "pirimiphos-methyl"
+    },
+    {
+        "cas_number": "39247-96-6",
+        "inchi_key": "FBFCWTCMDMUSDI-UHFFFAOYSA-N",
+        "name": "primidophos"
+    },
+    {
+        "cas_number": "89784-60-1 (formerly 77458-01-6)",
+        "inchi_key": "QHGVXILFMXYDRS-UHFFFAOYSA-N",
+        "name": "pyraclofos"
+    },
+    {
+        "cas_number": "13457-18-6",
+        "inchi_key": "JOOMJVFZQRQWKR-UHFFFAOYSA-N",
+        "name": "pyrazophos"
+    },
+    {
+        "cas_number": "108-35-0",
+        "inchi_key": "NKADQNIAHIXOIZ-UHFFFAOYSA-N",
+        "name": "pyrazothion"
+    },
+    {
+        "cas_number": "119-12-0",
+        "inchi_key": "CXJSOEPQXUCJSA-UHFFFAOYSA-N",
+        "name": "pyridaphenthion"
+    },
+    {
+        "cas_number": "5221-49-8",
+        "inchi_key": "MLDVVJZNWASRQL-UHFFFAOYSA-N",
+        "name": "pyrimitate"
+    },
+    {
+        "cas_number": "13593-03-8",
+        "inchi_key": "JYQUHIFYBATCCY-UHFFFAOYSA-N",
+        "name": "quinalphos"
+    },
+    {
+        "cas_number": "13593-08-3",
+        "inchi_key": "RNGDKAQQWUYBAS-UHFFFAOYSA-N",
+        "name": "quinalphos-methyl"
+    },
+    {
+        "cas_number": "22439-40-3",
+        "inchi_key": "RVQMZGWUSHPUCC-UHFFFAOYSA-N",
+        "name": "quinothion"
+    },
+    {
+        "cas_number": "96182-53-5",
+        "inchi_key": "AWYOMXWDGWUJHS-UHFFFAOYSA-N",
+        "name": "tebupirimfos"
+    },
+    {
+        "cas_number": "24017-47-8",
+        "inchi_key": "AMFGTOFWMRQMEM-UHFFFAOYSA-N",
+        "name": "triazophos"
+    },
+    {
+        "cas_number": "19691-80-6",
+        "inchi_key": "QAOFKYGUSMPWNY-UHFFFAOYSA-N",
+        "name": "athidathion"
+    },
+    {
+        "cas_number": "35575-96-3",
+        "inchi_key": "VNKBTWQZTQIWDV-UHFFFAOYSA-N",
+        "name": "azamethiphos"
+    },
+    {
+        "cas_number": "2642-71-9",
+        "inchi_key": "RQVGAIADHNPSME-UHFFFAOYSA-N",
+        "name": "azinphos-ethyl"
+    },
+    {
+        "cas_number": "86-50-0",
+        "inchi_key": "CJJOSEISRRTUQB-UHFFFAOYSA-N",
+        "name": "azinphos-methyl"
+    },
+    {
+        "cas_number": "50398-69-1",
+        "inchi_key": "RZXVEBVXHRSQPO-UHFFFAOYSA-N",
+        "name": "colophonate"
+    },
+    {
+        "cas_number": "10311-84-9",
+        "inchi_key": "MUMQYXACQUZOFP-UHFFFAOYSA-N",
+        "name": "dialifos"
+    },
+    {
+        "cas_number": "41219-31-2",
+        "inchi_key": "QNZZKGBRJAVCIQ-UHFFFAOYSA-N",
+        "name": "dithicrofos"
+    },
+    {
+        "cas_number": "2778-04-3",
+        "inchi_key": "YCAGGFXSFQFVQL-UHFFFAOYSA-N",
+        "name": "endothion"
+    },
+    {
+        "cas_number": "2669-32-1",
+        "inchi_key": "FPMIAGPUNXEUCZ-UHFFFAOYSA-N",
+        "name": "lythidathion"
+    },
+    {
+        "cas_number": "78-57-9",
+        "inchi_key": "SUYHYHLFUHHVJQ-UHFFFAOYSA-N",
+        "name": "menazon"
+    },
+    {
+        "cas_number": "950-37-8",
+        "inchi_key": "MEBQXILRKZHVCX-UHFFFAOYSA-N",
+        "name": "methidathion"
+    },
+    {
+        "cas_number": "2597-03-7",
+        "inchi_key": "XAMUDJHXFNRLCY-UHFFFAOYSA-N",
+        "name": "phenthoate"
+    },
+    {
+        "cas_number": "2310-17-0",
+        "inchi_key": "IOUNQDKNJZEDEP-UHFFFAOYSA-N",
+        "name": "phosalone"
+    },
+    {
+        "cas_number": "732-11-6",
+        "inchi_key": "LMNZTLDVJIUSHT-UHFFFAOYSA-N",
+        "name": "phosmet"
+    },
+    {
+        "cas_number": "20276-83-9",
+        "inchi_key": "LQHMZSQJOYPNND-UHFFFAOYSA-N",
+        "name": "prothidathion"
+    },
+    {
+        "cas_number": "41219-32-3",
+        "inchi_key": "VIRFVCLSHYKKRP-UHFFFAOYSA-N",
+        "name": "thicrofos"
+    },
+    {
+        "cas_number": "63771-69-7",
+        "inchi_key": "UIQAVIOOENLZRU-UHFFFAOYSA-N",
+        "name": "zolaprofos"
+    },
+    {
+        "cas_number": "5834-96-8",
+        "inchi_key": "DCEAEHHJGXAROU-UHFFFAOYSA-N",
+        "name": "azothoate"
+    },
+    {
+        "cas_number": "2104-96-3",
+        "inchi_key": "NYQDCVLCJXRDSK-UHFFFAOYSA-N",
+        "name": "bromophos"
+    },
+    {
+        "cas_number": "4824-78-6",
+        "inchi_key": "KWGUFOITWDSNQY-UHFFFAOYSA-N",
+        "name": "bromophos-ethyl"
+    },
+    {
+        "cas_number": "60238-56-4",
+        "inchi_key": "component (i):WIQNXNHXIZXZFM-UHFFFAOYSA-Ncomponent (ii) (major component):JAZJVWLGNLCNDD-UHFFFAOYSA-Ncomponent (iii):HDAUYNBHGHGEGX-UHFFFAOYSA-N",
+        "name": "chlorthiophos"
+    },
+    {
+        "cas_number": "2636-26-2",
+        "inchi_key": "SCKHCCSZFPSHGR-UHFFFAOYSA-N",
+        "name": "cyanophos"
+    },
+    {
+        "cas_number": "115-93-5",
+        "inchi_key": "BSBSDQUZDZXGFN-UHFFFAOYSA-N",
+        "name": "cythioate"
+    },
+    {
+        "cas_number": "2463-84-5",
+        "inchi_key": "OTKXWJHPGBRXCR-UHFFFAOYSA-N",
+        "name": "dicapthon"
+    },
+    {
+        "cas_number": "97-17-6",
+        "inchi_key": "WGOWCPGHOCIHBW-UHFFFAOYSA-N",
+        "name": "dichlofenthion"
+    },
+    {
+        "cas_number": "38527-91-2",
+        "inchi_key": "ZGPVUVBRTCPAPZ-UHFFFAOYSA-N",
+        "name": "etaphos"
+    },
+    {
+        "cas_number": "52-85-7",
+        "inchi_key": "JISACBWYRJHSMG-UHFFFAOYSA-N",
+        "name": "famphur"
+    },
+    {
+        "cas_number": "299-84-3",
+        "inchi_key": "JHJOOSLFWRRSGU-UHFFFAOYSA-N",
+        "name": "fenchlorphos"
+    },
+    {
+        "cas_number": "122-14-5",
+        "inchi_key": "ZNOLGFHPUIJIMJ-UHFFFAOYSA-N",
+        "name": "fenitrothion"
+    },
+    {
+        "cas_number": "115-90-2",
+        "inchi_key": "XDNBJTQLKCIJBV-UHFFFAOYSA-N",
+        "name": "fensulfothion"
+    },
+    {
+        "cas_number": "55-38-9",
+        "inchi_key": "PNVJTZOFSHSLTO-UHFFFAOYSA-N",
+        "name": "fenthion"
+    },
+    {
+        "cas_number": "1716-09-2",
+        "inchi_key": "WGWJBWHBOKETRC-UHFFFAOYSA-N",
+        "name": "fenthion-ethyl"
+    },
+    {
+        "cas_number": "40626-35-5",
+        "inchi_key": "XRAFOYUFLGWMQB-UHFFFAOYSA-N",
+        "name": "heterophos"
+    },
+    {
+        "cas_number": "18181-70-9",
+        "inchi_key": "LFVLUOAHQIVABZ-UHFFFAOYSA-N",
+        "name": "jodfenphos"
+    },
+    {
+        "cas_number": "3761-41-9",
+        "inchi_key": "DLAPIMGBBDILHJ-UHFFFAOYSA-N",
+        "name": "mesulfenfos"
+    },
+    {
+        "cas_number": "56-38-2",
+        "inchi_key": "LCCNCVORNKJIRZ-UHFFFAOYSA-N",
+        "name": "parathion"
+    },
+    {
+        "cas_number": "298-00-0",
+        "inchi_key": "RLBIQVVOMOPOHC-UHFFFAOYSA-N",
+        "name": "parathion-methyl"
+    },
+    {
+        "cas_number": "5826-76-6",
+        "inchi_key": "UFNIXJPHHIPRFX-UHFFFAOYSA-N",
+        "name": "phosnichlor"
+    },
+    {
+        "cas_number": "41198-08-7",
+        "inchi_key": "QYMMJNLHFKGANY-UHFFFAOYSA-N",
+        "name": "profenofos"
+    },
+    {
+        "cas_number": "34643-46-4",
+        "inchi_key": "FITIWKDOCAUBQD-UHFFFAOYSA-N",
+        "name": "prothiofos"
+    },
+    {
+        "cas_number": "35400-43-2",
+        "inchi_key": "JXHJNEJVUNHLKO-UHFFFAOYSA-N",
+        "name": "sulprofos"
+    },
+    {
+        "cas_number": "3383-96-8",
+        "inchi_key": "WWJZWCUNLNYYAU-UHFFFAOYSA-N",
+        "name": "temephos"
+    },
+    {
+        "cas_number": "2633-54-7",
+        "inchi_key": "HBKPGGUHRZPDIE-UHFFFAOYSA-N",
+        "name": "trichlormetaphos-3"
+    },
+    {
+        "cas_number": "38524-82-2",
+        "inchi_key": "JJSBMWMYKICVIZ-UHFFFAOYSA-N",
+        "name": "trifenofos"
+    },
+    {
+        "cas_number": "171605-91-7",
+        "inchi_key": "LVHRDEVAWFGKBI-UHFFFAOYSA-N",
+        "name": "xiaochongliulin"
+    },
+    {
+        "cas_number": "919-76-6",
+        "inchi_key": "GDTZUQIYUMGJRT-UHFFFAOYSA-N",
+        "name": "amidithion"
+    },
+    {
+        "cas_number": "3734-95-0",
+        "inchi_key": "TWDJIKFUVRYBJF-UHFFFAOYSA-N",
+        "name": "cyanthoate"
+    },
+    {
+        "cas_number": "60-51-5",
+        "inchi_key": "MCWXGJITAZMZEV-UHFFFAOYSA-N",
+        "name": "dimethoate"
+    },
+    {
+        "cas_number": "116-01-8",
+        "inchi_key": "DICRHEJCQXFJBY-UHFFFAOYSA-N",
+        "name": "ethoate-methyl"
+    },
+    {
+        "cas_number": "2540-82-1",
+        "inchi_key": "AIKKULXCBHRFOS-UHFFFAOYSA-N",
+        "name": "formothion"
+    },
+    {
+        "cas_number": "2595-54-2",
+        "inchi_key": "KLGMSAOQDHLCOS-UHFFFAOYSA-N",
+        "name": "mecarbam"
+    },
+    {
+        "cas_number": "144-41-2",
+        "inchi_key": "NTHGWXIWFHGPLK-UHFFFAOYSA-N",
+        "name": "morphothion"
+    },
+    {
+        "cas_number": "1113-02-6",
+        "inchi_key": "PZXOQEXFMJCDPG-UHFFFAOYSA-N",
+        "name": "omethoate"
+    },
+    {
+        "cas_number": "2275-18-5",
+        "inchi_key": "QTXHFDHVLBDJIO-UHFFFAOYSA-N",
+        "name": "prothoate"
+    },
+    {
+        "cas_number": "37032-15-8",
+        "inchi_key": "FCUBTKFQDYNIIC-UHFFFAOYSA-N",
+        "name": "sophamide"
+    },
+    {
+        "cas_number": "919-54-0",
+        "inchi_key": "AISZOMRXKKCPIS-UHFFFAOYSA-N",
+        "name": "acethion"
+    },
+    {
+        "cas_number": "2425-25-4",
+        "inchi_key": "ZRCQYAQOWIQUBA-UHFFFAOYSA-N",
+        "name": "acetophos"
+    },
+    {
+        "cas_number": "78-53-5",
+        "inchi_key": "PJISLFCKHOHLLP-UHFFFAOYSA-N",
+        "name": "amiton"
+    },
+    {
+        "cas_number": "95465-99-9",
+        "inchi_key": "KXRPCFINVWWFHQ-UHFFFAOYSA-N",
+        "name": "cadusafos"
+    },
+    {
+        "cas_number": "786-19-6",
+        "inchi_key": "VEDTXTNSFWUXGQ-UHFFFAOYSA-N",
+        "name": "carbophenothion"
+    },
+    {
+        "cas_number": "54593-83-8",
+        "inchi_key": "XFDJMIHUAHSGKG-UHFFFAOYSA-N",
+        "name": "chlorethoxyfos"
+    },
+    {
+        "cas_number": "24934-91-6",
+        "inchi_key": "QGTYWWGEWOBMAK-UHFFFAOYSA-N",
+        "name": "chlormephos"
+    },
+    {
+        "cas_number": "8065-62-1",
+        "inchi_key": "demephion-O:IATBEFPCSHFQJS-UHFFFAOYSA-Ndemephion-S:PSTWJANBJOHFQJ-UHFFFAOYSA-N",
+        "name": "demephion"
+    },
+    {
+        "cas_number": "682-80-4",
+        "inchi_key": "IATBEFPCSHFQJS-UHFFFAOYSA-N",
+        "name": "demephion-O"
+    },
+    {
+        "cas_number": "2587-90-8",
+        "inchi_key": "PSTWJANBJOHFQJ-UHFFFAOYSA-N",
+        "name": "demephion-S"
+    },
+    {
+        "cas_number": "8065-48-3",
+        "inchi_key": "demeton-O:DGLIBALSRMUQDD-UHFFFAOYSA-Ndemeton-S:GRPRVIYRYGLIJU-UHFFFAOYSA-N",
+        "name": "demeton"
+    },
+    {
+        "cas_number": "298-03-3",
+        "inchi_key": "DGLIBALSRMUQDD-UHFFFAOYSA-N",
+        "name": "demeton-O"
+    },
+    {
+        "cas_number": "126-75-0",
+        "inchi_key": "GRPRVIYRYGLIJU-UHFFFAOYSA-N",
+        "name": "demeton-S"
+    },
+    {
+        "cas_number": "8022-00-2",
+        "inchi_key": "demeton-O-methyl:ZVZQKNVMDKSGGF-UHFFFAOYSA-Ndemeton-S-methyl:WEBQKRLKWNIYKK-UHFFFAOYSA-N",
+        "name": "demeton-methyl"
+    },
+    {
+        "cas_number": "867-27-6",
+        "inchi_key": "ZVZQKNVMDKSGGF-UHFFFAOYSA-N",
+        "name": "demeton-O-methyl"
+    },
+    {
+        "cas_number": "919-86-8",
+        "inchi_key": "WEBQKRLKWNIYKK-UHFFFAOYSA-N",
+        "name": "demeton-S-methyl"
+    },
+    {
+        "cas_number": "17040-19-6",
+        "inchi_key": "PZIRJMYRYORVIT-UHFFFAOYSA-N",
+        "name": "demeton-S-methylsulphon"
+    },
+    {
+        "cas_number": "78-34-2",
+        "inchi_key": "VBKKVDGJXVOLNE-UHFFFAOYSA-N",
+        "name": "dioxathion"
+    },
+    {
+        "cas_number": "298-04-4",
+        "inchi_key": "DOFZAZXDOSGAJZ-UHFFFAOYSA-N",
+        "name": "disulfoton"
+    },
+    {
+        "cas_number": "563-12-2",
+        "inchi_key": "RIZMRRKBZQXFOY-UHFFFAOYSA-N",
+        "name": "ethion"
+    },
+    {
+        "cas_number": "13194-48-4",
+        "inchi_key": "VJYFKVYYMZPMAB-UHFFFAOYSA-N",
+        "name": "ethoprophos"
+    },
+    {
+        "cas_number": "83733-82-8",
+        "inchi_key": "MVBGKYGTNGPFHT-UHFFFAOYSA-N",
+        "name": "fosmethilan"
+    },
+    {
+        "cas_number": "5827-05-4",
+        "inchi_key": "KOTOUBGHZHWCCJ-UHFFFAOYSA-N",
+        "name": "IPSP"
+    },
+    {
+        "cas_number": "36614-38-7",
+        "inchi_key": "SPCNPOWOBZQWJK-UHFFFAOYSA-N",
+        "name": "isothioate"
+    },
+    {
+        "cas_number": "121-75-5",
+        "inchi_key": "JXSJBGJIGXNWCI-UHFFFAOYSA-N",
+        "name": "malathion"
+    },
+    {
+        "cas_number": "62610-77-9",
+        "inchi_key": "NTAHCMPOMKHKEU-AATRIKPKSA-N",
+        "name": "methacrifos"
+    },
+    {
+        "cas_number": "2088-72-4",
+        "inchi_key": "LIXQYRZDAFGLSQ-UHFFFAOYSA-N",
+        "name": "methylacetophos"
+    },
+    {
+        "cas_number": "301-12-2",
+        "inchi_key": "PMCVMORKVPSKHZ-UHFFFAOYSA-N",
+        "name": "oxydemeton-methyl"
+    },
+    {
+        "cas_number": "2674-91-1",
+        "inchi_key": "JAYZFNIOOYPIAH-UHFFFAOYSA-N",
+        "name": "oxydeprofos"
+    },
+    {
+        "cas_number": "2497-07-6",
+        "inchi_key": "UPUGLJYNCXXUQV-UHFFFAOYSA-N",
+        "name": "oxydisulfoton"
+    },
+    {
+        "cas_number": "2275-14-1",
+        "inchi_key": "GGNLTHFTYNDYNK-UHFFFAOYSA-N",
+        "name": "phenkapton"
+    },
+    {
+        "cas_number": "298-02-2",
+        "inchi_key": "BULVZWIRKLYCBC-UHFFFAOYSA-N",
+        "name": "phorate"
+    },
+    {
+        "cas_number": "13071-79-9",
+        "inchi_key": "XLNZEKHULJKQBA-UHFFFAOYSA-N",
+        "name": "terbufos"
+    },
+    {
+        "cas_number": "640-15-3",
+        "inchi_key": "OPASCBHCTNRLRM-UHFFFAOYSA-N",
+        "name": "thiometon"
+    },
+    {
+        "cas_number": "90338-20-8",
+        "inchi_key": "YMTQHWMPGDSBOD-UHFFFAOYSA-N",
+        "name": "butathiofos"
+    },
+    {
+        "cas_number": "36145-08-1",
+        "inchi_key": "ZCMOTOWEBLMCEO-UHFFFAOYSA-N",
+        "name": "chlorprazophos"
+    },
+    {
+        "cas_number": "2921-88-2",
+        "inchi_key": "SBPBAQFWLVIOKP-UHFFFAOYSA-N",
+        "name": "chlorpyrifos"
+    },
+    {
+        "cas_number": "5598-13-0",
+        "inchi_key": "HRBKVYFZANMGRE-UHFFFAOYSA-N",
+        "name": "chlorpyrifos-methyl"
+    },
+    {
+        "cas_number": "56-72-4",
+        "inchi_key": "BXNANOICGRISHX-UHFFFAOYSA-N",
+        "name": "coumaphos"
+    },
+    {
+        "cas_number": "572-48-5",
+        "inchi_key": "NSMRHYDOKZAMKJ-UHFFFAOYSA-N",
+        "name": "coumithoate"
+    },
+    {
+        "cas_number": "333-41-5",
+        "inchi_key": "FHIVAFMUCKRCQO-UHFFFAOYSA-N",
+        "name": "diazinon"
+    },
+    {
+        "cas_number": "38260-54-7",
+        "inchi_key": "FGIWFCGDPUIBEZ-UHFFFAOYSA-N",
+        "name": "etrimfos"
+    },
+    {
+        "cas_number": "122431-24-7",
+        "inchi_key": "JZUKGAJJLZRHGL-UHFFFAOYSA-N",
+        "name": "flupyrazofos"
+    },
+    {
+        "cas_number": "42509-80-8",
+        "inchi_key": "XRHGWAGWAHHFLF-UHFFFAOYSA-N",
+        "name": "isazofos"
+    },
+    {
+        "cas_number": "18854-01-8",
+        "inchi_key": "SDMSCIWHRZJSRN-UHFFFAOYSA-N",
+        "name": "isoxathion"
+    },
+    {
+        "cas_number": "38260-63-8",
+        "inchi_key": "IIJPGEXICYPSKQ-UHFFFAOYSA-N",
+        "name": "lirimfos"
+    },
+    {
+        "cas_number": "55996-32-2",
+        "inchi_key": "JPAJTPFDIZFTJN-UHFFFAOYSA-N",
+        "name": "pirimioxyphos"
+    },
+    {
+        "cas_number": "23505-41-1",
+        "inchi_key": "TZBPRYIIJAJUOY-UHFFFAOYSA-N",
+        "name": "pirimiphos-ethyl"
+    },
+    {
+        "cas_number": "29232-93-7",
+        "inchi_key": "QHOQHJPRIBSPCY-UHFFFAOYSA-N",
+        "name": "pirimiphos-methyl"
+    },
+    {
+        "cas_number": "39247-96-6",
+        "inchi_key": "FBFCWTCMDMUSDI-UHFFFAOYSA-N",
+        "name": "primidophos"
+    },
+    {
+        "cas_number": "89784-60-1 (formerly 77458-01-6)",
+        "inchi_key": "QHGVXILFMXYDRS-UHFFFAOYSA-N",
+        "name": "pyraclofos"
+    },
+    {
+        "cas_number": "13457-18-6",
+        "inchi_key": "JOOMJVFZQRQWKR-UHFFFAOYSA-N",
+        "name": "pyrazophos"
+    },
+    {
+        "cas_number": "108-35-0",
+        "inchi_key": "NKADQNIAHIXOIZ-UHFFFAOYSA-N",
+        "name": "pyrazothion"
+    },
+    {
+        "cas_number": "119-12-0",
+        "inchi_key": "CXJSOEPQXUCJSA-UHFFFAOYSA-N",
+        "name": "pyridaphenthion"
+    },
+    {
+        "cas_number": "5221-49-8",
+        "inchi_key": "MLDVVJZNWASRQL-UHFFFAOYSA-N",
+        "name": "pyrimitate"
+    },
+    {
+        "cas_number": "13593-03-8",
+        "inchi_key": "JYQUHIFYBATCCY-UHFFFAOYSA-N",
+        "name": "quinalphos"
+    },
+    {
+        "cas_number": "13593-08-3",
+        "inchi_key": "RNGDKAQQWUYBAS-UHFFFAOYSA-N",
+        "name": "quinalphos-methyl"
+    },
+    {
+        "cas_number": "22439-40-3",
+        "inchi_key": "RVQMZGWUSHPUCC-UHFFFAOYSA-N",
+        "name": "quinothion"
+    },
+    {
+        "cas_number": "96182-53-5",
+        "inchi_key": "AWYOMXWDGWUJHS-UHFFFAOYSA-N",
+        "name": "tebupirimfos"
+    },
+    {
+        "cas_number": "24017-47-8",
+        "inchi_key": "AMFGTOFWMRQMEM-UHFFFAOYSA-N",
+        "name": "triazophos"
+    },
+    {
+        "cas_number": "19691-80-6",
+        "inchi_key": "QAOFKYGUSMPWNY-UHFFFAOYSA-N",
+        "name": "athidathion"
+    },
+    {
+        "cas_number": "35575-96-3",
+        "inchi_key": "VNKBTWQZTQIWDV-UHFFFAOYSA-N",
+        "name": "azamethiphos"
+    },
+    {
+        "cas_number": "2642-71-9",
+        "inchi_key": "RQVGAIADHNPSME-UHFFFAOYSA-N",
+        "name": "azinphos-ethyl"
+    },
+    {
+        "cas_number": "86-50-0",
+        "inchi_key": "CJJOSEISRRTUQB-UHFFFAOYSA-N",
+        "name": "azinphos-methyl"
+    },
+    {
+        "cas_number": "50398-69-1",
+        "inchi_key": "RZXVEBVXHRSQPO-UHFFFAOYSA-N",
+        "name": "colophonate"
+    },
+    {
+        "cas_number": "10311-84-9",
+        "inchi_key": "MUMQYXACQUZOFP-UHFFFAOYSA-N",
+        "name": "dialifos"
+    },
+    {
+        "cas_number": "41219-31-2",
+        "inchi_key": "QNZZKGBRJAVCIQ-UHFFFAOYSA-N",
+        "name": "dithicrofos"
+    },
+    {
+        "cas_number": "2778-04-3",
+        "inchi_key": "YCAGGFXSFQFVQL-UHFFFAOYSA-N",
+        "name": "endothion"
+    },
+    {
+        "cas_number": "2669-32-1",
+        "inchi_key": "FPMIAGPUNXEUCZ-UHFFFAOYSA-N",
+        "name": "lythidathion"
+    },
+    {
+        "cas_number": "78-57-9",
+        "inchi_key": "SUYHYHLFUHHVJQ-UHFFFAOYSA-N",
+        "name": "menazon"
+    },
+    {
+        "cas_number": "950-37-8",
+        "inchi_key": "MEBQXILRKZHVCX-UHFFFAOYSA-N",
+        "name": "methidathion"
+    },
+    {
+        "cas_number": "2597-03-7",
+        "inchi_key": "XAMUDJHXFNRLCY-UHFFFAOYSA-N",
+        "name": "phenthoate"
+    },
+    {
+        "cas_number": "2310-17-0",
+        "inchi_key": "IOUNQDKNJZEDEP-UHFFFAOYSA-N",
+        "name": "phosalone"
+    },
+    {
+        "cas_number": "732-11-6",
+        "inchi_key": "LMNZTLDVJIUSHT-UHFFFAOYSA-N",
+        "name": "phosmet"
+    },
+    {
+        "cas_number": "20276-83-9",
+        "inchi_key": "LQHMZSQJOYPNND-UHFFFAOYSA-N",
+        "name": "prothidathion"
+    },
+    {
+        "cas_number": "41219-32-3",
+        "inchi_key": "VIRFVCLSHYKKRP-UHFFFAOYSA-N",
+        "name": "thicrofos"
+    },
+    {
+        "cas_number": "63771-69-7",
+        "inchi_key": "UIQAVIOOENLZRU-UHFFFAOYSA-N",
+        "name": "zolaprofos"
+    },
+    {
+        "cas_number": "5834-96-8",
+        "inchi_key": "DCEAEHHJGXAROU-UHFFFAOYSA-N",
+        "name": "azothoate"
+    },
+    {
+        "cas_number": "2104-96-3",
+        "inchi_key": "NYQDCVLCJXRDSK-UHFFFAOYSA-N",
+        "name": "bromophos"
+    },
+    {
+        "cas_number": "4824-78-6",
+        "inchi_key": "KWGUFOITWDSNQY-UHFFFAOYSA-N",
+        "name": "bromophos-ethyl"
+    },
+    {
+        "cas_number": "60238-56-4",
+        "inchi_key": "component (i):WIQNXNHXIZXZFM-UHFFFAOYSA-Ncomponent (ii) (major component):JAZJVWLGNLCNDD-UHFFFAOYSA-Ncomponent (iii):HDAUYNBHGHGEGX-UHFFFAOYSA-N",
+        "name": "chlorthiophos"
+    },
+    {
+        "cas_number": "2636-26-2",
+        "inchi_key": "SCKHCCSZFPSHGR-UHFFFAOYSA-N",
+        "name": "cyanophos"
+    },
+    {
+        "cas_number": "115-93-5",
+        "inchi_key": "BSBSDQUZDZXGFN-UHFFFAOYSA-N",
+        "name": "cythioate"
+    },
+    {
+        "cas_number": "2463-84-5",
+        "inchi_key": "OTKXWJHPGBRXCR-UHFFFAOYSA-N",
+        "name": "dicapthon"
+    },
+    {
+        "cas_number": "97-17-6",
+        "inchi_key": "WGOWCPGHOCIHBW-UHFFFAOYSA-N",
+        "name": "dichlofenthion"
+    },
+    {
+        "cas_number": "38527-91-2",
+        "inchi_key": "ZGPVUVBRTCPAPZ-UHFFFAOYSA-N",
+        "name": "etaphos"
+    },
+    {
+        "cas_number": "52-85-7",
+        "inchi_key": "JISACBWYRJHSMG-UHFFFAOYSA-N",
+        "name": "famphur"
+    },
+    {
+        "cas_number": "299-84-3",
+        "inchi_key": "JHJOOSLFWRRSGU-UHFFFAOYSA-N",
+        "name": "fenchlorphos"
+    },
+    {
+        "cas_number": "122-14-5",
+        "inchi_key": "ZNOLGFHPUIJIMJ-UHFFFAOYSA-N",
+        "name": "fenitrothion"
+    },
+    {
+        "cas_number": "115-90-2",
+        "inchi_key": "XDNBJTQLKCIJBV-UHFFFAOYSA-N",
+        "name": "fensulfothion"
+    },
+    {
+        "cas_number": "55-38-9",
+        "inchi_key": "PNVJTZOFSHSLTO-UHFFFAOYSA-N",
+        "name": "fenthion"
+    },
+    {
+        "cas_number": "1716-09-2",
+        "inchi_key": "WGWJBWHBOKETRC-UHFFFAOYSA-N",
+        "name": "fenthion-ethyl"
+    },
+    {
+        "cas_number": "40626-35-5",
+        "inchi_key": "XRAFOYUFLGWMQB-UHFFFAOYSA-N",
+        "name": "heterophos"
+    },
+    {
+        "cas_number": "18181-70-9",
+        "inchi_key": "LFVLUOAHQIVABZ-UHFFFAOYSA-N",
+        "name": "jodfenphos"
+    },
+    {
+        "cas_number": "3761-41-9",
+        "inchi_key": "DLAPIMGBBDILHJ-UHFFFAOYSA-N",
+        "name": "mesulfenfos"
+    },
+    {
+        "cas_number": "56-38-2",
+        "inchi_key": "LCCNCVORNKJIRZ-UHFFFAOYSA-N",
+        "name": "parathion"
+    },
+    {
+        "cas_number": "298-00-0",
+        "inchi_key": "RLBIQVVOMOPOHC-UHFFFAOYSA-N",
+        "name": "parathion-methyl"
+    },
+    {
+        "cas_number": "5826-76-6",
+        "inchi_key": "UFNIXJPHHIPRFX-UHFFFAOYSA-N",
+        "name": "phosnichlor"
+    },
+    {
+        "cas_number": "41198-08-7",
+        "inchi_key": "QYMMJNLHFKGANY-UHFFFAOYSA-N",
+        "name": "profenofos"
+    },
+    {
+        "cas_number": "34643-46-4",
+        "inchi_key": "FITIWKDOCAUBQD-UHFFFAOYSA-N",
+        "name": "prothiofos"
+    },
+    {
+        "cas_number": "35400-43-2",
+        "inchi_key": "JXHJNEJVUNHLKO-UHFFFAOYSA-N",
+        "name": "sulprofos"
+    },
+    {
+        "cas_number": "3383-96-8",
+        "inchi_key": "WWJZWCUNLNYYAU-UHFFFAOYSA-N",
+        "name": "temephos"
+    },
+    {
+        "cas_number": "2633-54-7",
+        "inchi_key": "HBKPGGUHRZPDIE-UHFFFAOYSA-N",
+        "name": "trichlormetaphos-3"
+    },
+    {
+        "cas_number": "38524-82-2",
+        "inchi_key": "JJSBMWMYKICVIZ-UHFFFAOYSA-N",
+        "name": "trifenofos"
+    },
+    {
+        "cas_number": "171605-91-7",
+        "inchi_key": "LVHRDEVAWFGKBI-UHFFFAOYSA-N",
+        "name": "xiaochongliulin"
+    },
+    {
+        "cas_number": "919-54-0",
+        "inchi_key": "AISZOMRXKKCPIS-UHFFFAOYSA-N",
+        "name": "acethion"
+    },
+    {
+        "cas_number": "2425-25-4",
+        "inchi_key": "ZRCQYAQOWIQUBA-UHFFFAOYSA-N",
+        "name": "acetophos"
+    },
+    {
+        "cas_number": "78-53-5",
+        "inchi_key": "PJISLFCKHOHLLP-UHFFFAOYSA-N",
+        "name": "amiton"
+    },
+    {
+        "cas_number": "95465-99-9",
+        "inchi_key": "KXRPCFINVWWFHQ-UHFFFAOYSA-N",
+        "name": "cadusafos"
+    },
+    {
+        "cas_number": "786-19-6",
+        "inchi_key": "VEDTXTNSFWUXGQ-UHFFFAOYSA-N",
+        "name": "carbophenothion"
+    },
+    {
+        "cas_number": "54593-83-8",
+        "inchi_key": "XFDJMIHUAHSGKG-UHFFFAOYSA-N",
+        "name": "chlorethoxyfos"
+    },
+    {
+        "cas_number": "24934-91-6",
+        "inchi_key": "QGTYWWGEWOBMAK-UHFFFAOYSA-N",
+        "name": "chlormephos"
+    },
+    {
+        "cas_number": "8065-62-1",
+        "inchi_key": "demephion-O:IATBEFPCSHFQJS-UHFFFAOYSA-Ndemephion-S:PSTWJANBJOHFQJ-UHFFFAOYSA-N",
+        "name": "demephion"
+    },
+    {
+        "cas_number": "682-80-4",
+        "inchi_key": "IATBEFPCSHFQJS-UHFFFAOYSA-N",
+        "name": "demephion-O"
+    },
+    {
+        "cas_number": "2587-90-8",
+        "inchi_key": "PSTWJANBJOHFQJ-UHFFFAOYSA-N",
+        "name": "demephion-S"
+    },
+    {
+        "cas_number": "8065-48-3",
+        "inchi_key": "demeton-O:DGLIBALSRMUQDD-UHFFFAOYSA-Ndemeton-S:GRPRVIYRYGLIJU-UHFFFAOYSA-N",
+        "name": "demeton"
+    },
+    {
+        "cas_number": "298-03-3",
+        "inchi_key": "DGLIBALSRMUQDD-UHFFFAOYSA-N",
+        "name": "demeton-O"
+    },
+    {
+        "cas_number": "126-75-0",
+        "inchi_key": "GRPRVIYRYGLIJU-UHFFFAOYSA-N",
+        "name": "demeton-S"
+    },
+    {
+        "cas_number": "8022-00-2",
+        "inchi_key": "demeton-O-methyl:ZVZQKNVMDKSGGF-UHFFFAOYSA-Ndemeton-S-methyl:WEBQKRLKWNIYKK-UHFFFAOYSA-N",
+        "name": "demeton-methyl"
+    },
+    {
+        "cas_number": "867-27-6",
+        "inchi_key": "ZVZQKNVMDKSGGF-UHFFFAOYSA-N",
+        "name": "demeton-O-methyl"
+    },
+    {
+        "cas_number": "919-86-8",
+        "inchi_key": "WEBQKRLKWNIYKK-UHFFFAOYSA-N",
+        "name": "demeton-S-methyl"
+    },
+    {
+        "cas_number": "17040-19-6",
+        "inchi_key": "PZIRJMYRYORVIT-UHFFFAOYSA-N",
+        "name": "demeton-S-methylsulphon"
+    },
+    {
+        "cas_number": "78-34-2",
+        "inchi_key": "VBKKVDGJXVOLNE-UHFFFAOYSA-N",
+        "name": "dioxathion"
+    },
+    {
+        "cas_number": "298-04-4",
+        "inchi_key": "DOFZAZXDOSGAJZ-UHFFFAOYSA-N",
+        "name": "disulfoton"
+    },
+    {
+        "cas_number": "563-12-2",
+        "inchi_key": "RIZMRRKBZQXFOY-UHFFFAOYSA-N",
+        "name": "ethion"
+    },
+    {
+        "cas_number": "13194-48-4",
+        "inchi_key": "VJYFKVYYMZPMAB-UHFFFAOYSA-N",
+        "name": "ethoprophos"
+    },
+    {
+        "cas_number": "83733-82-8",
+        "inchi_key": "MVBGKYGTNGPFHT-UHFFFAOYSA-N",
+        "name": "fosmethilan"
+    },
+    {
+        "cas_number": "5827-05-4",
+        "inchi_key": "KOTOUBGHZHWCCJ-UHFFFAOYSA-N",
+        "name": "IPSP"
+    },
+    {
+        "cas_number": "36614-38-7",
+        "inchi_key": "SPCNPOWOBZQWJK-UHFFFAOYSA-N",
+        "name": "isothioate"
+    },
+    {
+        "cas_number": "121-75-5",
+        "inchi_key": "JXSJBGJIGXNWCI-UHFFFAOYSA-N",
+        "name": "malathion"
+    },
+    {
+        "cas_number": "62610-77-9",
+        "inchi_key": "NTAHCMPOMKHKEU-AATRIKPKSA-N",
+        "name": "methacrifos"
+    },
+    {
+        "cas_number": "2088-72-4",
+        "inchi_key": "LIXQYRZDAFGLSQ-UHFFFAOYSA-N",
+        "name": "methylacetophos"
+    },
+    {
+        "cas_number": "301-12-2",
+        "inchi_key": "PMCVMORKVPSKHZ-UHFFFAOYSA-N",
+        "name": "oxydemeton-methyl"
+    },
+    {
+        "cas_number": "2674-91-1",
+        "inchi_key": "JAYZFNIOOYPIAH-UHFFFAOYSA-N",
+        "name": "oxydeprofos"
+    },
+    {
+        "cas_number": "2497-07-6",
+        "inchi_key": "UPUGLJYNCXXUQV-UHFFFAOYSA-N",
+        "name": "oxydisulfoton"
+    },
+    {
+        "cas_number": "2275-14-1",
+        "inchi_key": "GGNLTHFTYNDYNK-UHFFFAOYSA-N",
+        "name": "phenkapton"
+    },
+    {
+        "cas_number": "298-02-2",
+        "inchi_key": "BULVZWIRKLYCBC-UHFFFAOYSA-N",
+        "name": "phorate"
+    },
+    {
+        "cas_number": "13071-79-9",
+        "inchi_key": "XLNZEKHULJKQBA-UHFFFAOYSA-N",
+        "name": "terbufos"
+    },
+    {
+        "cas_number": "640-15-3",
+        "inchi_key": "OPASCBHCTNRLRM-UHFFFAOYSA-N",
+        "name": "thiometon"
+    },
+    {
+        "cas_number": "90338-20-8",
+        "inchi_key": "YMTQHWMPGDSBOD-UHFFFAOYSA-N",
+        "name": "butathiofos"
+    },
+    {
+        "cas_number": "36145-08-1",
+        "inchi_key": "ZCMOTOWEBLMCEO-UHFFFAOYSA-N",
+        "name": "chlorprazophos"
+    },
+    {
+        "cas_number": "2921-88-2",
+        "inchi_key": "SBPBAQFWLVIOKP-UHFFFAOYSA-N",
+        "name": "chlorpyrifos"
+    },
+    {
+        "cas_number": "5598-13-0",
+        "inchi_key": "HRBKVYFZANMGRE-UHFFFAOYSA-N",
+        "name": "chlorpyrifos-methyl"
+    },
+    {
+        "cas_number": "56-72-4",
+        "inchi_key": "BXNANOICGRISHX-UHFFFAOYSA-N",
+        "name": "coumaphos"
+    },
+    {
+        "cas_number": "572-48-5",
+        "inchi_key": "NSMRHYDOKZAMKJ-UHFFFAOYSA-N",
+        "name": "coumithoate"
+    },
+    {
+        "cas_number": "333-41-5",
+        "inchi_key": "FHIVAFMUCKRCQO-UHFFFAOYSA-N",
+        "name": "diazinon"
+    },
+    {
+        "cas_number": "38260-54-7",
+        "inchi_key": "FGIWFCGDPUIBEZ-UHFFFAOYSA-N",
+        "name": "etrimfos"
+    },
+    {
+        "cas_number": "122431-24-7",
+        "inchi_key": "JZUKGAJJLZRHGL-UHFFFAOYSA-N",
+        "name": "flupyrazofos"
+    },
+    {
+        "cas_number": "42509-80-8",
+        "inchi_key": "XRHGWAGWAHHFLF-UHFFFAOYSA-N",
+        "name": "isazofos"
+    },
+    {
+        "cas_number": "18854-01-8",
+        "inchi_key": "SDMSCIWHRZJSRN-UHFFFAOYSA-N",
+        "name": "isoxathion"
+    },
+    {
+        "cas_number": "38260-63-8",
+        "inchi_key": "IIJPGEXICYPSKQ-UHFFFAOYSA-N",
+        "name": "lirimfos"
+    },
+    {
+        "cas_number": "55996-32-2",
+        "inchi_key": "JPAJTPFDIZFTJN-UHFFFAOYSA-N",
+        "name": "pirimioxyphos"
+    },
+    {
+        "cas_number": "23505-41-1",
+        "inchi_key": "TZBPRYIIJAJUOY-UHFFFAOYSA-N",
+        "name": "pirimiphos-ethyl"
+    },
+    {
+        "cas_number": "29232-93-7",
+        "inchi_key": "QHOQHJPRIBSPCY-UHFFFAOYSA-N",
+        "name": "pirimiphos-methyl"
+    },
+    {
+        "cas_number": "39247-96-6",
+        "inchi_key": "FBFCWTCMDMUSDI-UHFFFAOYSA-N",
+        "name": "primidophos"
+    },
+    {
+        "cas_number": "89784-60-1 (formerly 77458-01-6)",
+        "inchi_key": "QHGVXILFMXYDRS-UHFFFAOYSA-N",
+        "name": "pyraclofos"
+    },
+    {
+        "cas_number": "13457-18-6",
+        "inchi_key": "JOOMJVFZQRQWKR-UHFFFAOYSA-N",
+        "name": "pyrazophos"
+    },
+    {
+        "cas_number": "108-35-0",
+        "inchi_key": "NKADQNIAHIXOIZ-UHFFFAOYSA-N",
+        "name": "pyrazothion"
+    },
+    {
+        "cas_number": "119-12-0",
+        "inchi_key": "CXJSOEPQXUCJSA-UHFFFAOYSA-N",
+        "name": "pyridaphenthion"
+    },
+    {
+        "cas_number": "5221-49-8",
+        "inchi_key": "MLDVVJZNWASRQL-UHFFFAOYSA-N",
+        "name": "pyrimitate"
+    },
+    {
+        "cas_number": "13593-03-8",
+        "inchi_key": "JYQUHIFYBATCCY-UHFFFAOYSA-N",
+        "name": "quinalphos"
+    },
+    {
+        "cas_number": "13593-08-3",
+        "inchi_key": "RNGDKAQQWUYBAS-UHFFFAOYSA-N",
+        "name": "quinalphos-methyl"
+    },
+    {
+        "cas_number": "22439-40-3",
+        "inchi_key": "RVQMZGWUSHPUCC-UHFFFAOYSA-N",
+        "name": "quinothion"
+    },
+    {
+        "cas_number": "96182-53-5",
+        "inchi_key": "AWYOMXWDGWUJHS-UHFFFAOYSA-N",
+        "name": "tebupirimfos"
+    },
+    {
+        "cas_number": "24017-47-8",
+        "inchi_key": "AMFGTOFWMRQMEM-UHFFFAOYSA-N",
+        "name": "triazophos"
+    },
+    {
+        "cas_number": "19691-80-6",
+        "inchi_key": "QAOFKYGUSMPWNY-UHFFFAOYSA-N",
+        "name": "athidathion"
+    },
+    {
+        "cas_number": "35575-96-3",
+        "inchi_key": "VNKBTWQZTQIWDV-UHFFFAOYSA-N",
+        "name": "azamethiphos"
+    },
+    {
+        "cas_number": "2642-71-9",
+        "inchi_key": "RQVGAIADHNPSME-UHFFFAOYSA-N",
+        "name": "azinphos-ethyl"
+    },
+    {
+        "cas_number": "86-50-0",
+        "inchi_key": "CJJOSEISRRTUQB-UHFFFAOYSA-N",
+        "name": "azinphos-methyl"
+    },
+    {
+        "cas_number": "50398-69-1",
+        "inchi_key": "RZXVEBVXHRSQPO-UHFFFAOYSA-N",
+        "name": "colophonate"
+    },
+    {
+        "cas_number": "10311-84-9",
+        "inchi_key": "MUMQYXACQUZOFP-UHFFFAOYSA-N",
+        "name": "dialifos"
+    },
+    {
+        "cas_number": "41219-31-2",
+        "inchi_key": "QNZZKGBRJAVCIQ-UHFFFAOYSA-N",
+        "name": "dithicrofos"
+    },
+    {
+        "cas_number": "2778-04-3",
+        "inchi_key": "YCAGGFXSFQFVQL-UHFFFAOYSA-N",
+        "name": "endothion"
+    },
+    {
+        "cas_number": "2669-32-1",
+        "inchi_key": "FPMIAGPUNXEUCZ-UHFFFAOYSA-N",
+        "name": "lythidathion"
+    },
+    {
+        "cas_number": "78-57-9",
+        "inchi_key": "SUYHYHLFUHHVJQ-UHFFFAOYSA-N",
+        "name": "menazon"
+    },
+    {
+        "cas_number": "950-37-8",
+        "inchi_key": "MEBQXILRKZHVCX-UHFFFAOYSA-N",
+        "name": "methidathion"
+    },
+    {
+        "cas_number": "2597-03-7",
+        "inchi_key": "XAMUDJHXFNRLCY-UHFFFAOYSA-N",
+        "name": "phenthoate"
+    },
+    {
+        "cas_number": "2310-17-0",
+        "inchi_key": "IOUNQDKNJZEDEP-UHFFFAOYSA-N",
+        "name": "phosalone"
+    },
+    {
+        "cas_number": "732-11-6",
+        "inchi_key": "LMNZTLDVJIUSHT-UHFFFAOYSA-N",
+        "name": "phosmet"
+    },
+    {
+        "cas_number": "20276-83-9",
+        "inchi_key": "LQHMZSQJOYPNND-UHFFFAOYSA-N",
+        "name": "prothidathion"
+    },
+    {
+        "cas_number": "41219-32-3",
+        "inchi_key": "VIRFVCLSHYKKRP-UHFFFAOYSA-N",
+        "name": "thicrofos"
+    },
+    {
+        "cas_number": "63771-69-7",
+        "inchi_key": "UIQAVIOOENLZRU-UHFFFAOYSA-N",
+        "name": "zolaprofos"
+    },
+    {
+        "cas_number": "5834-96-8",
+        "inchi_key": "DCEAEHHJGXAROU-UHFFFAOYSA-N",
+        "name": "azothoate"
+    },
+    {
+        "cas_number": "2104-96-3",
+        "inchi_key": "NYQDCVLCJXRDSK-UHFFFAOYSA-N",
+        "name": "bromophos"
+    },
+    {
+        "cas_number": "4824-78-6",
+        "inchi_key": "KWGUFOITWDSNQY-UHFFFAOYSA-N",
+        "name": "bromophos-ethyl"
+    },
+    {
+        "cas_number": "60238-56-4",
+        "inchi_key": "component (i):WIQNXNHXIZXZFM-UHFFFAOYSA-Ncomponent (ii) (major component):JAZJVWLGNLCNDD-UHFFFAOYSA-Ncomponent (iii):HDAUYNBHGHGEGX-UHFFFAOYSA-N",
+        "name": "chlorthiophos"
+    },
+    {
+        "cas_number": "2636-26-2",
+        "inchi_key": "SCKHCCSZFPSHGR-UHFFFAOYSA-N",
+        "name": "cyanophos"
+    },
+    {
+        "cas_number": "115-93-5",
+        "inchi_key": "BSBSDQUZDZXGFN-UHFFFAOYSA-N",
+        "name": "cythioate"
+    },
+    {
+        "cas_number": "2463-84-5",
+        "inchi_key": "OTKXWJHPGBRXCR-UHFFFAOYSA-N",
+        "name": "dicapthon"
+    },
+    {
+        "cas_number": "97-17-6",
+        "inchi_key": "WGOWCPGHOCIHBW-UHFFFAOYSA-N",
+        "name": "dichlofenthion"
+    },
+    {
+        "cas_number": "38527-91-2",
+        "inchi_key": "ZGPVUVBRTCPAPZ-UHFFFAOYSA-N",
+        "name": "etaphos"
+    },
+    {
+        "cas_number": "52-85-7",
+        "inchi_key": "JISACBWYRJHSMG-UHFFFAOYSA-N",
+        "name": "famphur"
+    },
+    {
+        "cas_number": "299-84-3",
+        "inchi_key": "JHJOOSLFWRRSGU-UHFFFAOYSA-N",
+        "name": "fenchlorphos"
+    },
+    {
+        "cas_number": "122-14-5",
+        "inchi_key": "ZNOLGFHPUIJIMJ-UHFFFAOYSA-N",
+        "name": "fenitrothion"
+    },
+    {
+        "cas_number": "115-90-2",
+        "inchi_key": "XDNBJTQLKCIJBV-UHFFFAOYSA-N",
+        "name": "fensulfothion"
+    },
+    {
+        "cas_number": "55-38-9",
+        "inchi_key": "PNVJTZOFSHSLTO-UHFFFAOYSA-N",
+        "name": "fenthion"
+    },
+    {
+        "cas_number": "1716-09-2",
+        "inchi_key": "WGWJBWHBOKETRC-UHFFFAOYSA-N",
+        "name": "fenthion-ethyl"
+    },
+    {
+        "cas_number": "40626-35-5",
+        "inchi_key": "XRAFOYUFLGWMQB-UHFFFAOYSA-N",
+        "name": "heterophos"
+    },
+    {
+        "cas_number": "18181-70-9",
+        "inchi_key": "LFVLUOAHQIVABZ-UHFFFAOYSA-N",
+        "name": "jodfenphos"
+    },
+    {
+        "cas_number": "3761-41-9",
+        "inchi_key": "DLAPIMGBBDILHJ-UHFFFAOYSA-N",
+        "name": "mesulfenfos"
+    },
+    {
+        "cas_number": "56-38-2",
+        "inchi_key": "LCCNCVORNKJIRZ-UHFFFAOYSA-N",
+        "name": "parathion"
+    },
+    {
+        "cas_number": "298-00-0",
+        "inchi_key": "RLBIQVVOMOPOHC-UHFFFAOYSA-N",
+        "name": "parathion-methyl"
+    },
+    {
+        "cas_number": "5826-76-6",
+        "inchi_key": "UFNIXJPHHIPRFX-UHFFFAOYSA-N",
+        "name": "phosnichlor"
+    },
+    {
+        "cas_number": "41198-08-7",
+        "inchi_key": "QYMMJNLHFKGANY-UHFFFAOYSA-N",
+        "name": "profenofos"
+    },
+    {
+        "cas_number": "34643-46-4",
+        "inchi_key": "FITIWKDOCAUBQD-UHFFFAOYSA-N",
+        "name": "prothiofos"
+    },
+    {
+        "cas_number": "35400-43-2",
+        "inchi_key": "JXHJNEJVUNHLKO-UHFFFAOYSA-N",
+        "name": "sulprofos"
+    },
+    {
+        "cas_number": "3383-96-8",
+        "inchi_key": "WWJZWCUNLNYYAU-UHFFFAOYSA-N",
+        "name": "temephos"
+    },
+    {
+        "cas_number": "2633-54-7",
+        "inchi_key": "HBKPGGUHRZPDIE-UHFFFAOYSA-N",
+        "name": "trichlormetaphos-3"
+    },
+    {
+        "cas_number": "38524-82-2",
+        "inchi_key": "JJSBMWMYKICVIZ-UHFFFAOYSA-N",
+        "name": "trifenofos"
+    },
+    {
+        "cas_number": "171605-91-7",
+        "inchi_key": "LVHRDEVAWFGKBI-UHFFFAOYSA-N",
+        "name": "xiaochongliulin"
+    },
+    {
+        "cas_number": "126-22-7",
+        "inchi_key": "BKAQXYNWONVOAX-UHFFFAOYSA-N",
+        "name": "butonate"
+    },
+    {
+        "cas_number": "52-68-6",
+        "inchi_key": "NFACJZMKEDPNKN-UHFFFAOYSA-N",
+        "name": "trichlorfon"
+    },
+    {
+        "cas_number": "13067-93-1",
+        "inchi_key": "LRNJHZNPJSPMGK-UHFFFAOYSA-N",
+        "name": "cyanofenphos"
+    },
+    {
+        "cas_number": "2104-64-5",
+        "inchi_key": "AIGRXSNSLVJMEA-UHFFFAOYSA-N",
+        "name": "EPN"
+    },
+    {
+        "cas_number": "944-22-9",
+        "inchi_key": "KVGLBTYUCJYMND-UHFFFAOYSA-N",
+        "name": "fonofos"
+    },
+    {
+        "cas_number": "21609-90-5",
+        "inchi_key": "CVRALZAYCYJELZ-UHFFFAOYSA-N",
+        "name": "leptophos"
+    },
+    {
+        "cas_number": "29173-31-7",
+        "inchi_key": "PUTUPQVEMBRCAG-UHFFFAOYSA-N",
+        "name": "mecarphon"
+    },
+    {
+        "cas_number": "327-98-0",
+        "inchi_key": "ANIAQSUBRGXWLS-UHFFFAOYSA-N",
+        "name": "trichloronat"
+    },
+    {
+        "cas_number": "30560-19-1",
+        "inchi_key": "YASYVMFAVPKPKE-UHFFFAOYSA-N",
+        "name": "acephate"
+    },
+    {
+        "cas_number": "",
+        "inchi_key": "MBIOGXSXQDUSPT-UHFFFAOYSA-N",
+        "name": "chloramine phosphorus"
+    },
+    {
+        "cas_number": "299-86-5",
+        "inchi_key": "BOFHKBLZOYVHSI-UHFFFAOYSA-N",
+        "name": "crufomate"
+    },
+    {
+        "cas_number": "22224-92-6",
+        "inchi_key": "ZCJPOPBZHLUFHF-UHFFFAOYSA-N",
+        "name": "fenamiphos"
+    },
+    {
+        "cas_number": "21548-32-3",
+        "inchi_key": "RHJOIOVESMTJEK-UHFFFAOYSA-N",
+        "name": "fosthietan"
+    },
+    {
+        "cas_number": "24353-61-5",
+        "inchi_key": "YFVOXLJXJBQDEF-UHFFFAOYSA-N",
+        "name": "isocarbophos"
+    },
+    {
+        "cas_number": "25311-71-1",
+        "inchi_key": "HOQADATXFBOEGG-UHFFFAOYSA-N",
+        "name": "isofenphos"
+    },
+    {
+        "cas_number": "99675-03-3",
+        "inchi_key": "IXTOWLKEARFCCP-UHFFFAOYSA-N",
+        "name": "isofenphos-methyl"
+    },
+    {
+        "cas_number": "950-10-7",
+        "inchi_key": "LTQSAUHRSCMPLD-UHFFFAOYSA-N",
+        "name": "mephosfolan"
+    },
+    {
+        "cas_number": "10265-92-6",
+        "inchi_key": "NNKVPIKMPCQWCG-UHFFFAOYSA-N",
+        "name": "methamidophos"
+    },
+    {
+        "cas_number": "947-02-4",
+        "inchi_key": "ILBONRFSLATCRE-UHFFFAOYSA-N",
+        "name": "phosfolan"
+    },
+    {
+        "cas_number": "5120-23-0",
+        "inchi_key": "CWXVDJFKMQCYFG-UHFFFAOYSA-N",
+        "name": "phosfolan-methyl"
+    },
+    {
+        "cas_number": "105084-66-0",
+        "inchi_key": "CGNIOVDMKMGGSL-UHFFFAOYSA-N",
+        "name": "phosglycin"
+    },
+    {
+        "cas_number": "31377-69-2",
+        "inchi_key": "HEUHRGXVQSOSHP-UHFFFAOYSA-N",
+        "name": "pirimetaphos"
+    },
+    {
+        "cas_number": "31218-83-4",
+        "inchi_key": "BZNDWPRGXNILMS-VQHVLOKHSA-N",
+        "name": "propetamphos"
+    },
+    {
+        "cas_number": "115-26-4",
+        "inchi_key": "PGJBQBDNXAZHBP-UHFFFAOYSA-N",
+        "name": "dimefox"
+    },
+    {
+        "cas_number": "371-86-8",
+        "inchi_key": "UOSHUBFBCPGQAY-UHFFFAOYSA-N",
+        "name": "mipafox"
+    },
+    {
+        "cas_number": "152-16-9",
+        "inchi_key": "SZKKRCSOSQAJDE-UHFFFAOYSA-N",
+        "name": "schradan"
+    },
+    {
+        "cas_number": "7219-78-5",
+        "inchi_key": "UCFRFUMJIKZSBD-UHFFFAOYSA-N",
+        "name": "mazidox"
+    },
+    {
+        "cas_number": "1031-47-6",
+        "inchi_key": "BABJTMNVJXLAEX-UHFFFAOYSA-N",
+        "name": "triamiphos"
+    },
+    {
+        "cas_number": "173584-44-6",
+        "inchi_key": "VBCVPMMZEGZULK-NRFANRHFSA-N",
+        "name": "indoxacarb"
+    },
+    {
+        "cas_number": "60589-06-2",
+        "inchi_key": "LTMQQEMGRMBUSL-UHFFFAOYSA-N",
+        "name": "metoxadiazone"
+    },
+    {
+        "cas_number": "31506-34-0",
+        "inchi_key": "UUZCNLZINSJLSR-UHFFFAOYSA-N",
+        "name": "flursulamid"
+    },
+    {
+        "cas_number": "4151-50-2",
+        "inchi_key": "CCEKAJIANROZEO-UHFFFAOYSA-N",
+        "name": "sulfluramid"
+    },
+    {
+        "cas_number": "87-86-5",
+        "inchi_key": "IZUPBVBPLAPZRR-UHFFFAOYSA-N",
+        "name": "pentachlorophenol"
+    },
+    {
+        "cas_number": "17598-02-6",
+        "inchi_key": "CPTJXGLQLVPIGP-UHFFFAOYSA-N",
+        "name": "precocene I"
+    },
+    {
+        "cas_number": "644-06-4",
+        "inchi_key": "PTIDGSWTMLSGAH-UHFFFAOYSA-N",
+        "name": "precocene II"
+    },
+    {
+        "cas_number": "65383-73-5",
+        "inchi_key": "RFJPSAYWKBGVAW-UHFFFAOYSA-N",
+        "name": "precocene III"
+    },
+    {
+        "cas_number": "209861-58-5",
+        "inchi_key": "GDZNYEZGJAFIKA-UHFFFAOYSA-N",
+        "name": "acetoprole"
+    },
+    {
+        "cas_number": "181587-01-9",
+        "inchi_key": "FNELVJVBIYMIMC-UHFFFAOYSA-N",
+        "name": "ethiprole"
+    },
+    {
+        "cas_number": "120068-37-3",
+        "inchi_key": "ZOCSXAVNDGMNBV-UHFFFAOYSA-N",
+        "name": "fipronil"
+    },
+    {
+        "cas_number": "704886-18-0",
+        "inchi_key": "HVQHXBNMBZJPLK-UHFFFAOYSA-N",
+        "name": "flufiprole"
+    },
+    {
+        "cas_number": "315208-17-4",
+        "inchi_key": "DDIQWGKUSJOETH-UHFFFAOYSA-N",
+        "name": "pyrafluprole"
+    },
+    {
+        "cas_number": "394730-71-3",
+        "inchi_key": "MWMQNVGAHVXSPE-UHFFFAOYSA-N",
+        "name": "pyriprole"
+    },
+    {
+        "cas_number": "145767-97-1",
+        "inchi_key": "LWWDYSLFWMWORA-BEJOPBHTSA-N",
+        "name": "vaniliprole"
+    },
+    {
+        "cas_number": "209861-58-5",
+        "inchi_key": "GDZNYEZGJAFIKA-UHFFFAOYSA-N",
+        "name": "acetoprole"
+    },
+    {
+        "cas_number": "181587-01-9",
+        "inchi_key": "FNELVJVBIYMIMC-UHFFFAOYSA-N",
+        "name": "ethiprole"
+    },
+    {
+        "cas_number": "120068-37-3",
+        "inchi_key": "ZOCSXAVNDGMNBV-UHFFFAOYSA-N",
+        "name": "fipronil"
+    },
+    {
+        "cas_number": "704886-18-0",
+        "inchi_key": "HVQHXBNMBZJPLK-UHFFFAOYSA-N",
+        "name": "flufiprole"
+    },
+    {
+        "cas_number": "315208-17-4",
+        "inchi_key": "DDIQWGKUSJOETH-UHFFFAOYSA-N",
+        "name": "pyrafluprole"
+    },
+    {
+        "cas_number": "394730-71-3",
+        "inchi_key": "MWMQNVGAHVXSPE-UHFFFAOYSA-N",
+        "name": "pyriprole"
+    },
+    {
+        "cas_number": "145767-97-1",
+        "inchi_key": "LWWDYSLFWMWORA-BEJOPBHTSA-N",
+        "name": "vaniliprole"
+    },
+    {
+        "cas_number": "1403615-77-9",
+        "inchi_key": "NQPGZXOPMRKAGJ-UHFFFAOYSA-N",
+        "name": "dimpropyridaz"
+    },
+    {
+        "cas_number": "129558-76-5",
+        "inchi_key": "WPALTCMYPARVNV-UHFFFAOYSA-N",
+        "name": "tolfenpyrad"
+    },
+    {
+        "cas_number": "8003-34-7",
+        "inchi_key": null,
+        "name": "pyrethrins"
+    },
+    {
+        "cas_number": "25402-06-6",
+        "inchi_key": "FMTFEIJHMMQUJI-DFKXKMKHSA-N",
+        "name": "cinerin I"
+    },
+    {
+        "cas_number": "121-20-0",
+        "inchi_key": "SHCRDCOTRILILT-WOBDGSLYSA-N",
+        "name": "cinerin II"
+    },
+    {
+        "cas_number": "4466-14-2",
+        "inchi_key": "NZKIRHFOLVYKFT-VUMXUWRFSA-N",
+        "name": "jasmolin I"
+    },
+    {
+        "cas_number": "1172-63-0",
+        "inchi_key": "WKNSDDMJXANVMK-XIGJTORUSA-N",
+        "name": "jasmolin II"
+    },
+    {
+        "cas_number": "121-21-1",
+        "inchi_key": "ROVGZAWFACYCSP-VUMXUWRFSA-N",
+        "name": "pyrethrin I"
+    },
+    {
+        "cas_number": "121-29-9",
+        "inchi_key": "VJFUPGQZSXIULQ-XIGJTORUSA-N",
+        "name": "pyrethrin II"
+    },
+    {
+        "cas_number": "101007-06-1",
+        "inchi_key": "YLFSVIMMRPNPFK-WEQBUNFVSA-N",
+        "name": "acrinathrin"
+    },
+    {
+        "cas_number": "584-79-2",
+        "inchi_key": "ZCVAOQKBXKSDMS-UHFFFAOYSA-N",
+        "name": "allethrin"
+    },
+    {
+        "cas_number": "260359-57-7",
+        "inchi_key": "ZCVAOQKBXKSDMS-AQYZNVCMSA-N",
+        "name": "bioallethrin"
+    },
+    {
+        "cas_number": "28434-00-6",
+        "inchi_key": "ZCVAOQKBXKSDMS-PVAVHDDUSA-N",
+        "name": "esd\u00c3\u00a9pall\u00c3\u00a9thrine"
+    },
+    {
+        "cas_number": "70-43-9",
+        "inchi_key": "KPMWGGRSOPMANK-UHFFFAOYSA-N",
+        "name": "barthrin"
+    },
+    {
+        "cas_number": "82657-04-3",
+        "inchi_key": "OXCDWLBJSLVWHB-LKRLXIKPSA-Nidentifier for no stereochemistry:OMFRMAHOUUJSGP-UHFFFAOYSA-N",
+        "name": "bifenthrin"
+    },
+    {
+        "cas_number": "439680-76-9",
+        "inchi_key": "OMFRMAHOUUJSGP-IRHGGOMRSA-N",
+        "name": "kappa-bifenthrin"
+    },
+    {
+        "cas_number": "22431-62-5",
+        "inchi_key": "MGRRXBWTLBJEMS-YADHBBJMSA-N",
+        "name": "bioethanomethrin"
+    },
+    {
+        "cas_number": "42789-03-7",
+        "inchi_key": "AEMCQEISPZGGFJ-UHFFFAOYSA-N",
+        "name": "bromethrin"
+    },
+    {
+        "cas_number": "28288-05-3",
+        "inchi_key": "MKFDPPVZZSGKLC-UHFFFAOYSA-N",
+        "name": "butethrin"
+    },
+    {
+        "cas_number": "54407-47-5",
+        "inchi_key": "XCUGQTFVQHTFPD-UHFFFAOYSA-N",
+        "name": "chlorempenthrin"
+    },
+    {
+        "cas_number": "97-11-0",
+        "inchi_key": "YJXNJQHBVKTWCC-UHFFFAOYSA-N",
+        "name": "cyclethrin"
+    },
+    {
+        "cas_number": "63935-38-6",
+        "inchi_key": "CGTWCAVZZBLHQH-UHFFFAOYSA-N",
+        "name": "cycloprothrin"
+    },
+    {
+        "cas_number": "68359-37-5",
+        "inchi_key": "QQODLKZGRKWIFG-UHFFFAOYSA-N",
+        "name": "cyfluthrin"
+    },
+    {
+        "cas_number": "1820573-27-0",
+        "inchi_key": "MUAQRFLDMBWWOD-XWJCWIGJSA-N",
+        "name": "beta-cyfluthrin"
+    },
+    {
+        "cas_number": "68085-85-8",
+        "inchi_key": "OOAOVGPMANECPJ-RWEUCVCFSA-N",
+        "name": "cyhalothrin"
+    },
+    {
+        "cas_number": "76703-62-3",
+        "inchi_key": "ZXQYGBMAQZUVMI-GCMPRSNUSA-N",
+        "name": "gamma-cyhalothrin"
+    },
+    {
+        "cas_number": "91465-08-6",
+        "inchi_key": "BFPGVJIMBRLFIR-GUCBCRIZSA-Nidentifier for no stereochemistry:ZXQYGBMAQZUVMI-UHFFFAOYSA-N",
+        "name": "lambda-cyhalothrin"
+    },
+    {
+        "cas_number": "52315-07-8",
+        "inchi_key": "KAATUXNTWXVJKI-UHFFFAOYSA-N",
+        "name": "cypermethrin"
+    },
+    {
+        "cas_number": "67375-30-8",
+        "inchi_key": "GUQZCTLEJXHSIH-RZAVTOELSA-Nidentifier for no stereochemistry:KAATUXNTWXVJKI-UHFFFAOYSA-N",
+        "name": "alpha-cypermethrin"
+    },
+    {
+        "cas_number": "1224510-29-5",
+        "inchi_key": "UVPMHCHKNSCKRP-HEPIIIDYSA-N",
+        "name": "beta-cypermethrin"
+    },
+    {
+        "cas_number": "71697-59-1",
+        "inchi_key": "GUQZCTLEJXHSIH-TXXTYBRISA-Nidentifier for no stereochemistry:KAATUXNTWXVJKI-UHFFFAOYSA-N",
+        "name": "theta-cypermethrin"
+    },
+    {
+        "cas_number": "1315501-18-8",
+        "inchi_key": "KAATUXNTWXVJKI-QPIRBTGLSA-N",
+        "name": "zeta-cypermethrin"
+    },
+    {
+        "cas_number": "",
+        "inchi_key": "GUQZCTLEJXHSIH-HYVVGUGRSA-N",
+        "name": "supermethrin"
+    },
+    {
+        "cas_number": "39515-40-7",
+        "inchi_key": "FJDPATXIBIBRIM-UHFFFAOYSA-N",
+        "name": "cyphenothrin"
+    },
+    {
+        "cas_number": "52918-63-5",
+        "inchi_key": "OWZREIFADZCYQD-NSHGMRRFSA-N",
+        "name": "deltamethrin"
+    },
+    {
+        "cas_number": "271241-14-6",
+        "inchi_key": "OOWCJRMYMAMSOH-UHFFFAOYSA-N",
+        "name": "dimefluthrin"
+    },
+    {
+        "cas_number": "70-38-2",
+        "inchi_key": "FHNKBSDJERHDHZ-UHFFFAOYSA-N",
+        "name": "dimethrin"
+    },
+    {
+        "cas_number": "54406-48-3",
+        "inchi_key": "YUGWDVYLFSETPE-JLHYYAGUSA-N",
+        "name": "empenthrin"
+    },
+    {
+        "cas_number": "",
+        "inchi_key": "RQNZCZHWQZMZER-QRJNDHJOSA-N",
+        "name": "d-fanshiluquebingjuzhi"
+    },
+    {
+        "cas_number": "250346-55-5",
+        "inchi_key": "RQNZCZHWQZMZER-ZLDLUXBVSA-N",
+        "name": "chloroprallethrin"
+    },
+    {
+        "cas_number": "75867-00-4",
+        "inchi_key": "YATDSXRLIUJOQN-SVRRBLITSA-N",
+        "name": "fenfluthrin"
+    },
+    {
+        "cas_number": "68523-18-2",
+        "inchi_key": "IHVPAVRHNZFQKC-UHFFFAOYSA-N",
+        "name": "fenpirithrin"
+    },
+    {
+        "cas_number": "39515-41-8",
+        "inchi_key": "XQUXKZZNEFRCAW-UHFFFAOYSA-N",
+        "name": "fenpropathrin"
+    },
+    {
+        "cas_number": "23031-38-1",
+        "inchi_key": "FSYXMFXBRJFYBS-UHFFFAOYSA-N",
+        "name": "furamethrin"
+    },
+    {
+        "cas_number": "17080-02-3",
+        "inchi_key": "BEYOLLQLGMGJDC-UHFFFAOYSA-N",
+        "name": "furethrin"
+    },
+    {
+        "cas_number": "1130296-65-9",
+        "inchi_key": "BKACAEJQMLLGAV-PLNGDYQASA-N",
+        "name": "heptafluthrin"
+    },
+    {
+        "cas_number": "1208235-75-9",
+        "inchi_key": "BKACAEJQMLLGAV-KWKBKKAHSA-N",
+        "name": "d-teflumethrin"
+    },
+    {
+        "cas_number": "72963-72-5",
+        "inchi_key": "VPRAQYXPZIFIOH-PYMCNQPYSA-N",
+        "name": "imiprothrin"
+    },
+    {
+        "cas_number": "10597-73-6",
+        "inchi_key": "QVDCSEPAJNGCBF-UHFFFAOYSA-N",
+        "name": "japothrins"
+    },
+    {
+        "cas_number": "58769-20-3",
+        "inchi_key": "UGWALRUNBSBTGI-ZKMZRDRYSA-N",
+        "name": "kadethrin"
+    },
+    {
+        "cas_number": "34388-29-9",
+        "inchi_key": "GQNBIMLHUAWKHJ-UHFFFAOYSA-N",
+        "name": "methothrin"
+    },
+    {
+        "cas_number": "240494-70-6",
+        "inchi_key": "KVIZNNVXXNFLMU-UHFFFAOYSA-N",
+        "name": "metofluthrin"
+    },
+    {
+        "cas_number": "240494-71-7",
+        "inchi_key": "KVIZNNVXXNFLMU-DUVUQDDDSA-N",
+        "name": "epsilon-metofluthrin"
+    },
+    {
+        "cas_number": "609346-29-4",
+        "inchi_key": "DPJITPZADZSLBP-UHFFFAOYSA-N",
+        "name": "momfluorothrin"
+    },
+    {
+        "cas_number": "1065124-65-3",
+        "inchi_key": "DPJITPZADZSLBP-DQXQJKBJSA-N",
+        "name": "epsilon-momfluorothrin"
+    },
+    {
+        "cas_number": "79302-84-4",
+        "inchi_key": "WKWOGKNOZXPLBT-UHFFFAOYSA-N",
+        "name": "pentmethrin"
+    },
+    {
+        "cas_number": "52645-53-1",
+        "inchi_key": "RLLPVAHGXHCWKJ-UHFFFAOYSA-N",
+        "name": "permethrin"
+    },
+    {
+        "cas_number": "51877-74-8",
+        "inchi_key": "RLLPVAHGXHCWKJ-MJGOQNOKSA-N",
+        "name": "biopermethrin"
+    },
+    {
+        "cas_number": "52341-32-9",
+        "inchi_key": "SULTWYFHTOOZFD-UYEAFXNLSA-Nidentifier for no stereochemistry:RLLPVAHGXHCWKJ-UHFFFAOYSA-N",
+        "name": "transpermethrin"
+    },
+    {
+        "cas_number": "26002-80-2",
+        "inchi_key": "SBNFWQZLDJGRLK-UHFFFAOYSA-N",
+        "name": "phenothrin"
+    },
+    {
+        "cas_number": "23031-36-9",
+        "inchi_key": "SMKRKQBMYOFFMU-UHFFFAOYSA-N",
+        "name": "prallethrin"
+    },
+    {
+        "cas_number": "223419-20-3",
+        "inchi_key": "AGMMRUPNXPWLGF-UHFFFAOYSA-N",
+        "name": "profluthrin"
+    },
+    {
+        "cas_number": "27223-49-0",
+        "inchi_key": "WXBHKHTWAPLUSQ-UHFFFAOYSA-N",
+        "name": "proparthrin"
+    },
+    {
+        "cas_number": "24624-58-6",
+        "inchi_key": "YSEUOPNOQRVVDY-OGEJUEGTSA-N",
+        "name": "pyresmethrin"
+    },
+    {
+        "cas_number": "352271-52-4",
+        "inchi_key": "MWFQAAWRPDRKDG-UHFFFAOYSA-N",
+        "name": "renofluthrin"
+    },
+    {
+        "cas_number": "915288-13-0",
+        "inchi_key": "MWFQAAWRPDRKDG-KOLCDFICSA-N",
+        "name": "meperfluthrin"
+    },
+    {
+        "cas_number": "10453-86-8",
+        "inchi_key": "VEMKTZHHVJILDY-UHFFFAOYSA-N",
+        "name": "resmethrin"
+    },
+    {
+        "cas_number": "28434-01-7",
+        "inchi_key": "VEMKTZHHVJILDY-UXHICEINSA-N",
+        "name": "bioresmethrin"
+    },
+    {
+        "cas_number": "35764-59-1",
+        "inchi_key": "VEMKTZHHVJILDY-PMACEKPBSA-N",
+        "name": "cismethrin"
+    },
+    {
+        "cas_number": "79538-32-2",
+        "inchi_key": "FIAIQJBJJWXQRC-MLKWDWEKSA-Nidentifier for no stereochemistry:ZFHGXWPMULPQSE-UHFFFAOYSA-N",
+        "name": "tefluthrin"
+    },
+    {
+        "cas_number": "391634-71-2",
+        "inchi_key": "ZFHGXWPMULPQSE-UKSCLKOJSA-N",
+        "name": "kappa-tefluthrin"
+    },
+    {
+        "cas_number": "15589-31-8",
+        "inchi_key": "MIZYPRIEDMSCAC-UHFFFAOYSA-N",
+        "name": "terallethrin"
+    },
+    {
+        "cas_number": "7696-12-0",
+        "inchi_key": "CXBMCYHAMVGWJQ-UHFFFAOYSA-N",
+        "name": "tetramethrin"
+    },
+    {
+        "cas_number": "84937-88-2",
+        "inchi_key": "APEPLROGLDYWBS-UHFFFAOYSA-N",
+        "name": "tetramethylfluthrin"
+    },
+    {
+        "cas_number": "66841-26-7",
+        "inchi_key": "VQHJWDTTWVEXFE-UHFFFAOYSA-N",
+        "name": "tralocythrin"
+    },
+    {
+        "cas_number": "66841-25-6",
+        "inchi_key": "YWSCPYYRJXKUDB-KAKFPZCNSA-N",
+        "name": "tralomethrin"
+    },
+    {
+        "cas_number": "118712-89-3",
+        "inchi_key": "DDVNRFNDOPPVQJ-HQJQHLMTSA-N",
+        "name": "transfluthrin"
+    },
+    {
+        "cas_number": "80844-07-1",
+        "inchi_key": "YREQHYQNNWYQCJ-UHFFFAOYSA-N",
+        "name": "etofenprox"
+    },
+    {
+        "cas_number": "107713-58-6",
+        "inchi_key": "RURQAJURNPMSSK-UHFFFAOYSA-N",
+        "name": "flufenprox"
+    },
+    {
+        "cas_number": "111872-58-3",
+        "inchi_key": "WIFXJBMOTMKRMM-UHFFFAOYSA-N",
+        "name": "halfenprox"
+    },
+    {
+        "cas_number": "119544-94-4",
+        "inchi_key": "QDFVXXBCJYNKKC-UHFFFAOYSA-N",
+        "name": "protrifenbute"
+    },
+    {
+        "cas_number": "105024-66-6",
+        "inchi_key": "HPYNBECUCCGGPA-UHFFFAOYSA-N",
+        "name": "silafluofen"
+    },
+    {
+        "cas_number": "65295-49-0",
+        "inchi_key": "MFJPBJVWUYEEPB-UHFFFAOYSA-N",
+        "name": "brofenvalerate"
+    },
+    {
+        "cas_number": "160791-64-0",
+        "inchi_key": "BUHNCQOJJZAOMJ-UHFFFAOYSA-N",
+        "name": "brofluthrinate"
+    },
+    {
+        "cas_number": "51630-58-1",
+        "inchi_key": "NYPJDWWKZLNGGM-UHFFFAOYSA-N",
+        "name": "fenvalerate"
+    },
+    {
+        "cas_number": "66230-04-4",
+        "inchi_key": "NYPJDWWKZLNGGM-RPWUZVMVSA-N",
+        "name": "esfenvalerate"
+    },
+    {
+        "cas_number": "915101-98-3",
+        "inchi_key": "GBIHOLCMZGAKNG-CGAIIQECSA-N",
+        "name": "flucythrinate"
+    },
+    {
+        "cas_number": "69409-94-5",
+        "inchi_key": "INISTDXBRIBGOC-UHFFFAOYSA-N",
+        "name": "fluvalinate"
+    },
+    {
+        "cas_number": "102851-06-9",
+        "inchi_key": "INISTDXBRIBGOC-XMMISQBUSA-N",
+        "name": "tau-fluvalinate"
+    },
+    {
+        "cas_number": "51630-33-2",
+        "inchi_key": "ZVBYGQHSOONVCF-UHFFFAOYSA-N",
+        "name": "valerate"
+    },
+    {
+        "cas_number": "",
+        "inchi_key": "LFSXYCYIVKDFLF-UHFFFAOYSA-N",
+        "name": "sulfoxime"
+    },
+    {
+        "cas_number": "",
+        "inchi_key": "ULERLVZDMYNWNA-UHFFFAOYSA-N",
+        "name": "thiofluoximate"
+    },
+    {
+        "cas_number": "80844-07-1",
+        "inchi_key": "YREQHYQNNWYQCJ-UHFFFAOYSA-N",
+        "name": "etofenprox"
+    },
+    {
+        "cas_number": "107713-58-6",
+        "inchi_key": "RURQAJURNPMSSK-UHFFFAOYSA-N",
+        "name": "flufenprox"
+    },
+    {
+        "cas_number": "111872-58-3",
+        "inchi_key": "WIFXJBMOTMKRMM-UHFFFAOYSA-N",
+        "name": "halfenprox"
+    },
+    {
+        "cas_number": "119544-94-4",
+        "inchi_key": "QDFVXXBCJYNKKC-UHFFFAOYSA-N",
+        "name": "protrifenbute"
+    },
+    {
+        "cas_number": "105024-66-6",
+        "inchi_key": "HPYNBECUCCGGPA-UHFFFAOYSA-N",
+        "name": "silafluofen"
+    },
+    {
+        "cas_number": "65295-49-0",
+        "inchi_key": "MFJPBJVWUYEEPB-UHFFFAOYSA-N",
+        "name": "brofenvalerate"
+    },
+    {
+        "cas_number": "160791-64-0",
+        "inchi_key": "BUHNCQOJJZAOMJ-UHFFFAOYSA-N",
+        "name": "brofluthrinate"
+    },
+    {
+        "cas_number": "51630-58-1",
+        "inchi_key": "NYPJDWWKZLNGGM-UHFFFAOYSA-N",
+        "name": "fenvalerate"
+    },
+    {
+        "cas_number": "66230-04-4",
+        "inchi_key": "NYPJDWWKZLNGGM-RPWUZVMVSA-N",
+        "name": "esfenvalerate"
+    },
+    {
+        "cas_number": "915101-98-3",
+        "inchi_key": "GBIHOLCMZGAKNG-CGAIIQECSA-N",
+        "name": "flucythrinate"
+    },
+    {
+        "cas_number": "69409-94-5",
+        "inchi_key": "INISTDXBRIBGOC-UHFFFAOYSA-N",
+        "name": "fluvalinate"
+    },
+    {
+        "cas_number": "102851-06-9",
+        "inchi_key": "INISTDXBRIBGOC-XMMISQBUSA-N",
+        "name": "tau-fluvalinate"
+    },
+    {
+        "cas_number": "51630-33-2",
+        "inchi_key": "ZVBYGQHSOONVCF-UHFFFAOYSA-N",
+        "name": "valerate"
+    },
+    {
+        "cas_number": "",
+        "inchi_key": "LFSXYCYIVKDFLF-UHFFFAOYSA-N",
+        "name": "sulfoxime"
+    },
+    {
+        "cas_number": "",
+        "inchi_key": "ULERLVZDMYNWNA-UHFFFAOYSA-N",
+        "name": "thiofluoximate"
+    },
+    {
+        "cas_number": "123312-89-0",
+        "inchi_key": "QHMTXANCGGJZRX-WUXMJOGZSA-N",
+        "name": "pymetrozine"
+    },
+    {
+        "cas_number": "337458-27-2",
+        "inchi_key": "MIOBBYRMXGNORL-UHFFFAOYSA-N",
+        "name": "pyrifluquinazon"
+    },
+    {
+        "cas_number": "170015-32-4",
+        "inchi_key": "GJEREQYJIQASAW-UHFFFAOYSA-N",
+        "name": "flufenerim"
+    },
+    {
+        "cas_number": "105779-78-0",
+        "inchi_key": "ITKAIUGKVKDENI-UHFFFAOYSA-N",
+        "name": "pyrimidifen"
+    },
+    {
+        "cas_number": "915972-17-7",
+        "inchi_key": "LRZWFURXIMFONG-HRSIRGMGSA-N",
+        "name": "afidopyropen"
+    },
+    {
+        "cas_number": "2433753-68-3",
+        "inchi_key": "YROCNOMGGCXEN-KVQQXCGEBA-N (Sense)JITAZDZERUFLGA-RJPZJKRDBA-N (Antisense)",
+        "name": "ledprona"
+    },
+    {
+        "cas_number": "57808-65-8",
+        "inchi_key": "JMPFSEBWVLAJKM-UHFFFAOYSA-N",
+        "name": "closantel"
+    },
+    {
+        "cas_number": "139968-49-3",
+        "inchi_key": "major component (E)-isomer:MIFOMMKAVSCNKQ-QNKGDIEWSA-Nminor component (Z)-isomer:MIFOMMKAVSCNKQ-HWIUFGAZSA-N",
+        "name": "metaflumizone"
+    },
+    {
+        "cas_number": "3604-87-3",
+        "inchi_key": "UPEZCKBFRMILAV-JMZLNJERSA-N",
+        "name": "\u00ce\u00b1-ecdysone"
+    },
+    {
+        "cas_number": "5289-74-7",
+        "inchi_key": "NKDFYOWSKOHCCO-YPVLXUMRSA-N",
+        "name": "ecdysterone"
+    },
+    {
+        "cas_number": "907187-07-9",
+        "inchi_key": "CMURKFSRGAWINZ-UHFFFAOYSA-N",
+        "name": "spidoxamat"
+    },
+    {
+        "cas_number": "1229023-00-0",
+        "inchi_key": "WOPFPAIGRGHWAQ-UHFFFAOYSA-N",
+        "name": "spiropidion"
+    },
+    {
+        "cas_number": "203313-25-1",
+        "inchi_key": "CLSVJBIHYWPGQY-GGYDESQDSA-N",
+        "name": "spirotetramat"
+    },
+    {
+        "cas_number": "148477-71-8",
+        "inchi_key": "DTDSAWVUFPGDMX-UHFFFAOYSA-N",
+        "name": "spirodiclofen"
+    },
+    {
+        "cas_number": "283594-90-1",
+        "inchi_key": "GOLXNESZZPUPJE-UHFFFAOYSA-N",
+        "name": "spiromesifen"
+    },
+    {
+        "cas_number": "502-55-6",
+        "inchi_key": "FVIGODVHAVLZOO-UHFFFAOYSA-N",
+        "name": "EXD"
+    },
+    {
+        "cas_number": "7345-69-9",
+        "inchi_key": "HZBLLTXMVMMHRJ-UHFFFAOYSA-L",
+        "name": "sodium tetrathiocarbonate"
+    },
+    {
+        "cas_number": "80060-09-9",
+        "inchi_key": "WOWBFOBYOAGEEA-UHFFFAOYSA-N",
+        "name": "diafenthiuron"
+    },
+    {
+        "cas_number": "370-50-3",
+        "inchi_key": "ABOVRDBEJDIBMZ-UHFFFAOYSA-N",
+        "name": "flucofuron"
+    },
+    {
+        "cas_number": "24019-05-4",
+        "inchi_key": "MKUMTCOTMQPYTQ-UHFFFAOYSA-N",
+        "name": "sulcofuron"
+    },
+    {
+        "cas_number": "1449021-97-9",
+        "inchi_key": "ZYXYTGQFPZEUFX-UHFFFAOYSA-N",
+        "name": "benzpyrimoxan"
+    },
+    {
+        "cas_number": "953030-84-7",
+        "inchi_key": "PRLVTUNWOQKEAI-VKAVYKQESA-N",
+        "name": "buprofezin"
+    },
+    {
+        "cas_number": "483-63-6",
+        "inchi_key": "DNTGGZPQPQTDQF-XBXARRHUSA-N",
+        "name": "crotamiton"
+    },
+    {
+        "cas_number": "2128706-04-5",
+        "inchi_key": "FOVXPVMLSMQSKD-UHFFFAOYSA-N",
+        "name": "cybenzoxasulfyl"
+    },
+    {
+        "cas_number": "65400-98-8",
+        "inchi_key": "COHTVILOUURPNC-UHFFFAOYSA-NCAS-preferred tautomer:ARMMDWRARRNONS-UHFFFAOYSA-N",
+        "name": "fenoxacrim"
+    },
+    {
+        "cas_number": "62441-54-7",
+        "inchi_key": "FVJQBZVCJVMBIP-UHFFFAOYSA-N",
+        "name": "fentrifanil"
+    },
+    {
+        "cas_number": "875775-74-9",
+        "inchi_key": "FMPFURNXXAKYNE-UHFFFAOYSA-N",
+        "name": "flometoquin"
+    },
+    {
+        "cas_number": "1097630-26-6",
+        "inchi_key": "NGLCOYIAJMJYQI-UHFFFAOYSA-N",
+        "name": "fluhexafon"
+    },
+    {
+        "cas_number": "67485-29-4",
+        "inchi_key": "IQVNEKKDSLOHHK-UHFFFAOYSA-N",
+        "name": "hydramethylnon"
+    },
+    {
+        "cas_number": "1689545-27-4",
+        "inchi_key": "WNLDKUJBVKSZOA-UHFFFAOYSA-N",
+        "name": "indazapyroxamet"
+    },
+    {
+        "cas_number": "",
+        "inchi_key": "JGYYKLXQSLVGSS-UHFFFAOYSA-N",
+        "name": "jiahuangchongzong"
+    },
+    {
+        "cas_number": "10537-47-0",
+        "inchi_key": "MZOPWQKISXCCTP-UHFFFAOYSA-N",
+        "name": "malonoben"
+    },
+    {
+        "cas_number": "9050-36-6",
+        "inchi_key": "",
+        "name": "maltodextrin"
+    },
+    {
+        "cas_number": "1771741-86-6",
+        "inchi_key": "RPBDWSJEUSGUGU-UHFFFAOYSA-N",
+        "name": "nicofluprole"
+    },
+    {
+        "cas_number": "61444-62-0",
+        "inchi_key": "YUANPWFOQAEKNA-UHFFFAOYSA-N",
+        "name": "nifluridide"
+    },
+    {
+        "cas_number": "1616678-32-0",
+        "inchi_key": "PTQBEFQWTBZMED-UHFFFAOYSA-N",
+        "name": "oxazosulfyl"
+    },
+    {
+        "cas_number": "21757-82-4",
+        "inchi_key": "FSGNOVKGEXRRHD-UHFFFAOYSA-N",
+        "name": "plifenate"
+    },
+    {
+        "cas_number": "96489-71-3",
+        "inchi_key": "DWFZBUWUXWZWKD-UHFFFAOYSA-N",
+        "name": "pyridaben"
+    },
+    {
+        "cas_number": "179101-81-6",
+        "inchi_key": "AEHJMNVBLRLZKK-UHFFFAOYSA-N",
+        "name": "pyridalyl"
+    },
+    {
+        "cas_number": "22662-39-1",
+        "inchi_key": "NEMNPWINWMHUMR-UHFFFAOYSA-N",
+        "name": "rafoxanide"
+    },
+    {
+        "cas_number": "2377084-09-6",
+        "inchi_key": "CQLPADBURXSAHN-VKGKTOGESA-N",
+        "name": "sulfiflumin"
+    },
+    {
+        "cas_number": "28300-74-5",
+        "inchi_key": "WBTCZEPSIIFINA-UHFFFAOYSA-J",
+        "name": "tartar emetic"
+    },
+    {
+        "cas_number": "23526-02-5",
+        "inchi_key": "OTLLEIBWKHEHGU-TUNUFRSWSA-N",
+        "name": "thuringiensin"
+    },
+    {
+        "cas_number": "1255091-74-7",
+        "inchi_key": "RPBFZGZNFDSXBT-UHFFFAOYSA-N",
+        "name": "tiapyrachlor"
+    },
+    {
+        "cas_number": "112143-82-5",
+        "inchi_key": "NKNFWVNSBIXGLL-UHFFFAOYSA-N",
+        "name": "triazamate"
+    },
+    {
+        "cas_number": "53720-80-2",
+        "inchi_key": "NFQIYHPAGNZAOO-UHFFFAOYSA-N",
+        "name": "trichlophenidine"
+    },
+    {
+        "cas_number": "1477919-27-9",
+        "inchi_key": "DBHVHTPMRCXCIY-UHFFFAOYSA-N",
+        "name": "tyclopyrazoflor"
+    }
+]
